@@ -25,6 +25,8 @@
 
 # Typechecking
 
+* Type Systems for JavaScript - Flow and TypeScript
+  http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/
 * TypeScript vs. Flow
   https://blog.mariusschulz.com/2017/01/13/typescript-vs-flow
 * TypeScript 2.0: Tagged Union Types
@@ -57,7 +59,7 @@
   https://github.com/patrick-steele-idem/morphdom
 * Mithril - A Javascript Framework for Building Brilliant Applications
   http://mithril.js.org/
-* Skate.js - library built on top of the W3C web component specs that enables you to write functional and performant web components with a very small footprint
+* Skate - library built on top of the W3C web component specs that enables you to write functional and performant web components with a very small footprint
   https://github.com/skatejs/skatejs
 * Monkberry - blazingly fast, small 1kb and simple JavaScript library for building web user interfaces
   http://monkberry.js.org/ 
@@ -73,6 +75,8 @@
   https://preactjs.com
 * Svelte - framework without the framework - the magical disappearing UI framework
   https://svelte.technology
+* Vue - The Progressive JavaScript Framework
+  https://vuejs.org
 
 # Progressive Web Applications / Offline First
 
