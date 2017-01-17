@@ -11,10 +11,24 @@
   https://github.com/hemanth/functional-programming-jargon
 * Lenses in JavaScript - nanoscope
   http://www.kovach.me/nanoscope/getting-started.html
+* Composability: from Callbacks to Categories in ES6
+  https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e#.mgthgbbac
+* Professor Frisby Introduces Composable Functional JavaScript
+  https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box
+
+# Functional Reactive Programming in JavaScript
+
+* Kefir.js - Reactive Programming library for JavaScript
+  https://rpominov.github.io/kefir/
 
 # Typechecking
 
-* TypeScript vs. Flow https://blog.mariusschulz.com/2017/01/13/typescript-vs-flow
+* TypeScript vs. Flow
+  https://blog.mariusschulz.com/2017/01/13/typescript-vs-flow
+* TypeScript 2.0: Tagged Union Types
+  https://blog.mariusschulz.com/2016/11/03/typescript-2-0-tagged-union-types
+* Migrating a 10,000-line legacy JavaScript codebase to TypeScript
+  http://www.pgbovine.net/migrating-legacy-codebase-to-typescript.htm
 
 # ES6
 
