@@ -71,6 +71,8 @@
   https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
 * React Fiber Architecture
   https://github.com/acdlite/react-fiber-architecture
+* Inferno - An extremely fast React-like JavaScript library for building modern user interfaces.
+  https://infernojs.org
 * Preact - Fast 3kB alternative to React with the same ES6 API
   https://preactjs.com
 * Svelte - framework without the framework - the magical disappearing UI framework
