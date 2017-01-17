@@ -15,6 +15,8 @@
   https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e#.mgthgbbac
 * Professor Frisby Introduces Composable Functional JavaScript
   https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box
+* Another Perspective on Promises (Promise as a category)
+  https://blog.drewolson.org/another-perspective-on-promises/
 
 # Functional Reactive Programming in JavaScript
 
@@ -101,6 +103,11 @@
   https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/
 * What’s in a Continuation
   http://jlongster.com/Whats-in-a-Continuation
+
+# Architecture
+
+* Single page apps in depth (online book)
+  http://singlepageappbook.com
 
 # Node.js
 
