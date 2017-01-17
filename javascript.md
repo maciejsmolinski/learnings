@@ -3,44 +3,60 @@
 * The State Of JavaScript
   http://stateofjs.com/2016/introduction/
 
-# V8
-
-* V8 - Performance Profiling
-  https://github.com/thlorenz/v8-perf/blob/master/performance-profiling.md
-
 # Functional Programming in JavaScript
 
 * Functional Front-End Coding
   https://begriffs.com/posts/2015-11-30-functional-front-end-coding.html
-* Lenses
-  http://www.kovach.me/nanoscope/getting-started.html
-* FP Jargon
+* Functional Programming Jargon
   https://github.com/hemanth/functional-programming-jargon
+* Lenses in JavaScript - nanoscope
+  http://www.kovach.me/nanoscope/getting-started.html
 
-# Frameworks / Tools
+# Typechecking
 
-* skate.js - Skate is a library built on top of the W3C web component specs that enables you to write functional and performant web components with a very small footprint.
-  https://github.com/skatejs/skatejs
-* tj/co The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)
+* TypeScript vs. Flow https://blog.mariusschulz.com/2017/01/13/typescript-vs-flow
+
+# ES6
+
+* A Practical Introduction to ES6 Generator Functions
+  http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html
+* ECMAScript 6 — New Features: Overview & Comparison
+  http://es6-features.org
+
+# Tools / Frameworks
+
+* tj/co - ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)
   https://github.com/tj/co
-* Monkberry is blazingly fast, small 1kb and simple JavaScript library for building web user interfaces
-http://monkberry.js.org/ 
-* Choo - Fun functional programming - A 5kb framework for creating sturdy frontend applications
-  https://github.com/yoshuawuyts/choo
-* Sammy - A general Web Framework With Class
-  http://sammyjs.org/
-* Mobx
-  http://survivejs.com/blog/mobx-interview/
+* Mobx - Simple, scalable state management
+  https://mobx.js.org
+* Redux - Predictable state container for JavaScript apps 
+  http://redux.js.org
 * Refraction - A guard that represent central point of control in your application
   https://github.com/mbasso/refraction
 * RE:DOM - Tiny DOM library
   https://github.com/pakastin/redom
+* Snabbdom - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+  https://github.com/snabbdom/snabbdom
+* Morphdom - Fast and lightweight DOM diffing/patching (no virtual DOM needed)
+  https://github.com/patrick-steele-idem/morphdom
 * Mithril - A Javascript Framework for Building Brilliant Applications
   http://mithril.js.org/
+* Skate.js - library built on top of the W3C web component specs that enables you to write functional and performant web components with a very small footprint
+  https://github.com/skatejs/skatejs
+* Monkberry - blazingly fast, small 1kb and simple JavaScript library for building web user interfaces
+  http://monkberry.js.org/ 
+* Choo - fun functional programming - A 5kb framework for creating sturdy frontend applications
+  https://github.com/yoshuawuyts/choo
+* Sammy - a general Web Framework With Class
+  http://sammyjs.org/
 * React 
   https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
 * React Fiber Architecture
   https://github.com/acdlite/react-fiber-architecture
+* Preact - Fast 3kB alternative to React with the same ES6 API
+  https://preactjs.com
+* Svelte - framework without the framework - the magical disappearing UI framework
+  https://svelte.technology
 
 # Progressive Web Applications / Offline First
 
@@ -56,28 +72,19 @@ http://monkberry.js.org/
 * Shadow DOM v1: self-contained web components
   https://developers.google.com/web/fundamentals/primers/shadowdom/
 
-# Cheatsheets
-
-* Polymer
-  https://www.cheatography.com/pawel/cheat-sheets/polymer-1-1/
-
-# Rest / Services / Querying
-
-* Jafar Husain - Falcor: One Model Everywhere at react-europe 2016
-https://www.youtube.com/watch?v=nxQweyTUj5s
-
-# Performance
+# Performance in JavaScript
 
 * setImmediate API demo
   http://jphpsf.github.io/setImmediate-shim-demo/
 
-# Good Code:
+# Abstract / Good Code / Patterns
 
 * Summary of Maintainable JavaScript Talk by Nicholas C. Zakas
   http://www.alexkras.com/summary-of-maintainable-javascript/
-
-# Abstract
-
+* Falcor: One Model Everywhere @ react-europe 2016
+  https://www.youtube.com/watch?v=nxQweyTUj5s
+* Including Front-End Web Components Into Microservices
+  https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/
 * What’s in a Continuation
   http://jlongster.com/Whats-in-a-Continuation
 
@@ -90,10 +97,10 @@ https://www.youtube.com/watch?v=nxQweyTUj5s
 * One easy way to inject malicious code in any Node.js application
   https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
 
-# Components / Services
+# V8
 
-* Including Front-End Web Components Into Microservices
-  https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/
+* V8 - Performance Profiling
+  https://github.com/thlorenz/v8-perf/blob/master/performance-profiling.md
 
 # Debugging
 
