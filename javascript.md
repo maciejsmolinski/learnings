@@ -96,8 +96,11 @@
 
 # Performance in JavaScript
 
+* JavaScript Start-up Performance
+  https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201
 * setImmediate API demo
   http://jphpsf.github.io/setImmediate-shim-demo/
+
 
 # Abstract / Good Code / Patterns
 
