@@ -4,6 +4,8 @@
 * [How I Start: Haskell](https://howistart.org/posts/haskell/1)
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 * [Haskell Concepts in One Sentence](https://torchhound.github.io/posts/haskellOneSentence.html)
+* [Practical Haskell - Using Monads](http://seanhess.github.io/2015/08/18/practical-haskell-using-monads.html)
+* [Digging into Haskell](https://blog.scottnonnenberg.com/what-s-a-monad-digging-into-haskell/)
 
 # Typeclasses / Types / Algebraic Data Types
 
@@ -27,6 +29,7 @@
 * [Haskell Book - Haskell Programming from first principles](http://haskellbook.com/)
 * [Haskell Data Analysis Cookbook - Over 130 Practical Recipes For Data Analysis and Machine Learning](http://haskelldata.com/)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929)
+* [The Joy of Haskell](https://joyofhaskell.com/blog.html)
 
 # Papers
 
@@ -42,3 +45,5 @@
 * [A founder's perspective on 4 years with Haskell](http://baatz.io/posts/haskell-in-a-startup/)
 * [Four months with Haskell](https://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/)
 * [I Released A Haskell Product!](https://jezenthomas.com/i-released-a-haskell-product/)
+* [Typed up CRUD SPA with Haskell and Elm](https://rundis.github.io/blog/tags/haskellelmspa.html)
+* [CQRS in Haskell: Command validation with Applicative Functors](https://blog.jayway.com/2014/02/25/cqrs-in-haskell-command-validation-with-applicative-functors/)
