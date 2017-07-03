@@ -13,6 +13,7 @@
 * [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
 * [The Basic, Practical Benefits of the Haskell Type System](http://mechanical-elephant.com/thoughts/2015-08-10-the-pratical-benefits-of-haskell-typesystem/)
 * [More about Algebraic Data Types](http://learn.hfm.io/recursive_datatypes.html)
+* [George Wilson - The Extended Functor Family](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
 
 # Monad Transformers
 
