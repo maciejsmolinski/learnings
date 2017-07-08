@@ -4,6 +4,7 @@
 
 # Learning Haskell
 
+* [Haskell Website](https://www.haskell.org/)
 * [Haskell-Lang Website](https://haskell-lang.org/)
 * [How I Start: Haskell](https://howistart.org/posts/haskell/1)
 * [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
