@@ -5,10 +5,10 @@
 # Learning Haskell
 
 * [Haskell Website](https://www.haskell.org/)
-* [Haskell-Lang Website](https://haskell-lang.org/)
-* [How I Start: Haskell](https://howistart.org/posts/haskell/1)
-* [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
+* [Write You a Haskell - Haskell Basics by Stephen Diehl](http://dev.stephendiehl.com/fun/001_basics.html)
+* [What I Wish I Knew When Learning Haskell by Stephen Diehl](http://dev.stephendiehl.com/hask/)
 * [Haskell Concepts in One Sentence](https://torchhound.github.io/posts/haskellOneSentence.html)
+* [How I Start: Haskell](https://howistart.org/posts/haskell/1)
 * [Practical Haskell - Using Monads](http://seanhess.github.io/2015/08/18/practical-haskell-using-monads.html)
 * [Digging into Haskell](https://blog.scottnonnenberg.com/what-s-a-monad-digging-into-haskell/)
 * [The Haskell Pyramid](https://mobile.twitter.com/lucasdicioccio/status/852974061546352642)
