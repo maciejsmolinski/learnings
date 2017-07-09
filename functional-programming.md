@@ -1,11 +1,17 @@
-# FP - Papers
+# Functional Programming
+
+## Papers
 
 * [Why Functional Programming Matters by John Hughes, 1990 (PDF)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 
-# Category Theory - Videos
+# Category Theory
+
+## Videos
 
 * [Category Theory for the Working Hacker by Philip Wadler (YouTube)](https://www.youtube.com/watch?v=V10hzjgoklA)
 
-# Lambda Calculus - Videos
+# Lambda Calculus
+
+## Videos
 
 * [Propositions as Types by Philip Wadler (YouTube)](https://www.youtube.com/watch?v=IOiZatlZtGU)
