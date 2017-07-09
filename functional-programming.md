@@ -15,3 +15,7 @@
 ## Videos
 
 * [Propositions as Types by Philip Wadler (YouTube)](https://www.youtube.com/watch?v=IOiZatlZtGU)
+
+## Articles
+
+* [Write You a Haskell - Lambda Calculus by Stephen Diehl](http://dev.stephendiehl.com/fun/003_lambda_calculus.html)
