@@ -4,4 +4,8 @@
 
 # Category Theory - Videos
 
-* [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)
+* [Category Theory for the Working Hacker by Philip Wadler (YouTube)](https://www.youtube.com/watch?v=V10hzjgoklA)
+
+# Lambda Calculus - Videos
+
+* [Propositions as Types by Philip Wadler (YouTube)](https://www.youtube.com/watch?v=IOiZatlZtGU)
