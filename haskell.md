@@ -30,6 +30,10 @@
 * [The Continuation Monad](http://www.haskellforall.com/2012/12/the-continuation-monad.html)
 * [Transient Monad Tutorial](https://github.com/transient-haskell/transient/wiki/Transient-tutorial)
 
+# Parallel and Concurrent Haskell
+
+* [Parallel and concurrent programming in Haskell - Simon Marlow at USI (YouTube)](https://www.youtube.com/watch?v=lqG3mURwUxo)
+
 # Books
 
 * [Learn you a Haskell for Great Good! A Beginner's Guide](http://learnyouahaskell.com/)
