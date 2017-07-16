@@ -25,6 +25,7 @@
 
 * [Monad Transformers Step by Step by Martin Grabmuller (PDF)](https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf)
 * [What I Wish I Knew When Learning Haskell - Monad Transformers by Stephen Diehl](http://dev.stephendiehl.com/hask/#monad-transformers)
+* [Write You a Haskell - Monad Transformers by Stephen Diehl](http://dev.stephendiehl.com/fun/001_basics.html#monad-transformers)
 * [A Gentle Introduction to Monad Transformers](https://github.com/kqr/gists/blob/master/articles/gentle-introduction-monad-transformers.md)
 * [Clean Alternatives with MaybeT](http://www.parsonsmatt.org/2016/11/18/clean_alternatives_with_maybet.html)
 
