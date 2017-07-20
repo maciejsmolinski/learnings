@@ -52,6 +52,7 @@
 
 # Parsers
 
+* [Joseph Abrahamson - Monads by Example - Parsers (YouTube)](https://www.youtube.com/watch?v=jBpCcU-0RTE)
 * [Parsing Stuff in Haskell](https://www.youtube.com/watch?v=r_Enynu_TV0)
 * [Write yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours/First_Steps)
 
