@@ -21,6 +21,7 @@
 * [More about Algebraic Data Types](http://learn.hfm.io/recursive_datatypes.html)
 * [George Wilson - The Extended Functor Family](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
 * [Matt Parsons - Proving With Types](http://www.parsonsmatt.org/2016/02/23/proving_with_types.html)
+* [Generalized Algebraic Data Types (GADT)](https://en.wikibooks.org/wiki/Haskell/GADT#GADTs)
 
 # Monad Transformers
 
