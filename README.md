@@ -7,5 +7,6 @@ A simple knowledge base consisting or resources I collected whilst learning vari
 * [Functional Programming](/functional-programming.md)
 * [Haskell](/haskell.md)
 * [JavaScript](/javascript.md)
+* [Lisp](/lisp.md)
 * [Statistics](/statistics.md)
 * [Systems Engineering](/systems-engineering.md)
