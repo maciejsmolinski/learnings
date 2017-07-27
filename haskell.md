@@ -31,6 +31,7 @@
 
 # Various Monads
 
+* [Free Monad - Cheatsheet](http://jeremymikkola.com/posts/2017_07_11_free_monad_cheatsheet.html)
 * [The Continuation Monad](http://www.haskellforall.com/2012/12/the-continuation-monad.html)
 * [Transient Monad Tutorial](https://github.com/transient-haskell/transient/wiki/Transient-tutorial)
 
