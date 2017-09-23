@@ -65,6 +65,8 @@
   http://monkberry.js.org/ 
 * Choo - fun functional programming - A 5kb framework for creating sturdy frontend applications
   https://github.com/yoshuawuyts/choo
+* Hyperapp - 1 KB JavaScript library for building frontend applications
+  https://hyperapp.js.org/
 * Sammy - a general Web Framework With Class
   http://sammyjs.org/
 * React 
