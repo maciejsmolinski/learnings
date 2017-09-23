@@ -28,6 +28,15 @@
 * JSVerify - a property-based testing library, highly inspired by QuickCheck
   http://jsverify.github.io/
 
+# Serverless
+
+* Webtask.io - Make serverless endpoints
+  https://webtask.io/
+* Building Serverless Apps with Webtask.io
+  https://auth0.com/blog/building-serverless-apps-with-webtask/
+* Can I require on webtask.io?
+  https://tehsis.github.io/webtaskio-canirequire/
+
 # Typechecking
 
 * Type Systems for JavaScript - Flow and TypeScript
