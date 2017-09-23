@@ -94,13 +94,16 @@
 * Shadow DOM v1: self-contained web components
   https://developers.google.com/web/fundamentals/primers/shadowdom/
 
-# Performance in JavaScript
+# Performance
 
+* Modern DevTools: Running a performance profile on the YouTube search box
+  https://www.youtube.com/watch?v=E4KAWf_fKbM
 * JavaScript Start-up Performance
   https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201
 * setImmediate API demo
   http://jphpsf.github.io/setImmediate-shim-demo/
-
+* V8 - Performance Profiling
+  https://github.com/thlorenz/v8-perf/blob/master/performance-profiling.md
 
 # Abstract / Good Code / Patterns
 
@@ -127,10 +130,6 @@
 * One easy way to inject malicious code in any Node.js application
   https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
 
-# V8
-
-* V8 - Performance Profiling
-  https://github.com/thlorenz/v8-perf/blob/master/performance-profiling.md
 
 # Debugging
 
