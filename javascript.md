@@ -138,6 +138,8 @@
 
 * Single page apps in depth (online book)
   http://singlepageappbook.com
+* Get to know the Actor Model
+  https://monades.roperzh.com/get-to-know-the-actor-model/
 
 # Node.js
 
