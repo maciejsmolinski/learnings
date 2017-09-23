@@ -23,6 +23,11 @@
 * Kefir.js - Reactive Programming library for JavaScript
   https://rpominov.github.io/kefir/
 
+# Testing
+
+* JSVerify - a property-based testing library, highly inspired by QuickCheck
+  http://jsverify.github.io/
+
 # Typechecking
 
 * Type Systems for JavaScript - Flow and TypeScript
@@ -67,6 +72,8 @@
   https://github.com/yoshuawuyts/choo
 * Hyperapp - 1 KB JavaScript library for building frontend applications
   https://hyperapp.js.org/
+* Stencil - The magical, reusable web component generator
+  https://stenciljs.com/
 * Sammy - a general Web Framework With Class
   http://sammyjs.org/
 * React 
