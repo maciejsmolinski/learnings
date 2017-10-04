@@ -36,4 +36,6 @@
 
 # Type Systems
 
+## Articles
+
 * [The type system of mathematics](https://qchu.wordpress.com/2013/05/28/the-type-system-of-mathematics/)
