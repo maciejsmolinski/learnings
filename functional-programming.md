@@ -1,5 +1,11 @@
 # Functional Programming
 
+## Books
+
+* [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html)
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
+* [How to Design Programs](http://www.htdp.org/)
+
 ## General Information
 
 * [Standardized Ladder of Functional Programming](http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf)
