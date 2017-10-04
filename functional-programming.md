@@ -33,3 +33,7 @@
 ## Articles
 
 * [Write You a Haskell - Lambda Calculus by Stephen Diehl](http://dev.stephendiehl.com/fun/003_lambda_calculus.html)
+
+# Type Systems
+
+* [The type system of mathematics](https://qchu.wordpress.com/2013/05/28/the-type-system-of-mathematics/)
