@@ -5,6 +5,7 @@
 # Learning Haskell
 
 * [Haskell Website](https://www.haskell.org/)
+* [Advice for Haskell beginners](http://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html)
 * [Write You a Haskell - Haskell Basics by Stephen Diehl](http://dev.stephendiehl.com/fun/001_basics.html)
 * [What I Wish I Knew When Learning Haskell by Stephen Diehl](http://dev.stephendiehl.com/hask/)
 * [Haskell Concepts in One Sentence](https://torchhound.github.io/posts/haskellOneSentence.html)
@@ -13,6 +14,7 @@
 * [Digging into Haskell](https://blog.scottnonnenberg.com/what-s-a-monad-digging-into-haskell/)
 * [The Haskell Pyramid](https://mobile.twitter.com/lucasdicioccio/status/852974061546352642)
 * [Railway Oriented Programming — error handling in functional languages by Scott Wlaschin [F#/Haskell]](https://vimeo.com/97344498)
+
 
 # Typeclasses / Types / Algebraic Data Types
 
