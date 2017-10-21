@@ -39,3 +39,9 @@
 ## Articles
 
 * [The type system of mathematics](https://qchu.wordpress.com/2013/05/28/the-type-system-of-mathematics/)
+
+# Computational Effects
+
+## Resource Collections
+
+* [A collaborative bibliography of work related to the theory and practice of computational effects](https://github.com/yallop/effects-bibliography)
