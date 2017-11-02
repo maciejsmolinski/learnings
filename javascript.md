@@ -25,6 +25,8 @@
 
 # Testing
 
+* Mocking is a Code Smell
+  https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
 * JSVerify - a property-based testing library, highly inspired by QuickCheck
   http://jsverify.github.io/
 
