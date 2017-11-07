@@ -68,10 +68,11 @@
 
 * [Servant – A Type-Level Web DSL](http://haskell-servant.readthedocs.io/en/stable/index.html)
 
-# Haskell in Production / Practice
+# Practical Haskell
 
 * [A founder's perspective on 4 years with Haskell](http://baatz.io/posts/haskell-in-a-startup/)
 * [Four months with Haskell](https://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/)
 * [I Released A Haskell Product!](https://jezenthomas.com/i-released-a-haskell-product/)
 * [Typed up CRUD SPA with Haskell and Elm](https://rundis.github.io/blog/tags/haskellelmspa.html)
 * [CQRS in Haskell: Command validation with Applicative Functors](https://blog.jayway.com/2014/02/25/cqrs-in-haskell-command-validation-with-applicative-functors/)
+* [Refactoring to pure code and dealing with exceptions](http://www.andrevdm.com/posts/2017-10-31-refactor-away-io.html)
