@@ -4,7 +4,6 @@ A simple knowledge base consisting or resources I collected whilst learning vari
 
 * [Assembly](/assembly.md)
 * [Compile to JavaScript](/compile-to-javascript.md)
-* [Customer Experience](/customer-experience.md)
 * [Functional Programming](/functional-programming.md)
 * [Haskell](/haskell.md)
 * [JavaScript](/javascript.md)
