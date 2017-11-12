@@ -9,5 +9,6 @@ A simple knowledge base consisting or resources I collected whilst learning vari
 * [Haskell](/haskell.md)
 * [JavaScript](/javascript.md)
 * [Lisp](/lisp.md)
+* [Product](/product.md)
 * [Statistics](/statistics.md)
 * [Systems Engineering](/systems-engineering.md)
