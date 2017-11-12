@@ -58,6 +58,8 @@
   http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html
 * ECMAScript 6 — New Features: Overview & Comparison
   http://es6-features.org
+* FlyWeb - API for web pages to host local web servers for exposing content and services to nearby browsers
+  https://flyweb.github.io/posts/2016/11/01/introducing-flyweb.html
 
 # Tools / Frameworks
 
