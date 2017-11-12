@@ -9,6 +9,8 @@
   https://begriffs.com/posts/2015-11-30-functional-front-end-coding.html
 * Functional Programming Jargon
   https://github.com/hemanth/functional-programming-jargon
+* Folktale - A standard library for functional programming in JavaScript
+  http://folktale.origamitower.com/
 * Lenses in JavaScript - nanoscope
   http://www.kovach.me/nanoscope/getting-started.html
 * Composability: from Callbacks to Categories in ES6
