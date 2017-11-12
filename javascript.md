@@ -61,6 +61,8 @@
 
 * tj/co - ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)
   https://github.com/tj/co
+* dollarshaveclub/postmate - a powerful, simple, promise-based postMessage library
+  https://github.com/dollarshaveclub/postmate
 * Mobx - Simple, scalable state management
   https://mobx.js.org
 * Redux - Predictable state container for JavaScript apps 
