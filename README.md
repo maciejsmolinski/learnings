@@ -12,3 +12,4 @@ A simple knowledge base consisting or resources I collected whilst learning vari
 * [Product](/product.md)
 * [Statistics](/statistics.md)
 * [Systems Engineering](/systems-engineering.md)
+* [Web Applications](/web-applications.md)
