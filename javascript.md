@@ -11,7 +11,7 @@
   https://github.com/hemanth/functional-programming-jargon
 * Folktale - A standard library for functional programming in JavaScript
   http://folktale.origamitower.com/
-* Sanctuary - Refuge from unsafe JavaScript
+* Sanctuary - a JavaScript functional programming library inspired by Haskell and PureScript
   https://sanctuary.js.org/
 * Lenses in JavaScript - nanoscope
   http://www.kovach.me/nanoscope/getting-started.html
