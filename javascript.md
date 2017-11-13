@@ -163,6 +163,8 @@
   https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
 * Server.js - a powerful server for Node.js that just works
   https://serverjs.io/
+* Node Foreman - a manager for Procfile-based applications
+  https://github.com/strongloop/node-foreman
 
 # Debugging
 
