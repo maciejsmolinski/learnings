@@ -13,9 +13,11 @@
   http://folktale.origamitower.com/
 * Sanctuary - a JavaScript functional programming library inspired by Haskell and PureScript
   https://sanctuary.js.org/
+* Ramda - A practical functional library for JavaScript programmers
+  http://ramdajs.com/
 * Matches.js - Powerful pattern matching for Javascript
   https://github.com/natefaubion/matches.js
-* Lenses in JavaScript - nanoscope
+* Nanoscope - Lenses in JavaScript
   http://www.kovach.me/nanoscope/getting-started.html
 * Composability: from Callbacks to Categories in ES6
   https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e#.mgthgbbac
