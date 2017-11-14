@@ -11,6 +11,8 @@
   http://digitalpsychology.io/
 * Mental Notes - bring a little psychology to web design
   http://getmentalnotes.com/
+* Bite-size behavioural research analysis
+  http://coglode.com/
 
 ## Online Articles
 
