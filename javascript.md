@@ -13,6 +13,8 @@
   http://folktale.origamitower.com/
 * Sanctuary - a JavaScript functional programming library inspired by Haskell and PureScript
   https://sanctuary.js.org/
+* Matches.js - Powerful pattern matching for Javascript
+  https://github.com/natefaubion/matches.js
 * Lenses in JavaScript - nanoscope
   http://www.kovach.me/nanoscope/getting-started.html
 * Composability: from Callbacks to Categories in ES6
