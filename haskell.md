@@ -16,6 +16,7 @@
 * [Digging into Haskell](https://blog.scottnonnenberg.com/what-s-a-monad-digging-into-haskell/)
 * [The Haskell Pyramid](https://mobile.twitter.com/lucasdicioccio/status/852974061546352642)
 * [Railway Oriented Programming — error handling in functional languages by Scott Wlaschin [F#/Haskell]](https://vimeo.com/97344498)
+* [Thinking Functionally with Haskell](https://pragprog.com/magazines/2012-09/thinking-functionally-with-haskell)
 
 
 # Typeclasses / Types / Algebraic Data Types
