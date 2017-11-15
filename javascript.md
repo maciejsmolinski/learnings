@@ -171,6 +171,8 @@
   https://serverjs.io/
 * Node Foreman - a manager for Procfile-based applications
   https://github.com/strongloop/node-foreman
+* Node.js best practices - A curated list from the top ranked articles and always updated
+  https://github.com/i0natan/nodebestpractices#2-error-handling-practices
 
 # Debugging
 
