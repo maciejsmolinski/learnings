@@ -7,6 +7,7 @@
 * [Haskell Website](https://www.haskell.org/)
 * [Haskell API search engine](https://www.haskell.org/hoogle/)
 * [Advice for Haskell beginners](http://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html)
+* [What is your review of Haskell (programming language)?](https://www.quora.com/What-is-your-review-of-Haskell-programming-language)
 * [Write You a Haskell - Haskell Basics by Stephen Diehl](http://dev.stephendiehl.com/fun/001_basics.html)
 * [What I Wish I Knew When Learning Haskell by Stephen Diehl](http://dev.stephendiehl.com/hask/)
 * [Haskell Concepts in One Sentence](https://torchhound.github.io/posts/haskellOneSentence.html)
