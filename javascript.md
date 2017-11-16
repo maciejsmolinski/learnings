@@ -97,6 +97,8 @@
   https://github.com/yoshuawuyts/choo
 * Hyperapp - 1 KB JavaScript library for building frontend applications
   https://hyperapp.js.org/
+* Moon - A minimal, blazing fast user interface library
+  http://moonjs.ga/
 * Stencil - The magical, reusable web component generator
   https://stenciljs.com/
 * Sammy - a general Web Framework With Class
