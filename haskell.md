@@ -15,6 +15,7 @@
 * [How I Start: Haskell](https://howistart.org/posts/haskell/1)
 * [Practical Haskell - Getting Started with Stack](http://seanhess.github.io/2015/08/04/practical-haskell-getting-started.html)
 * [Practical Haskell - Using Monads](http://seanhess.github.io/2015/08/18/practical-haskell-using-monads.html)
+* [The Trivial Monad](http://blog.sigfpe.com/2007/04/trivial-monad.html)
 * [Digging into Haskell](https://blog.scottnonnenberg.com/what-s-a-monad-digging-into-haskell/)
 * [The Haskell Pyramid](https://mobile.twitter.com/lucasdicioccio/status/852974061546352642)
 * [Railway Oriented Programming — error handling in functional languages by Scott Wlaschin [F#/Haskell]](https://vimeo.com/97344498)
