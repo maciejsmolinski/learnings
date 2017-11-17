@@ -1,19 +1,26 @@
 ## PureScript
 
-* http://www.purescript.org
+* Official Website
+  http://www.purescript.org
+* "PureScript by Example" by Phil Freeman
+  https://leanpub.com/purescript
 
 ## Elm 
 
-* http://elm-lang.org
+* Official Website
+  http://elm-lang.org
 
 ## ReasonML
 
-* https://reasonml.github.io/
+* Official Website
+  https://reasonml.github.io/
 
 ## BuckleScript
 
-* https://bloomberg.github.io/bucklescript/
+* Official Website
+  http://bucklescript.github.io/bucklescript/
 
 ## Dart
 
-* https://www.dartlang.org
+* Official Website
+  https://www.dartlang.org
