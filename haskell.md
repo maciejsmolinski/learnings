@@ -68,9 +68,10 @@
 * [Parsing Stuff in Haskell](https://www.youtube.com/watch?v=r_Enynu_TV0)
 * [Write yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours/First_Steps)
 
-# Web
+# Libraries
 
 * [Servant – A Type-Level Web DSL](http://haskell-servant.readthedocs.io/en/stable/index.html)
+* [Duckling is a Haskell library that parses text into structured data](https://github.com/facebook/duckling)
 
 # Practical Haskell
 
