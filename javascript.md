@@ -68,6 +68,8 @@
   http://es6-features.org
 * FlyWeb - API for web pages to host local web servers for exposing content and services to nearby browsers
   https://flyweb.github.io/posts/2016/11/01/introducing-flyweb.html
+* WebExtensions API - a cross-browser system for developing extensions
+  https://developer.mozilla.org/en-US/Add-ons/WebExtensions
 
 # Tools / Frameworks
 
