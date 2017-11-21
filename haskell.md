@@ -83,4 +83,5 @@
 * [Typed up CRUD SPA with Haskell and Elm](https://rundis.github.io/blog/tags/haskellelmspa.html)
 * [CQRS in Haskell: Command validation with Applicative Functors](https://blog.jayway.com/2014/02/25/cqrs-in-haskell-command-validation-with-applicative-functors/)
 * [Refactoring to pure code and dealing with exceptions](http://www.andrevdm.com/posts/2017-10-31-refactor-away-io.html)
+* [Finite-State Machines, Part 1: Modeling with Haskell Data Types](https://wickstrom.tech/finite-state-machines/2017/11/10/finite-state-machines-part-1-modeling-with-haskell.html)
 * [Exceptions best practices in Haskell](https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell)
