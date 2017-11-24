@@ -87,3 +87,4 @@
 * [Finite-State Machines, Part 2: Explicit Typed State Transitions](https://wickstrom.tech/finite-state-machines/2017/11/19/finite-state-machines-part-2.html)
 * [Real World Haskell - Software transactional memory](http://book.realworldhaskell.org/read/software-transactional-memory.html)
 * [Exceptions best practices in Haskell](https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell)
+* [Joys & frustrations of putting 34,000 lines of Haskell into production](https://docs.google.com/presentation/d/1ggTVXzqCxcmkV5mKUH_gtl0ADUMvSMmhZlWfx_w7-wU)
