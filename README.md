@@ -2,6 +2,7 @@
 
 A simple knowledge base consisting or resources I collected whilst learning various things
 
+* [Agile Software Development](/agile-software-development.md)
 * [Assembly](/assembly.md)
 * [Compile to JavaScript](/compile-to-javascript.md)
 * [Functional Programming](/functional-programming.md)
