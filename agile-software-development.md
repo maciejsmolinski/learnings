@@ -26,3 +26,7 @@
   http://www.gettingagile.com/2008/07/04/affinity-estimating-a-how-to/
 * Planning Poker - Estimates made easy 
   https://www.planningpoker.com/
+* 8 useful strategies for splitting large user stories (and a cheatsheet)
+  https://blog.agilistic.nl/8-useful-strategies-for-splitting-large-user-stories-and-a-cheatsheet/
+* Patterns for Splitting User Stories
+  http://agileforall.com/patterns-for-splitting-user-stories/
