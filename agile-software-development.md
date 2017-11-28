@@ -10,7 +10,7 @@
 
 ## Product Ownership
 
-* Agile Product Ownership in a Nutshell
+* Agile Product Ownership in a Nutshell (YouTube)
   https://www.youtube.com/watch?v=502ILHjX9EE
 
 ## Continuous Learning & Tools
@@ -32,6 +32,8 @@
   http://agileforall.com/patterns-for-splitting-user-stories/
 * The Power of a Whiteboard
   https://www.101ways.com/the-power-of-a-whiteboard/
+* Impact Mapping (YouTube)
+  https://www.youtube.com/watch?v=GnK_n9Udhhs
 
 ## Methodologies
 
