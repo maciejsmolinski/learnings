@@ -34,6 +34,8 @@
   https://www.101ways.com/the-power-of-a-whiteboard/
 * Impact Mapping (YouTube)
   https://www.youtube.com/watch?v=GnK_n9Udhhs
+* Impact Mapping: Making a big impact with software products and projects (Book)
+  https://www.impactmapping.org/book.html
 
 ## Methodologies
 
