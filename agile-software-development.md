@@ -39,3 +39,5 @@
 
 * Scrum - The Scrum Primer 
   http://scrumprimer.org/
+* Scrum - The Scrum Checklist (PDF)
+  https://www.crisp.se/file-uploads/scrum-checklist.pdf
