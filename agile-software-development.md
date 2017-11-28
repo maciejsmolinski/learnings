@@ -18,7 +18,7 @@
 * MindSettlers - Solve team problems faster. Make change stick.  Find new practices, experiment, analyze, engage.
   https://www.mindsettlers.com/
   
-## Methods & Techniques
+## Methods & Techniques & Tools
 
 * The Cone of Uncertainty
   http://jesusgilhernandez.com/2012/11/01/the-cone-of-uncertainty/
@@ -30,3 +30,10 @@
   https://blog.agilistic.nl/8-useful-strategies-for-splitting-large-user-stories-and-a-cheatsheet/
 * Patterns for Splitting User Stories
   http://agileforall.com/patterns-for-splitting-user-stories/
+* The Power of a Whiteboard
+  https://www.101ways.com/the-power-of-a-whiteboard/
+
+## Methodologies
+
+* Scrum - The Scrum Primer 
+  http://scrumprimer.org/
