@@ -40,7 +40,9 @@
   https://www.scrumalliance.org/community/articles/2011/september/five-tips-for-impediment-resolution-with-scrum
 * Lean Principle #4 – Defer Commitment
   https://www.101ways.com/lean-principles-4-defer-commitment/
-
+* Two Important Coaching Practices to Be a Successful ScrumMaster
+  https://www.scrumalliance.org/community/articles/2014/june/two-important-coaching-practices-to-be-a-successfu
+  
 ## Methodologies
 
 * Scrum - The Scrum Primer 
