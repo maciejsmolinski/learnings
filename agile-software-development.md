@@ -36,6 +36,10 @@
   https://www.youtube.com/watch?v=GnK_n9Udhhs
 * Impact Mapping: Making a big impact with software products and projects (Book)
   https://www.impactmapping.org/book.html
+* Five Tips for Impediment Resolution with Scrum
+  https://www.scrumalliance.org/community/articles/2011/september/five-tips-for-impediment-resolution-with-scrum
+* Lean Principle #4 – Defer Commitment
+  https://www.101ways.com/lean-principles-4-defer-commitment/
 
 ## Methodologies
 
