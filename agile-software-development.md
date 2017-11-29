@@ -52,3 +52,5 @@
   http://scrumprimer.org/
 * Scrum - The Scrum Checklist (PDF)
   https://www.crisp.se/file-uploads/scrum-checklist.pdf
+* Scrum - Self-Organization: The Secret Sauce for Improving your Scrum team (YouTube)
+  https://www.youtube.com/watch?v=M1q6b9JI2Wc
