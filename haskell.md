@@ -88,3 +88,4 @@
 * [Real World Haskell - Software transactional memory](http://book.realworldhaskell.org/read/software-transactional-memory.html)
 * [Exceptions best practices in Haskell](https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell)
 * [Joys & frustrations of putting 34,000 lines of Haskell into production](https://docs.google.com/presentation/d/1ggTVXzqCxcmkV5mKUH_gtl0ADUMvSMmhZlWfx_w7-wU)
+* [Anatomy of a Haskell-based Application, Revisited](https://tech-blog.capital-match.com/posts/3-anatomy-of-haskell-web-app.html)
