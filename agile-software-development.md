@@ -42,6 +42,8 @@
   https://www.101ways.com/lean-principles-4-defer-commitment/
 * Two Important Coaching Practices to Be a Successful ScrumMaster
   https://www.scrumalliance.org/community/articles/2014/june/two-important-coaching-practices-to-be-a-successfu
+* Coaching a Scrum Master on a Struggling Team
+  http://illustratedagile.com/2012/08/21/coaching-scrum-masters-on-struggling-teams/
 * NeuroAgile quick links #10 - A collection of links to interesting research from the world of neuroscience and behavioural psychology
   https://agilepainrelief.com/notesfromatooluser/2015/02/neuroagile-quick-links-10.html
   
