@@ -5,6 +5,7 @@ A simple knowledge base consisting or resources I collected whilst learning vari
 * [Agile Software Development](/agile-software-development.md)
 * [Assembly](/assembly.md)
 * [Compile to JavaScript](/compile-to-javascript.md)
+* [Erlang](/erlang.md)
 * [Functional Programming](/functional-programming.md)
 * [Haskell](/haskell.md)
 * [JavaScript](/javascript.md)
