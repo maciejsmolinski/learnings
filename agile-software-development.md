@@ -50,6 +50,8 @@
   https://agilepainrelief.com/notesfromatooluser/2015/02/neuroagile-quick-links-10.html
 * Lean Software Development — Building and Shipping Two Versions
   http://queue.acm.org/detail.cfm?id=2841311
+* Making Your Boss Happy Is a False Objective
+  http://www.yegor256.com/2015/01/26/happy-boss-false-objective.html
   
 ## Methodologies
 
