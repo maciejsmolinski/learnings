@@ -24,6 +24,10 @@
 
 * [Category Theory for the Working Hacker by Philip Wadler (YouTube)](https://www.youtube.com/watch?v=V10hzjgoklA)
 
+## Articles
+
+* [From design patterns to category theory](http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/)
+
 # Lambda Calculus
 
 ## Videos
