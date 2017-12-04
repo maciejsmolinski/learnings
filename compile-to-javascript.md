@@ -19,6 +19,8 @@
 
 * Official Website
   http://bucklescript.github.io/bucklescript/
+* Interop Cheatsheet
+  https://bucklescript.github.io/docs/en/interop-cheatsheet.html
 
 ## Dart
 
