@@ -21,10 +21,15 @@
   http://www.kovach.me/nanoscope/getting-started.html
 * Composability: from Callbacks to Categories in ES6
   https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e#.mgthgbbac
-* Professor Frisby Introduces Composable Functional JavaScript
-  https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box
 * Another Perspective on Promises (Promise as a category)
   https://blog.drewolson.org/another-perspective-on-promises/
+
+# Online Courses
+
+* Advanced React Component Patterns
+  https://egghead.io/courses/advanced-react-component-patterns
+* Professor Frisby Introduces Composable Functional JavaScript
+  https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box
 
 # Functional Reactive Programming in JavaScript
 
