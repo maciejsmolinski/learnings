@@ -1,13 +1,13 @@
 # Web Applications
 
-# Architecture
+## Architecture
 
 * Resource-oriented client architecture
   http://roca-style.org/
 * The Twelve-Factor App
   https://12factor.net/
 
-# Performance
+## Performance
 
 * Essential Image Optimization - An eBook by Addy Osmani
   https://images.guide/
