@@ -6,6 +6,8 @@
   http://roca-style.org/
 * The Twelve-Factor App
   https://12factor.net/
+* Micro Frontends - extending the microservice idea to frontend development
+  https://micro-frontends.org/
 
 ## Performance
 
