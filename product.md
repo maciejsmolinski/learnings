@@ -9,6 +9,8 @@
 
 * Product Frameworks - A collection of tips, resources and best practices from leading companies and experts to help you build products
   https://www.product-frameworks.com/
+* Solve the Product Maze Backwards
+  https://adamnash.blog/2017/07/25/solve-the-product-maze-backwards/
 
 ## Digital Psychology / Mental Notes / User Behaviour
 
@@ -18,11 +20,6 @@
   http://getmentalnotes.com/
 * Bite-size behavioural research analysis
   http://coglode.com/
-
-## Online Articles
-
-* Solve the Product Maze Backwards
-  https://adamnash.blog/2017/07/25/solve-the-product-maze-backwards/
 
 ## Behaviour Tracking & Segmentation
 
