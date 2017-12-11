@@ -5,6 +5,11 @@
 * Intercom on Product Management
   https://www.intercom.com/books/product-management
 
+## Product Frameworks
+
+* Product Frameworks - A collection of tips, resources and best practices from leading companies and experts to help you build products
+  https://www.product-frameworks.com/
+
 ## Digital Psychology / Mental Notes / User Behaviour
 
 * Digital Psychology – a free library of psychological principles and examples for inspiration to enhance the customer experience and influence your user's behavior 
