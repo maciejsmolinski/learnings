@@ -8,6 +8,8 @@
   https://12factor.net/
 * Micro Frontends - extending the microservice idea to frontend development
   https://micro-frontends.org/
+* Zero to Production-Ready in Minutes (Netflix)
+  https://www.infoq.com/presentations/netflix-deployment-practices
 
 ## Performance
 
