@@ -147,6 +147,8 @@
   http://jphpsf.github.io/setImmediate-shim-demo/
 * V8 - Performance Profiling
   https://github.com/thlorenz/v8-perf/blob/master/performance-profiling.md
+* React Performance Fixes on Airbnb Listing Pages
+  https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4
 
 # Abstract / Good Code / Patterns
 
