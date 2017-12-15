@@ -11,6 +11,8 @@
   https://www.product-frameworks.com/
 * Solve the Product Maze Backwards
   https://adamnash.blog/2017/07/25/solve-the-product-maze-backwards/
+* Google Ventures - The Design Sprint
+  http://www.gv.com/sprint/
 
 ## Digital Psychology / Mental Notes / User Behaviour
 
