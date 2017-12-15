@@ -12,6 +12,7 @@ A simple knowledge base consisting or resources I collected whilst learning vari
 * [Learning](/learning.md)
 * [Lisp](/lisp.md)
 * [Product](/product.md)
+* [Software Craftsmanship](/software-craftsmanship.md)
 * [Statistics](/statistics.md)
 * [Systems Engineering](/systems-engineering.md)
 * [Web Applications](/web-applications.md)
