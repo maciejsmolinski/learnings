@@ -49,3 +49,12 @@
 ## Resource Collections
 
 * [A collaborative bibliography of work related to the theory and practice of computational effects](https://github.com/yallop/effects-bibliography)
+
+## Articles
+
+* Coeffects The next big programming challenge by Tomas Petricek ([www](http://tomasp.net/blog/2014/why-coeffects-matter/))
+
+## Interactive Playground
+
+* Coeffects: Context-aware programming languages by Tomas Petricek ([www](http://tomasp.net/coeffects/))
+
