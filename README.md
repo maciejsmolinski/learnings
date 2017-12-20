@@ -1,6 +1,6 @@
 # Learnings
 
-A simple knowledge base consisting or resources I collected whilst learning various things
+A simple knowledge base consisting of resources I collected whilst learning various things
 
 * [Agile Software Development](/agile-software-development.md)
 * [Assembly](/assembly.md)
