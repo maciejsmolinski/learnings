@@ -52,7 +52,9 @@
   http://queue.acm.org/detail.cfm?id=2841311
 * Making Your Boss Happy Is a False Objective
   http://www.yegor256.com/2015/01/26/happy-boss-false-objective.html
-  
+* Avoid headaches: Use an Agile issue-type decision tree
+  https://blog.arcbees.com/2015/06/02/agile-decision-tree/
+
 ## Methodologies
 
 * Scrum - The Scrum Primer 
