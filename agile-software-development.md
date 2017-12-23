@@ -65,3 +65,8 @@
   https://www.youtube.com/watch?v=M1q6b9JI2Wc
 * The Design Sprint (Google Ventures)
   http://www.gv.com/sprint/
+
+## Case Studies / Practical Examples / Patterns and Learnings
+
+* Deliver software faster by managing work in progress, not by adding overtime
+  https://developers.soundcloud.com/blog/deliver-software-faster-by-managing-work-in-progress-not-by-adding-overtime
