@@ -45,3 +45,5 @@
   https://sentry.io/
 * Rollbar.com - Catch Errors Before Your Users Do
   https://rollbar.com/
+* BugSnag - Error reporting, monitoring, and resolution with Bugsnag
+  https://www.bugsnag.com/
