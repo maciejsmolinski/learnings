@@ -16,4 +16,5 @@ A simple knowledge base consisting of resources I collected whilst learning vari
 * [Software Craftsmanship](/software-craftsmanship.md)
 * [Statistics](/statistics.md)
 * [Systems Engineering](/systems-engineering.md)
+* [Tools](/tools.md)
 * [Web Applications](/web-applications.md)
