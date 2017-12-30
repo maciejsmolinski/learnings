@@ -13,7 +13,7 @@
   ([pdf summary](http://web.archive.org/web/20160305224820/http://www.u-leadership.com/the_21_irrefutable_laws_of_leadership-w.pdf))
 * The 21 Indispensable Qualities of a Leader: Becoming the Person Others Will Want to Follow  
   ([pdf slides](http://www.ansc.purdue.edu/courses/communicationskills/LeaderQualities.pdf), [pdf summary](http://library.sd.gov/lib/dev/training/institute/2011/files/bushing-21qualities.pdf))
-* The People Leader Imperatives  
+* The People Leader Imperatives  
   ([pdf](http://www.ddiworld.com/ddi/media/white-papers/peopleleaderimperatives_wp_ddi.pdf?ext=.pdf))
 * Leadership vs. Management  
   ([www](http://changingminds.org/disciplines/leadership/articles/manager_leader.htm))
