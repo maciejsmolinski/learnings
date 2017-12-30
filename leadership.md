@@ -7,7 +7,9 @@
 
 ## Leadership Resources
 
-* The People Leader Imperatives  
+* The Five Dysfunctions of a Team  
+  ([book](https://www.tablegroup.com/books/dysfunctions/))
+* The People Leader Imperatives  
   ([pdf](http://www.ddiworld.com/ddi/media/white-papers/peopleleaderimperatives_wp_ddi.pdf?ext=.pdf))
 * Leadership vs. Management  
   ([www](http://changingminds.org/disciplines/leadership/articles/manager_leader.htm))
