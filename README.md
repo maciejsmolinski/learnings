@@ -9,6 +9,7 @@ A simple knowledge base consisting of resources I collected whilst learning vari
 * [Functional Programming](/functional-programming.md)
 * [Haskell](/haskell.md)
 * [JavaScript](/javascript.md)
+* [Leadership](/leadership.md)
 * [Learning](/learning.md)
 * [Lisp](/lisp.md)
 * [Logic Programming](/logic-programming.md)
