@@ -4,6 +4,8 @@
 
 * ABC: Always Be Coding
   https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2
+* Always. Be. Shipping.
+  https://blog.codinghorror.com/yes-but-what-have-you-done/
 
 ## Articles / Good Practices
 
