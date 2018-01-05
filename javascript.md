@@ -4,6 +4,8 @@
   http://stateofjs.com/2016/introduction/
 * The State Of JavaScript 2017
   http://stateofjs.com/2017/introduction/
+* Robust Client-Side JavaScript - A Developer’s Guide
+  https://molily.de/robust-javascript/
 
 # Functional Programming in JavaScript
 
