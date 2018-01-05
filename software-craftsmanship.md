@@ -13,6 +13,8 @@
   https://existentialtype.wordpress.com/2011/03/15/boolean-blindness/
 * Primitive Obsession
   http://wiki.c2.com/?PrimitiveObsession
+* Failing Fast
+  https://molily.de/robust-javascript/#failing-fast https://martinfowler.com/ieeeSoftware/failFast.pdf
 
 ## End Goal
 
