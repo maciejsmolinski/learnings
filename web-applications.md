@@ -19,3 +19,8 @@
   https://images.guide/
 * Image Analysis Tool (Website Speed Test)
   https://webspeedtest.cloudinary.com/
+
+## Books
+
+* The Complete NGINX Cookbook
+  https://www.nginx.com/resources/library/complete-nginx-cookbook/
