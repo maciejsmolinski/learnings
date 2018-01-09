@@ -14,6 +14,7 @@ A simple knowledge base consisting of resources I collected whilst learning vari
 * [Lisp](/lisp.md)
 * [Logic Programming](/logic-programming.md)
 * [Product](/product.md)
+* [Quotes](/quotes.md)
 * [Software Craftsmanship](/software-craftsmanship.md)
 * [Statistics](/statistics.md)
 * [Systems Engineering](/systems-engineering.md)
