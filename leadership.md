@@ -9,6 +9,8 @@
 
 * John C. Maxwell - Law Of Influence!  
   ([video](https://www.youtube.com/watch?v=MmwdqDOeAbA))
+* John C. Maxwell - The 5 Levels of Leadership  
+([video](https://www.youtube.com/watch?v=MmwdqDOeAbA))
 * The 21 Irrefutable Laws of Leadership by John C. Maxwell  
   ([pdf summary](http://web.archive.org/web/20160305224820/http://www.u-leadership.com/the_21_irrefutable_laws_of_leadership-w.pdf))
 * The 21 Indispensable Qualities of a Leader: Becoming the Person Others Will Want to Follow  
