@@ -1,4 +1,4 @@
-# Programming Paradigms and Learninig to Program
+# Programming Paradigms and Learning to Program
 
 * Learnable Programming
   http://worrydream.com/LearnableProgramming/
