@@ -15,7 +15,7 @@ A simple knowledge base consisting of resources I collected whilst learning vari
 * [Logic Programming](/logic-programming.md)
 * [Maths](/maths.md)
 * [Product](/product.md)
-* [Programming Paradigms and Learninig to Program](/programming-paradigms-and-learning-to-program.md)
+* [Programming Paradigms and Learning to Program](/programming-paradigms-and-learning-to-program.md)
 * [Quotes](/quotes.md)
 * [Software Craftsmanship](/software-craftsmanship.md)
 * [Statistics](/statistics.md)
