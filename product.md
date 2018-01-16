@@ -52,3 +52,5 @@
   https://rollbar.com/
 * BugSnag - Error reporting, monitoring, and resolution with Bugsnag
   https://www.bugsnag.com/
+* TrackJS - Fix Your JavaScript. Track Error Context. Actually Fix Bugs
+  https://trackjs.com/
