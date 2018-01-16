@@ -14,6 +14,8 @@
 
 * Official Website
   https://reasonml.github.io/
+* ReasonML - Mixing ReasonML into your React apps, Robbie McCorkell
+  https://www.youtube.com/watch?v=gZweJw_egaE
 
 ## BuckleScript
 
