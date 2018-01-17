@@ -82,6 +82,10 @@
 
 # Tools / Frameworks
 
+* Next.js - Framework for server-rendered or statically-exported React apps
+  https://github.com/zeit/next.js/
+* Learn Next.js - build server rendered JS web apps with React
+  https://learnnextjs.com/
 * tj/co - ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)
   https://github.com/tj/co
 * dollarshaveclub/postmate - a powerful, simple, promise-based postMessage library
@@ -180,6 +184,10 @@
 
 # Node.js
 
+* Next.js - Framework for server-rendered or statically-exported React apps
+  https://github.com/zeit/next.js/
+* Learn Next.js - build server rendered JS web apps with React
+  https://learnnextjs.com/
 * Experiments with Koa and JavaScript Generators
   http://blog.stevensanderson.com/2013/12/21/experiments-with-koa-and-javascript-generators/
 * Hates Node.js
