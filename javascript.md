@@ -48,6 +48,8 @@
   http://jsverify.github.io/
 * Cypress.io - fast, easy and reliable testing for anything that runs in a browser.
   https://www.cypress.io/
+* Jest - Delightful JavaScript Testing
+  https://facebook.github.io/jest/
 * Majestic - an electron app that provides a UI for running tests with Jest
   https://github.com/Raathigesh/majestic/
 
