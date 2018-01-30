@@ -92,3 +92,4 @@
 * [Joys & frustrations of putting 34,000 lines of Haskell into production](https://docs.google.com/presentation/d/1ggTVXzqCxcmkV5mKUH_gtl0ADUMvSMmhZlWfx_w7-wU)
 * [Anatomy of a Haskell-based Application, Revisited](https://tech-blog.capital-match.com/posts/3-anatomy-of-haskell-web-app.html)
 * [Generating Mazes with Inductive Graphs](http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/index.html)
+* [Domain Modelling with Haskell: Data Structures (CODA)](https://www.youtube.com/watch?v=pe6S5skZwNE)
