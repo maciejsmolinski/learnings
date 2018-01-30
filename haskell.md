@@ -93,3 +93,4 @@
 * [Anatomy of a Haskell-based Application, Revisited](https://tech-blog.capital-match.com/posts/3-anatomy-of-haskell-web-app.html)
 * [Generating Mazes with Inductive Graphs](http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/index.html)
 * [Domain Modelling with Haskell: Data Structures (CODA)](https://www.youtube.com/watch?v=pe6S5skZwNE)
+* [Domain Modelling with Haskell: Generalizing with Foldable and Traversable (CODA)](https://www.youtube.com/watch?v=ASz_JTKO4VY)
