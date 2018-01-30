@@ -50,6 +50,8 @@
   https://www.cypress.io/
 * Jest - Delightful JavaScript Testing
   https://facebook.github.io/jest/
+* Enzyme - JavaScript Testing utility for React
+  https://airbnb.io/enzyme/
 * Majestic - an electron app that provides a UI for running tests with Jest
   https://github.com/Raathigesh/majestic/
 
