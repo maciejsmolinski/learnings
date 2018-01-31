@@ -1,5 +1,12 @@
 # Docker
 
+## Practical Docker
+
+* Deploy a stack to a swarm
+  https://docs.docker.com/engine/swarm/stack-deploy/
+* Docker as Build Environment
+  https://www.rainerhahnekamp.com/en/docker-build-environment/
+
 ## Cheatsheets
 
 * Docker-compose cheatsheet
