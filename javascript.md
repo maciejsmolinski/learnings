@@ -134,6 +134,8 @@
   https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
 * React - How to use React's Provider Pattern
   https://www.robinwieruch.de/react-provider-pattern-context/
+* React - React Christmas (Advent Calendar)
+  https://react.christmas
 * Inferno - An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact - Fast 3kB alternative to React with the same ES6 API
