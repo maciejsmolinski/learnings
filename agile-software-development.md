@@ -54,6 +54,8 @@
   http://www.yegor256.com/2015/01/26/happy-boss-false-objective.html
 * Avoid headaches: Use an Agile issue-type decision tree
   https://blog.arcbees.com/2015/06/02/agile-decision-tree/
+* Christmas Prioritisation - How to run agile with fixed scope, fixed time, planned months in advance
+  https://gojko.net/2017/12/11/christmas-prioritisation.html
 
 ## Methodologies
 
