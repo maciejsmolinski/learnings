@@ -75,7 +75,7 @@
 * Deliver software faster by managing work in progress, not by adding overtime
   https://developers.soundcloud.com/blog/deliver-software-faster-by-managing-work-in-progress-not-by-adding-overtime
   
-## Tech practices
+## Tech Practices
 
 * Continuous integration vs. continuous delivery vs. continuous deployment
   https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd
