@@ -59,7 +59,6 @@
 * Christmas Prioritisation - How to run agile with fixed scope, fixed time, planned months in advance
   https://gojko.net/2017/12/11/christmas-prioritisation.html
 
-
 ## Methodologies
 
 * Scrum - The Scrum Primer 
@@ -75,3 +74,8 @@
 
 * Deliver software faster by managing work in progress, not by adding overtime
   https://developers.soundcloud.com/blog/deliver-software-faster-by-managing-work-in-progress-not-by-adding-overtime
+  
+## Tech practices
+
+* Continuous integration vs. continuous delivery vs. continuous deployment
+  https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd
