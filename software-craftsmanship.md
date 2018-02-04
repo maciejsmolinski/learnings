@@ -15,6 +15,8 @@
   http://wiki.c2.com/?PrimitiveObsession
 * Failing Fast
   https://molily.de/robust-javascript/#failing-fast https://martinfowler.com/ieeeSoftware/failFast.pdf
+* Continuous integration vs. continuous delivery vs. continuous deployment
+  https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd
 
 ## Quotes 
 
