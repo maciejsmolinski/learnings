@@ -34,6 +34,8 @@
 
 * Haiku - Design UI components, powered by motion. Works with any iOS, Android, or Web codebase.
   https://www.haiku.ai/
+* InVision Inspect — Pixel-perfect design handoffs for your team
+  https://www.invisionapp.com/feature/inspect
 
 ## Behaviour Tracking & Segmentation
 
