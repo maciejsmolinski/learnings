@@ -38,6 +38,8 @@
   https://www.invisionapp.com/feature/inspect
 * WebFlow - Design and develop at the same time
   https://webflow.com
+* Abstract - Secure version control and design workflow management
+  https://www.goabstract.com/
 
 ## Behaviour Tracking & Segmentation
 
