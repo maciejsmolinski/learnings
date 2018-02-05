@@ -30,6 +30,11 @@
 * Content Review - A simple technique for evaluating content
   https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/
 
+## Design & Prototyping
+
+* Haiku - Design UI components, powered by motion. Works with any iOS, Android, or Web codebase.
+  https://www.haiku.ai/
+
 ## Behaviour Tracking & Segmentation
 
 * FullStory.com - What do you want to know about your customer experience?
