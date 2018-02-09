@@ -32,6 +32,7 @@
 * [Matt Parsons - Proving With Types](http://www.parsonsmatt.org/2016/02/23/proving_with_types.html)
 * [Generalized Algebraic Data Types (GADT)](https://en.wikibooks.org/wiki/Haskell/GADT#GADTs)
 * [Phantom Types](https://en.wikibooks.org/wiki/Haskell/Phantom_types)
+* [More thoughts on the Expression Problem in Haskell](https://eli.thegreenplace.net/2018/more-thoughts-on-the-expression-problem-in-haskell/)
 
 # Monad Transformers
 
@@ -94,3 +95,4 @@
 * [Generating Mazes with Inductive Graphs](http://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/index.html)
 * [Domain Modelling with Haskell: Data Structures (CODA)](https://www.youtube.com/watch?v=pe6S5skZwNE)
 * [Domain Modelling with Haskell: Generalizing with Foldable and Traversable (CODA)](https://www.youtube.com/watch?v=ASz_JTKO4VY)
+* [More thoughts on the Expression Problem in Haskell](https://eli.thegreenplace.net/2018/more-thoughts-on-the-expression-problem-in-haskell/)
