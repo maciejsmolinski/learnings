@@ -1,4 +1,6 @@
-# Summaries
+# JavaScript
+
+## Summaries
 
 * The State Of JavaScript 2016
   http://stateofjs.com/2016/introduction/
@@ -7,12 +9,12 @@
 * Robust Client-Side JavaScript - A Developer’s Guide
   https://molily.de/robust-javascript/
 
-# JavaScript Learning & Interactive Platforms
+## Learning & Interactive Platforms
 
 * Observable - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration
   https://beta.observablehq.com/
 
-# Functional Programming in JavaScript
+## Functional Programming in JavaScript
 
 * Functional Front-End Coding
   https://begriffs.com/posts/2015-11-30-functional-front-end-coding.html
@@ -33,19 +35,19 @@
 * Another Perspective on Promises (Promise as a category)
   https://blog.drewolson.org/another-perspective-on-promises/
 
-# Online Courses
+## Online Courses
 
 * Advanced React Component Patterns
   https://egghead.io/courses/advanced-react-component-patterns
 * Professor Frisby Introduces Composable Functional JavaScript
   https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box
 
-# Functional Reactive Programming in JavaScript
+## Functional Reactive Programming in JavaScript
 
 * Kefir.js - Reactive Programming library for JavaScript
   https://rpominov.github.io/kefir/
 
-# Testing
+## Testing
 
 * Mocking is a Code Smell
   https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
@@ -60,7 +62,7 @@
 * Majestic - an electron app that provides a UI for running tests with Jest
   https://github.com/Raathigesh/majestic/
 
-# Serverless
+## Serverless
 
 * Webtask.io - Make serverless endpoints
   https://webtask.io/
@@ -69,7 +71,7 @@
 * Can I require on webtask.io?
   https://tehsis.github.io/webtaskio-canirequire/
 
-# Typechecking
+## Typechecking
 
 * Type Systems for JavaScript - Flow and TypeScript
   http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html#/
@@ -80,7 +82,7 @@
 * Migrating a 10,000-line legacy JavaScript codebase to TypeScript
   http://www.pgbovine.net/migrating-legacy-codebase-to-typescript.htm
 
-# ES6
+## ES6
 
 * A Practical Introduction to ES6 Generator Functions
   http://thejsguy.com/2016/10/15/a-practical-introduction-to-es6-generator-functions.html
@@ -91,7 +93,7 @@
 * WebExtensions API - a cross-browser system for developing extensions
   https://developer.mozilla.org/en-US/Add-ons/WebExtensions
 
-# Tools / Frameworks
+## Tools / Frameworks
 
 * Next.js - Framework for server-rendered or statically-exported React apps
   https://github.com/zeit/next.js/
@@ -150,21 +152,21 @@
 * Vue - The Progressive JavaScript Framework
   https://vuejs.org
 
-# Progressive Web Applications / Offline First
+## Progressive Web Applications / Offline First
 
 * Your First Progressive Web App
   https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/
 * Indicating offline
   https://justmarkup.com/log/2016/08/indicating-offline/
 
-# Shadow DOM / Scoping
+## Shadow DOM / Scoping
 
 * Shadow DOM 201 (`:host`, `:host-context(.different)`)
   http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom-201/#toc-style-host
 * Shadow DOM v1: self-contained web components
   https://developers.google.com/web/fundamentals/primers/shadowdom/
 
-# Performance
+## Performance
 
 * Modern DevTools: Running a performance profile on the YouTube search box
   https://www.youtube.com/watch?v=E4KAWf_fKbM
@@ -177,7 +179,7 @@
 * React Performance Fixes on Airbnb Listing Pages
   https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4
 
-# Abstract / Good Code / Patterns
+## Abstract / Good Code / Patterns
 
 * Summary of Maintainable JavaScript Talk by Nicholas C. Zakas
   http://www.alexkras.com/summary-of-maintainable-javascript/
@@ -188,7 +190,7 @@
 * What’s in a Continuation
   http://jlongster.com/Whats-in-a-Continuation
 
-# Architecture
+## Architecture
 
 * Single page apps in depth (online book)
   http://singlepageappbook.com
@@ -197,7 +199,7 @@
 * Get to know the Actor Model
   https://monades.roperzh.com/get-to-know-the-actor-model/
 
-# Node.js
+## Node.js
 
 * Next.js - Framework for server-rendered or statically-exported React apps
   https://github.com/zeit/next.js/
@@ -216,7 +218,7 @@
 * Node.js best practices - A curated list from the top ranked articles and always updated
   https://github.com/i0natan/nodebestpractices#2-error-handling-practices
 
-# Debugging
+## Debugging
 
 * Debugging The Web (Chrome Dev Summit 2016)
   https://www.youtube.com/watch?v=HF1luRD4Qmk
