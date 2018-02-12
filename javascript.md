@@ -7,6 +7,11 @@
 * Robust Client-Side JavaScript - A Developer’s Guide
   https://molily.de/robust-javascript/
 
+# JavaScript Learning & Interactive Platforms
+
+* Observable - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration
+  https://beta.observablehq.com/
+
 # Functional Programming in JavaScript
 
 * Functional Front-End Coding
