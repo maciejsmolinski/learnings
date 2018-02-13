@@ -181,6 +181,8 @@
 
 ## Abstract / Good Code / Patterns
 
+* Project Guidelines - A set of best practices for JavaScript projects
+  https://github.com/wearehive/project-guidelines
 * Summary of Maintainable JavaScript Talk by Nicholas C. Zakas
   http://www.alexkras.com/summary-of-maintainable-javascript/
 * Falcor: One Model Everywhere @ react-europe 2016
@@ -205,6 +207,12 @@
   https://github.com/zeit/next.js/
 * Learn Next.js - build server rendered JS web apps with React
   https://learnnextjs.com/
+* Node Foreman - a manager for Procfile-based applications
+  https://github.com/strongloop/node-foreman
+* Node.js best practices - A curated list from the top ranked articles and always updated
+  https://github.com/i0natan/nodebestpractices#2-error-handling-practices
+* Project Guidelines - A set of best practices for JavaScript projects
+  https://github.com/wearehive/project-guidelines
 * Experiments with Koa and JavaScript Generators
   http://blog.stevensanderson.com/2013/12/21/experiments-with-koa-and-javascript-generators/
 * Hates Node.js
@@ -213,10 +221,7 @@
   https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
 * Server.js - a powerful server for Node.js that just works
   https://serverjs.io/
-* Node Foreman - a manager for Procfile-based applications
-  https://github.com/strongloop/node-foreman
-* Node.js best practices - A curated list from the top ranked articles and always updated
-  https://github.com/i0natan/nodebestpractices#2-error-handling-practices
+
 
 ## Debugging
 
