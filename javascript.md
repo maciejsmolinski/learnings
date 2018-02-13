@@ -51,16 +51,16 @@
 
 * Mocking is a Code Smell
   https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
-* JSVerify - a property-based testing library, highly inspired by QuickCheck
-  http://jsverify.github.io/
-* Cypress.io - fast, easy and reliable testing for anything that runs in a browser.
-  https://www.cypress.io/
 * Jest - Delightful JavaScript Testing
   https://facebook.github.io/jest/
 * Enzyme - JavaScript Testing utility for React
   https://airbnb.io/enzyme/
 * Majestic - an electron app that provides a UI for running tests with Jest
   https://github.com/Raathigesh/majestic/
+* JSVerify - a property-based testing library, highly inspired by QuickCheck
+  http://jsverify.github.io/
+* Cypress.io - fast, easy and reliable testing for anything that runs in a browser.
+  https://www.cypress.io/
 
 ## Serverless
 
