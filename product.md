@@ -1,9 +1,11 @@
 # Product
 
-## Books
+## Books & Online Resources
 
 * Intercom on Product Management
   https://www.intercom.com/books/product-management
+* Mind the Product - an international product community
+  https://www.mindtheproduct.com/
 
 ## Product Frameworks
 
