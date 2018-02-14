@@ -52,6 +52,11 @@
 * ReactSketch.app - Render React components to Sketch; tailor-made for design systems
   https://airbnb.io/react-sketchapp/
 
+## Landing Pages
+
+* Launchaco - The Simplest Way to Build a Website For Your Startup
+  https://www.launchaco.com/
+
 ## Behaviour Tracking & Segmentation
 
 * FullStory.com - What do you want to know about your customer experience?
