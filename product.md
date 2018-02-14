@@ -18,6 +18,11 @@
 * Google Ventures - The Design Sprint
   http://www.gv.com/sprint/
 
+## Disruption & Innovation
+
+* How to build the next Trello and sell it for $425 million or more
+  https://medium.com/99-percent/how-to-build-the-next-trello-and-sell-it-for-425-million-or-more-589045c9bd64
+
 ## Digital Psychology / Mental Notes / User Behaviour
 
 * Digital Psychology – a free library of psychological principles and examples for inspiration to enhance the customer experience and influence your user's behavior 
