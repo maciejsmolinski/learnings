@@ -1,6 +1,7 @@
 # Learnings
 
-A simple knowledge base consisting of resources I collected whilst learning various things
+A curated list and a simple knowledge base of resources for learning product & software development. 
+Mostly collected on a daily basis as I learn.
 
 * [Agile Software Development](/agile-software-development.md)
 * [Assembly](/assembly.md)
