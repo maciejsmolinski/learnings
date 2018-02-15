@@ -151,6 +151,8 @@
   https://svelte.technology
 * Vue - The Progressive JavaScript Framework
   https://vuejs.org
+* Lerna - A tool for managing JavaScript projects with multiple packages
+  https://lernajs.io/
 
 ## Progressive Web Applications / Offline First
 
