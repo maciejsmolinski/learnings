@@ -22,6 +22,8 @@
   https://www.youtube.com/watch?v=gZweJw_egaE
 * Patrick Stapfer: Making Unreasonable States Impossible - ReasonML Munich Meetup
   https://www.youtube.com/watch?v=P7dTPoxCg4w
+* A curated playlist for ReasonML / BuckleScript / OCaml related learning resources
+  https://www.youtube.com/playlist?list=PLYU6eGtVFu8ZG3yh1FfLrqHBMUXj80wgK&disable_polymer=true
 
 ## BuckleScript
 
