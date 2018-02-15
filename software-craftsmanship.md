@@ -18,6 +18,11 @@
 * Continuous integration vs. continuous delivery vs. continuous deployment
   https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd
 
+## Algorithms & Data Structures
+
+* Itsy Bitsy Data Structures - super simplified examples of many of the common data structures written in easy to read JavaScript
+  https://github.com/jamiebuilds/itsy-bitsy-data-structures
+
 ## Quotes 
 
 > Being abstract is something profoundly different from being vague … The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
