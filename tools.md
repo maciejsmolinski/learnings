@@ -1,5 +1,10 @@
 # Tools
 
+## Cloud Servers
+
+* Scaleway - Deploy BareMetal SSD cloud server in seconds
+  https://www.scaleway.com  
+
 ## Online Collaboration
 
 * Witeboard - the fastest way to collaborate real-time with your team anywhere
