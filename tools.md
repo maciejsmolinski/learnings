@@ -6,6 +6,8 @@
   https://www.scaleway.com  
 * DigitalOcean -  Cloud Computing, Simplicity at Scale
   https://www.digitalocean.com/
+* Heroku - Cloud Application Platform
+  https://heroku.com
 
 ## Online Collaboration
 
