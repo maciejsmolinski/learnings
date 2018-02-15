@@ -18,6 +18,11 @@
 
 * John Hughes - Why Functional Programming Matters, 2016 ([youtube](https://www.youtube.com/watch?v=Z35Tt87pIpg))
 
+## Practical Examples
+
+* Scott Wlaschin - Railway Oriented Programming — error handling in functional languages
+  https://vimeo.com/97344498
+
 # Category Theory
 
 ## Videos
