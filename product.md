@@ -22,6 +22,8 @@
 
 * How to build the next Trello and sell it for $425 million or more
   https://medium.com/99-percent/how-to-build-the-next-trello-and-sell-it-for-425-million-or-more-589045c9bd64
+* Startup Pitch Decks - A collection of real fundraising decks from real startups
+  https://attach.io/startup-pitch-decks/
 
 ## Digital Psychology / Mental Notes / User Behaviour
 
