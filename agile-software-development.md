@@ -58,6 +58,8 @@
   https://adamnash.blog/2017/07/25/solve-the-product-maze-backwards/
 * Christmas Prioritisation - How to run agile with fixed scope, fixed time, planned months in advance
   https://gojko.net/2017/12/11/christmas-prioritisation.html
+* 7 Product Dimensions, Exploring Product Options to Arrive at Right Requirements
+  https://blog.crisp.se/2014/08/25/ellen-gottesdiener/guest-post-by-ellen-gottesdiener-exploring-product-options-to-arrive-at-right-requirements
 
 ## Methodologies
 
