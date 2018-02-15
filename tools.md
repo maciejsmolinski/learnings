@@ -1,9 +1,11 @@
 # Tools
 
-## Cloud Servers
+## Cloud Computing
 
 * Scaleway - Deploy BareMetal SSD cloud server in seconds
   https://www.scaleway.com  
+* DigitalOcean -  Cloud Computing, Simplicity at Scale
+  https://www.digitalocean.com/
 
 ## Online Collaboration
 
