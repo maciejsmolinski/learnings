@@ -8,6 +8,8 @@
   https://www.digitalocean.com/
 * Heroku - Cloud Application Platform
   https://heroku.com
+* Hasura - Build & host powerful applications in minutes
+  https://hasura.io/
 
 ## Online Collaboration
 
