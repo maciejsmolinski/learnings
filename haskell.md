@@ -53,13 +53,15 @@
 
 * [Parallel and concurrent programming in Haskell - Simon Marlow at USI (YouTube)](https://www.youtube.com/watch?v=lqG3mURwUxo)
 
-# Books
+# Books & Lectures
 
 * [Learn you a Haskell for Great Good! A Beginner's Guide](http://learnyouahaskell.com/)
 * [Haskell Book - Haskell Programming from first principles](http://haskellbook.com/)
 * [Haskell Data Analysis Cookbook - Over 130 Practical Recipes For Data Analysis and Machine Learning](http://haskelldata.com/)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929)
 * [The Joy of Haskell](https://joyofhaskell.com/blog.html)
+* CIS 194: Introduction to Haskell (Fall 2016)
+  http://www.seas.upenn.edu/~cis194/fall16/index.html
 
 # Papers
 
