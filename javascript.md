@@ -153,6 +153,8 @@
   https://vuejs.org
 * Lerna - A tool for managing JavaScript projects with multiple packages
   https://lernajs.io/
+* npx - execute npm package binaries
+  https://github.com/zkat/npx
 
 ## Progressive Web Applications / Offline First
 
