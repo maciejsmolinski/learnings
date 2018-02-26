@@ -143,6 +143,8 @@
   https://www.robinwieruch.de/react-provider-pattern-context/
 * React - React Christmas (Advent Calendar)
   https://react.christmas
+* React - Build forms in React, without the tears
+  https://github.com/jaredpalmer/formik
 * Inferno - An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact - Fast 3kB alternative to React with the same ES6 API
