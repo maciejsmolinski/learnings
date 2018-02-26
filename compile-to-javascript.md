@@ -18,6 +18,8 @@
 
 * Official Website
   https://reasonml.github.io/
+* An invitation to ReasonML
+  https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html
 * ReasonML - Mixing ReasonML into your React apps, Robbie McCorkell
   https://www.youtube.com/watch?v=gZweJw_egaE
 * Patrick Stapfer: Making Unreasonable States Impossible - ReasonML Munich Meetup
