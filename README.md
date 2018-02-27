@@ -20,6 +20,7 @@ Mostly collected on a daily basis as I learn.
 * [Logic Programming](/logic-programming.md)
 * [Maths](/maths.md)
 * [Native](/native.md)
+* [OCaml](/ocaml.md)
 * [Product](/product.md)
 * [Programming Paradigms and Learning to Program](/programming-paradigms-and-learning-to-program.md)
 * [Quotes](/quotes.md)
