@@ -46,6 +46,11 @@
 * Textik - ASCII diagrams editor
   https://textik.com/
 
+## Learning
+
+* Learn Anything - a platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community
+  https://learn-anything.xyz/
+
 ## MacOS Tools
 
 * Amethyst - a tiling window manager for macOS along the lines of xmonad.
