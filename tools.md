@@ -45,3 +45,8 @@
 
 * Textik - ASCII diagrams editor
   https://textik.com/
+
+## MacOS Tools
+
+* Amethyst - a tiling window manager for macOS along the lines of xmonad.
+  https://ianyh.com/amethyst/
