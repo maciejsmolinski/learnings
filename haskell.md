@@ -1,8 +1,10 @@
-# Background
+# Haskell
+
+## Background
 
 * [Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey](https://www.youtube.com/watch?v=re96UgMk6GQ)
 
-# Learning Haskell
+## Learning Haskell
 
 * [Haskell Website](https://www.haskell.org/)
 * [Haskell API search engine](https://www.haskell.org/hoogle/)
@@ -23,7 +25,7 @@
 * [The Evolution of a Haskell Programmer](https://www.cs.utexas.edu/~cannata/cs345/Class%20Notes/10%20Haskell%20Programmer%20Evolution.html)
 * [Becoming Productive in Haskell](http://mechanical-elephant.com/thoughts/2015-04-20-becoming-productive-in-haskell/)
 
-# Typeclasses / Types / Algebraic Data Types
+## Typeclasses / Types / Algebraic Data Types
 
 * [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
 * [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
@@ -35,7 +37,7 @@
 * [Phantom Types](https://en.wikibooks.org/wiki/Haskell/Phantom_types)
 * [More thoughts on the Expression Problem in Haskell](https://eli.thegreenplace.net/2018/more-thoughts-on-the-expression-problem-in-haskell/)
 
-# Monad Transformers
+## Monad Transformers
 
 * [Monad Transformers Step by Step by Martin Grabmuller (PDF)](https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf)
 * [What I Wish I Knew When Learning Haskell - Monad Transformers by Stephen Diehl](http://dev.stephendiehl.com/hask/#monad-transformers)
@@ -44,17 +46,17 @@
 * [Clean Alternatives with MaybeT](http://www.parsonsmatt.org/2016/11/18/clean_alternatives_with_maybet.html)
 * [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
 
-# Various Monads
+## Various Monads
 
 * [Free Monad - Cheatsheet](http://jeremymikkola.com/posts/2017_07_11_free_monad_cheatsheet.html)
 * [The Continuation Monad](http://www.haskellforall.com/2012/12/the-continuation-monad.html)
 * [Transient Monad Tutorial](https://github.com/transient-haskell/transient/wiki/Transient-tutorial)
 
-# Parallel and Concurrent Haskell
+## Parallel and Concurrent Haskell
 
 * [Parallel and concurrent programming in Haskell - Simon Marlow at USI (YouTube)](https://www.youtube.com/watch?v=lqG3mURwUxo)
 
-# Books & Lectures
+## Books & Lectures
 
 * [Learn you a Haskell for Great Good! A Beginner's Guide](http://learnyouahaskell.com/)
 * [Haskell Book - Haskell Programming from first principles](http://haskellbook.com/)
@@ -64,11 +66,11 @@
 * CIS 194: Introduction to Haskell (Fall 2016)
   http://www.seas.upenn.edu/~cis194/fall16/index.html
 
-# Papers
+## Papers
 
 * [Type classes: an exploration of the design space](https://www.microsoft.com/en-us/research/wp-content/uploads/1997/01/multi.pdf)
 
-# Parsers
+## Parsers
 
 * [Monadic Parsing in Haskell (PDF)](http://www.cs.nott.ac.uk/~pszgmh/pearl.pdf)
 * [Write you a Haskell - Parsing](http://dev.stephendiehl.com/fun/002_parsers.html)
@@ -76,12 +78,12 @@
 * [Parsing Stuff in Haskell](https://www.youtube.com/watch?v=r_Enynu_TV0)
 * [Write yourself a Scheme in 48 hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours/First_Steps)
 
-# Libraries
+## Libraries
 
 * [Servant – A Type-Level Web DSL](http://haskell-servant.readthedocs.io/en/stable/index.html)
 * [Duckling is a Haskell library that parses text into structured data](https://github.com/facebook/duckling)
 
-# Practical Haskell
+## Practical Haskell
 
 * [A founder's perspective on 4 years with Haskell](http://baatz.io/posts/haskell-in-a-startup/)
 * [Four months with Haskell](https://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/)
