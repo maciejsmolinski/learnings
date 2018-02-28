@@ -53,5 +53,7 @@
 
 ## MacOS Tools
 
-* Amethyst - a tiling window manager for macOS along the lines of xmonad.
+* Veeer - A Lightweight Window Manager for your OSX
+  https://veeer.io/
+* Amethyst - a tiling window manager for macOS along the lines of xmonad
   https://ianyh.com/amethyst/
