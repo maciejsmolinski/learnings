@@ -101,3 +101,8 @@
 * [Domain Modelling with Haskell: Data Structures (CODA)](https://www.youtube.com/watch?v=pe6S5skZwNE)
 * [Domain Modelling with Haskell: Generalizing with Foldable and Traversable (CODA)](https://www.youtube.com/watch?v=ASz_JTKO4VY)
 * [More thoughts on the Expression Problem in Haskell](https://eli.thegreenplace.net/2018/more-thoughts-on-the-expression-problem-in-haskell/)
+
+## Deploying Haskell
+
+* Ultra light docker image for Haskell
+  https://github.com/naushadh/hello-world
