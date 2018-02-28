@@ -69,6 +69,8 @@
   https://www.crisp.se/file-uploads/scrum-checklist.pdf
 * Scrum - Self-Organization: The Secret Sauce for Improving your Scrum team (YouTube)
   https://www.youtube.com/watch?v=M1q6b9JI2Wc
+* Scrum - Scrum Training Series - a free online scrum master training (videos)
+  http://scrumtrainingseries.com/
 * The Design Sprint (Google Ventures)
   http://www.gv.com/sprint/
 
