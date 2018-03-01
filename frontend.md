@@ -11,6 +11,10 @@
   https://www.youtube.com/watch?v=X_uTCnaRe94
 * CSS Grid Playground - Firefox Devtools - Introduction to CSS Grid Layout
   https://mozilladevelopers.github.io/playground/css-grid/
+* 30 Seconds of CSS
+  https://atomiks.github.io/30-seconds-of-css/
+* CSS Reference - A free visual guide to CSS
+  https://cssreference.io/
 
 ## Design
 
