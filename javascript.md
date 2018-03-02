@@ -15,7 +15,8 @@
   https://beta.observablehq.com/
 
 ## Functional Programming in JavaScript
-
+* Fear, trust and JavaScript: When types and functional programming fail
+  https://www.reaktor.com/blog/fear-trust-and-javascript/
 * Functional Front-End Coding
   https://begriffs.com/posts/2015-11-30-functional-front-end-coding.html
 * Functional Programming Jargon
