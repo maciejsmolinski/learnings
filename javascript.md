@@ -108,6 +108,8 @@
   https://mobx.js.org
 * Redux - Predictable state container for JavaScript apps 
   http://redux.js.org
+* Rematch - Redux best practices without the boilerplate
+  https://github.com/rematch/rematch
 * Refraction - A guard that represent central point of control in your application
   https://github.com/mbasso/refraction
 * RE:DOM - Tiny DOM library
