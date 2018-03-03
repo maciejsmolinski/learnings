@@ -73,6 +73,8 @@
   http://scrumtrainingseries.com/
 * The Design Sprint (Google Ventures)
   http://www.gv.com/sprint/
+* The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+  https://www.microsoft.com/en-us/research/video/the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses/
 
 ## Case Studies / Practical Examples / Patterns and Learnings
 
