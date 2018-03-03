@@ -28,6 +28,8 @@
   https://www.youtube.com/playlist?list=PLYU6eGtVFu8ZG3yh1FfLrqHBMUXj80wgK&disable_polymer=true
 * Redex - Reason Package Index
   https://redex.github.io/
+* Reason Town - A podcast about the ReasonML language and the community that makes it awesome
+  https://reason.town/
 
 ## BuckleScript
 
