@@ -20,12 +20,14 @@
   https://reasonml.github.io/
 * An invitation to ReasonML
   https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html
-* ReasonML - Mixing ReasonML into your React apps, Robbie McCorkell
-  https://www.youtube.com/watch?v=gZweJw_egaE
-* Patrick Stapfer: Making Unreasonable States Impossible - ReasonML Munich Meetup
-  https://www.youtube.com/watch?v=P7dTPoxCg4w
 * A curated playlist for ReasonML / BuckleScript / OCaml related learning resources
   https://www.youtube.com/playlist?list=PLYU6eGtVFu8ZG3yh1FfLrqHBMUXj80wgK&disable_polymer=true
+* ReasonML - Mixing ReasonML into your React apps, Robbie McCorkell
+  https://www.youtube.com/watch?v=gZweJw_egaE
+* A Pragmatists’s Guide to ReasonML - Marcel Cutts
+  https://www.youtube.com/watch?v=ZKi87Bx4YNQ
+* Patrick Stapfer: Making Unreasonable States Impossible - ReasonML Munich Meetup
+  https://www.youtube.com/watch?v=P7dTPoxCg4w
 * Redex - Reason Package Index
   https://redex.github.io/
 * Reason Town - A podcast about the ReasonML language and the community that makes it awesome
