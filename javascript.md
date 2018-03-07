@@ -161,6 +161,13 @@
 * npx - execute npm package binaries
   https://github.com/zkat/npx
 
+## Interactive Development
+
+* Quokka.js is a rapid prototyping playground for JavaScript and TypeScript. It runs your code immediately as you type and displays various execution results in your code editor.
+  https://quokkajs.com/
+* Wallaby.js runs your JavaScript tests immediately as you type and displays execution results in your code editor.
+  https://wallabyjs.com/
+
 ## Progressive Web Applications / Offline First
 
 * Your First Progressive Web App
