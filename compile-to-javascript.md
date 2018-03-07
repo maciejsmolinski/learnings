@@ -32,6 +32,8 @@
   https://redex.github.io/
 * Reason Town - A podcast about the ReasonML language and the community that makes it awesome
   https://reason.town/
+* ReasonML Forums
+  https://reasonml.chat/
 
 ## BuckleScript
 
