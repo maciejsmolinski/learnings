@@ -11,6 +11,13 @@
 * Hasura - Build & host powerful applications in minutes
   https://hasura.io/
 
+## CMS Tools
+
+* Tipe - Next Generation API-first CMS
+  https://tipe.io/
+* Contentful - Don’t let a CMS get in the way of shipping software
+  https://www.contentful.com/
+
 ## Online Collaboration
 
 * Witeboard - the fastest way to collaborate real-time with your team anywhere
