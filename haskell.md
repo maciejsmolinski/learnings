@@ -106,3 +106,5 @@
 
 * Ultra light docker image for Haskell
   https://github.com/naushadh/hello-world
+* Hocker, I can't believe it's not docker!
+  https://ixmatus.net/articles/docker-without-docker.html
