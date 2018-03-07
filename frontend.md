@@ -22,3 +22,13 @@
   https://airbnb.design/painting-with-code/
 * ReactSketch.app - render React components to Sketch; tailor-made for design systems
   http://airbnb.io/react-sketchapp/
+
+## Components
+
+* Bit - Components are building blocks. You are the architect.
+  https://bitsrc.io/
+
+## Performance
+
+* Phoenix performance metrics within the browser developer tools
+  https://blog.dnsimple.com/2018/02/server-timing-with-phoenix/

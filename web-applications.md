@@ -8,6 +8,8 @@
   https://12factor.net/
 * Micro Frontends - extending the microservice idea to frontend development
   https://micro-frontends.org/
+* Bit - Components are building blocks. You are the architect.
+  https://bitsrc.io/
 * Zero to Production-Ready in Minutes (Netflix)
   https://www.infoq.com/presentations/netflix-deployment-practices
 * Fast and Fearless Evolution of Server-Side Web Applications
