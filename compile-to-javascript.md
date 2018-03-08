@@ -34,6 +34,8 @@
   https://reason.town/
 * ReasonML Forums
   https://reasonml.chat/
+* Your first ReasonML PR into an existing React Native Codebase
+  https://medium.com/@peterpme/your-first-reasonml-pr-into-an-existing-react-native-codebase-a490b4a79649
 
 ## BuckleScript
 
