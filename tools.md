@@ -58,6 +58,11 @@
 * Learn Anything - a platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community
   https://learn-anything.xyz/
 
+## Commandline & Manuals
+
+* tl;dr - simplified, community driven man pages
+  https://tldr.ostera.io/
+
 ## MacOS Tools
 
 * Veeer - A Lightweight Window Manager for your OSX
