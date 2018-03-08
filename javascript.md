@@ -98,6 +98,8 @@
 
 * Next.js - Framework for server-rendered or statically-exported React apps
   https://github.com/zeit/next.js/
+* Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones
+  https://zeit.co/blog/next5
 * Learn Next.js - build server rendered JS web apps with React
   https://learnnextjs.com/
 * Next-Routes - Universal dynamic routes for Next.js
