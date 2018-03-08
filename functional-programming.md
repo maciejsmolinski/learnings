@@ -59,6 +59,11 @@
 
 * Coeffects The next big programming challenge by Tomas Petricek ([www](http://tomasp.net/blog/2014/why-coeffects-matter/))
 
+## Languages
+
+* Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O
+  http://www.eff-lang.org/
+
 ## Interactive Playground
 
 * Coeffects: Context-aware programming languages by Tomas Petricek ([www](http://tomasp.net/coeffects/))
