@@ -6,6 +6,8 @@
   https://leanpub.com/purescript
 * Symbols and IsSymbol Instances
   https://github.com/paf31/24-days-of-purescript-2016/blob/master/9.markdown
+* Hyper - Type-safe, statically checked composition of HTTP servers
+  https://hyper.wickstrom.tech/
 
 ## Elm 
 
