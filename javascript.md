@@ -100,6 +100,8 @@
   https://github.com/zeit/next.js/
 * Learn Next.js - build server rendered JS web apps with React
   https://learnnextjs.com/
+* Next-Routes - Universal dynamic routes for Next.js
+  https://github.com/fridays/next-routes
 * tj/co - ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)
   https://github.com/tj/co
 * dollarshaveclub/postmate - a powerful, simple, promise-based postMessage library
