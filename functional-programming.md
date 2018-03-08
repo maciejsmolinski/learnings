@@ -61,8 +61,7 @@
 
 ## Languages
 
-* Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O
-  http://www.eff-lang.org/
+* Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O ([www](http://www.eff-lang.org/))
 
 ## Interactive Playground
 
