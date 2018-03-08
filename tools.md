@@ -65,7 +65,8 @@
 
 ## Commandline & Manuals
 
-* 
+* Hyper - A terminal built on web technologies
+  https://github.com/zeit/hyper
 * tl;dr - simplified, community driven man pages
   https://tldr.ostera.io/
 
