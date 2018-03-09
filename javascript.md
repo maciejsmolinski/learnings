@@ -199,6 +199,8 @@
   https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4
 * Modern DevTools: Running a performance profile on the YouTube search box
   https://www.youtube.com/watch?v=E4KAWf_fKbM
+* A Pinterest Progressive Web App Performance Case Study
+  https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154
 * Phoenix performance metrics within the browser developer tools
   https://blog.dnsimple.com/2018/02/server-timing-with-phoenix/
 * JavaScript Start-up Performance
