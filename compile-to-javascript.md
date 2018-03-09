@@ -42,6 +42,8 @@
   https://jaredforsyth.com/posts/a-reason-react-tutorial/
 * Exploring ReasonML (online book)
   http://reasonmlhub.com/exploring-reasonml/toc.html
+* Gradus Reason - Steps to learning Reason OCaml
+  http://gradus-reason.com/steps/
 
 ## BuckleScript
 
