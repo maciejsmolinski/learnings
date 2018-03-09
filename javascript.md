@@ -160,16 +160,16 @@
   https://svelte.technology
 * Vue - The Progressive JavaScript Framework
   https://vuejs.org
-* Lerna - A tool for managing JavaScript projects with multiple packages
-  https://lernajs.io/
-* npx - execute npm package binaries
-  https://github.com/zkat/npx
 
 ## Package Managemet
 
 * Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser
   https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403
-
+* Lerna - A tool for managing JavaScript projects with multiple packages
+  https://lernajs.io/
+* npx - execute npm package binaries
+  https://github.com/zkat/npx
+  
 ## Interactive Development
 
 * Quokka.js is a rapid prototyping playground for JavaScript and TypeScript. It runs your code immediately as you type and displays various execution results in your code editor.
