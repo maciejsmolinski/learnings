@@ -201,6 +201,8 @@
   https://www.youtube.com/watch?v=E4KAWf_fKbM
 * A Pinterest Progressive Web App Performance Case Study
   https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154
+* JavaScript Performance Optimization Tips: An Overview
+  https://www.sitepoint.com/javascript-performance-optimization-tips-an-overview/
 * Phoenix performance metrics within the browser developer tools
   https://blog.dnsimple.com/2018/02/server-timing-with-phoenix/
 * JavaScript Start-up Performance
