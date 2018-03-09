@@ -30,5 +30,9 @@
 
 ## Performance
 
+* What happens when you visit ft.com?
+  https://medium.com/ft-product-technology/making-a-request-to-the-financial-times-b2119a2f422d
+* React Performance Fixes on Airbnb Listing Pages
+  https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4
 * Phoenix performance metrics within the browser developer tools
   https://blog.dnsimple.com/2018/02/server-timing-with-phoenix/
