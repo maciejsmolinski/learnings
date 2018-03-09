@@ -199,6 +199,8 @@
   https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4
 * Modern DevTools: Running a performance profile on the YouTube search box
   https://www.youtube.com/watch?v=E4KAWf_fKbM
+* Phoenix performance metrics within the browser developer tools
+  https://blog.dnsimple.com/2018/02/server-timing-with-phoenix/
 * JavaScript Start-up Performance
   https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201
 * setImmediate API demo
