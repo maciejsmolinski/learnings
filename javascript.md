@@ -193,6 +193,10 @@
 
 ## Performance
 
+* What happens when you visit ft.com?
+  https://medium.com/ft-product-technology/making-a-request-to-the-financial-times-b2119a2f422d
+* React Performance Fixes on Airbnb Listing Pages
+  https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4
 * Modern DevTools: Running a performance profile on the YouTube search box
   https://www.youtube.com/watch?v=E4KAWf_fKbM
 * JavaScript Start-up Performance
@@ -201,8 +205,6 @@
   http://jphpsf.github.io/setImmediate-shim-demo/
 * V8 - Performance Profiling
   https://github.com/thlorenz/v8-perf/blob/master/performance-profiling.md
-* React Performance Fixes on Airbnb Listing Pages
-  https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4
 
 ## Abstract / Good Code / Patterns
 
