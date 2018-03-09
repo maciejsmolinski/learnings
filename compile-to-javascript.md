@@ -38,6 +38,10 @@
   https://reasonml.chat/
 * Your first ReasonML PR into an existing React Native Codebase
   https://medium.com/@peterpme/your-first-reasonml-pr-into-an-existing-react-native-codebase-a490b4a79649
+* A ReasonReact Tutorial
+  https://jaredforsyth.com/posts/a-reason-react-tutorial/
+* Exploring ReasonML (online book)
+  http://reasonmlhub.com/exploring-reasonml/toc.html
 
 ## BuckleScript
 
