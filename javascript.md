@@ -62,6 +62,8 @@
   http://jsverify.github.io/
 * Cypress.io - fast, easy and reliable testing for anything that runs in a browser.
   https://www.cypress.io/
+* Chimp - Develop acceptance tests & end-to-end tests with realtime feedback
+  https://github.com/xolvio/chimp
 
 ## Serverless
 
