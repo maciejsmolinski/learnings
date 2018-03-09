@@ -15,6 +15,13 @@
 * Fast and Fearless Evolution of Server-Side Web Applications
   https://wickstrom.tech/programming/2017/12/18/fast-and-fearless-evolution-of-server-side-web-applications.html
 
+## Operating Systems
+
+* MirageOS is a library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms
+  https://mirage.io/
+* NixOS is a Linux distribution with a unique approach to package and configuration management. Built on top of the Nix package manager, it is completely declarative, makes upgrading systems reliable, and has many other advantages.
+  https://nixos.org/
+
 ## Performance
 
 * Essential Image Optimization - An eBook by Addy Osmani
