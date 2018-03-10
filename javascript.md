@@ -154,6 +154,8 @@
   https://react.christmas
 * React - Build forms in React, without the tears
   https://github.com/jaredpalmer/formik
+* React - Portals provide a first-class way to render children into a DOM node that exists outside the DOM hierarchy of the parent component
+  https://reactjs.org/docs/portals.html
 * Inferno - An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact - Fast 3kB alternative to React with the same ES6 API
