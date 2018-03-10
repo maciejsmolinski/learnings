@@ -28,6 +28,9 @@
 > Being abstract is something profoundly different from being vague … The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 > ~ Edsger W. Dijkstra
 
+> Programming is a systematic design of abstractions and a systematic approach to human creativity
+> ~ Jay McCarthy 
+
 ## End Goal
 
 * Giving good demos
