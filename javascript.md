@@ -228,6 +228,8 @@
   https://technologyconversations.com/2015/08/09/including-front-end-web-components-into-microservices/
 * What’s in a Continuation
   http://jlongster.com/Whats-in-a-Continuation
+* A Guide to Modular Design Thinking
+  https://ponyfoo.com/articles/modular-design-thinking
 
 ## Architecture
 
