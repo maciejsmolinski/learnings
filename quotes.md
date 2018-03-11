@@ -7,3 +7,7 @@
 > You should be working.
 > 
 > ~ The Ultimate Productivity Blog (productiveblog.tumblr.com)
+
+> We suffer more in imagination than in reality
+>
+> ~ Seneca
