@@ -1,5 +1,10 @@
 # Frontend
 
+## Getting Started
+
+* Codecademy - HTML & CSS
+  https://www.codecademy.com/catalog/language/html-css
+
 ## Microdata & SEO
 
 * A free guide to <head> elements
