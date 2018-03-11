@@ -3,6 +3,7 @@
 ## Background
 
 * [Simon Peyton-Jones: Escape from the ivory tower: the Haskell journey](https://www.youtube.com/watch?v=re96UgMk6GQ)
+* [What Makes Haskell Unique - Michael Snoyman](https://www.youtube.com/watch?v=DebDaiYev2M)
 
 ## Learning Haskell
 
