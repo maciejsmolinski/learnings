@@ -11,3 +11,7 @@
 > We suffer more in imagination than in reality
 >
 > ~ Seneca
+
+> To be everywhere is to be nowhere.
+>
+> ~ Seneca, Letters from a Stoic
