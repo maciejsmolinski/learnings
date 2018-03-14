@@ -47,6 +47,8 @@
 
 * The best resources for learning design and code
   https://designcode.io/learn
+* Type Scale - Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts
+  https://type-scale.com/
 * Marvel - Wireframe and design with Marvel
   https://marvelapp.com/design/
 * Haiku - Design UI components, powered by motion. Works with any iOS, Android, or Web codebase.
