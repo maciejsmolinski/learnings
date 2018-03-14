@@ -51,6 +51,8 @@
   https://www.haiku.ai/
 * InVision Inspect — Pixel-perfect design handoffs for your team
   https://www.invisionapp.com/feature/inspect
+* Build pixel perfect apps in peace. Design hand-off has never been easier.
+  https://zeplin.io/
 * WebFlow - Design and develop at the same time
   https://webflow.com
 * Abstract - Secure version control and design workflow management
