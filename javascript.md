@@ -36,12 +36,14 @@
 * Another Perspective on Promises (Promise as a category)
   https://blog.drewolson.org/another-perspective-on-promises/
 
-## Online Courses
+## Online Courses & Tutorials
 
 * Advanced React Component Patterns
   https://egghead.io/courses/advanced-react-component-patterns
 * Professor Frisby Introduces Composable Functional JavaScript
   https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box
+* Heres how React's New Context API Works
+  https://www.youtube.com/watch?v=XLJN4JfniH4
 
 ## Functional Reactive Programming in JavaScript
 
