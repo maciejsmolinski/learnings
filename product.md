@@ -49,6 +49,8 @@
   https://designcode.io/learn
 * Type Scale - Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts
   https://type-scale.com/
+* A Five Minutes Guide to Better Typography
+  http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography
 * Marvel - Wireframe and design with Marvel
   https://marvelapp.com/design/
 * Haiku - Design UI components, powered by motion. Works with any iOS, Android, or Web codebase.
