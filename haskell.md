@@ -25,6 +25,7 @@
 * [Thinking Functionally with Haskell](https://pragprog.com/magazines/2012-09/thinking-functionally-with-haskell)
 * [The Evolution of a Haskell Programmer](https://www.cs.utexas.edu/~cannata/cs345/Class%20Notes/10%20Haskell%20Programmer%20Evolution.html)
 * [Becoming Productive in Haskell](http://mechanical-elephant.com/thoughts/2015-04-20-becoming-productive-in-haskell/)
+* [Philip Wadler - The First Monad Tutorial](https://www.youtube.com/watch?v=yjmKMhJOJos)
 
 ## Typeclasses / Types / Algebraic Data Types
 
