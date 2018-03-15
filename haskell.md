@@ -85,6 +85,11 @@
 * [Servant – A Type-Level Web DSL](http://haskell-servant.readthedocs.io/en/stable/index.html)
 * [Duckling is a Haskell library that parses text into structured data](https://github.com/facebook/duckling)
 
+## Web Programming with Haskell
+
+* Haskell compiler infastructure for WebAssembly
+  https://github.com/haskell-wasm/wasm
+
 ## Practical Haskell
 
 * [A founder's perspective on 4 years with Haskell](http://baatz.io/posts/haskell-in-a-startup/)
