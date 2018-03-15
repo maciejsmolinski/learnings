@@ -42,6 +42,12 @@
 * Advanced Caching in Rails: Revised
   http://hawkins.io/2012/07/advanced_caching_revised/
 
+## CDN
+
+* Everyone can now run JavaScript on Cloudflare with Workers
+  https://blog.cloudflare.com/cloudflare-workers-unleashed/
+
+
 ## Books
 
 * The Complete NGINX Cookbook
