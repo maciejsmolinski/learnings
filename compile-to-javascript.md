@@ -2,8 +2,10 @@
 
 * Official Website
   http://www.purescript.org
-* "PureScript by Example" by Phil Freeman
+* "PureScript by Example" by Phil Freeman (book)
   https://leanpub.com/purescript
+* Functional Programming Concepts in Purescript (online course)
+  https://egghead.io/courses/functional-programming-concepts-in-purescript
 * Symbols and IsSymbol Instances
   https://github.com/paf31/24-days-of-purescript-2016/blob/master/9.markdown
 * Hyper - Type-safe, statically checked composition of HTTP servers
