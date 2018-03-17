@@ -10,6 +10,8 @@
   https://heroku.com
 * Hasura - Build & host powerful applications in minutes
   https://hasura.io/
+* Traefik - modern HTTP reverse proxy and load balancer made to deploy microservices with ease
+  https://traefik.io/
 
 ## CMS Tools
 
