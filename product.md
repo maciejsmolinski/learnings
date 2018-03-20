@@ -17,6 +17,8 @@
   https://gojko.net/2017/12/11/christmas-prioritisation.html
 * Google Ventures - The Design Sprint
   http://www.gv.com/sprint/
+* The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses https://www.microsoft.com/en-us/research/video/the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses/
+* The Lean Startup: This Week In Startups - Eric Ries of Lean Startup https://www.youtube.com/watch?v=2mLrNHSn-yc
 
 ## Disruption & Innovation
 
