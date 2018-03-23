@@ -15,3 +15,7 @@
 > To be everywhere is to be nowhere.
 >
 > ~ Seneca, Letters from a Stoic
+
+> SW2 + WC = MO (Some will love it, some won’t + who cares? = move on)
+>
+> ~ Overheard by Joe Gebbia (https://tim.blog/2018/03/08/joe-gebbia-co-founder-of-airbnb/
