@@ -50,6 +50,7 @@
 
 ## Various Monads
 
+* [What does Free buy us? Let’s talk about free monads](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html)
 * [Free Monad - Cheatsheet](http://jeremymikkola.com/posts/2017_07_11_free_monad_cheatsheet.html)
 * [The Continuation Monad](http://www.haskellforall.com/2012/12/the-continuation-monad.html)
 * [Transient Monad Tutorial](https://github.com/transient-haskell/transient/wiki/Transient-tutorial)
