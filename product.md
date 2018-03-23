@@ -57,6 +57,12 @@
   https://marvelapp.com/design/
 * Haiku - Design UI components, powered by motion. Works with any iOS, Android, or Web codebase.
   https://www.haiku.ai/
+* Sketch. The digital design toolkit
+  https://www.sketchapp.com/
+* InVision Studio - The world's most powerful screen design tool
+  https://www.invisionapp.com/studio
+* Adobe XD. Design. Prototype. Experience
+  https://www.adobe.com/mt/products/xd.html
 * InVision Inspect — Pixel-perfect design handoffs for your team
   https://www.invisionapp.com/feature/inspect
 * Zeplin - Build pixel perfect apps in peace. Design hand-off has never been easier.
