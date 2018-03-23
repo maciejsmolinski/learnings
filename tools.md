@@ -34,6 +34,8 @@
 
 * Witeboard - the fastest way to collaborate real-time with your team anywhere
   https://witeboard.com/c049a1d0-0acb-11e8-b5ed-79faf7afa652
+* Notion.so - All-in-one workspace. Write, plan, collaborate, and get organized. Notion is all you need — in one tool.
+  https://www.notion.so/
 
 ## Focus & Productivity
 
