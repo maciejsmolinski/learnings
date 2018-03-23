@@ -31,6 +31,8 @@
   https://github.com/natefaubion/matches.js
 * Nanoscope - Lenses in JavaScript
   http://www.kovach.me/nanoscope/getting-started.html
+* Daggy - Library for creating tagged constructors a.k.a. "union types" or "sum types".
+  https://github.com/fantasyland/daggy
 * Composability: from Callbacks to Categories in ES6
   https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e#.mgthgbbac
 * Another Perspective on Promises (Promise as a category)
