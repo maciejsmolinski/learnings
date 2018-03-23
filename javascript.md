@@ -177,6 +177,8 @@
   https://lernajs.io/
 * npx - execute npm package binaries
   https://github.com/zkat/npx
+* npm - scoped packages
+  https://docs.npmjs.com/misc/scope
   
 ## Interactive Development
 
