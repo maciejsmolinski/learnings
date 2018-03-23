@@ -13,6 +13,11 @@
 * Traefik - modern HTTP reverse proxy and load balancer made to deploy microservices with ease
   https://traefik.io/
 
+## Performance
+
+* WRK - a Modern HTTP benchmarking tool
+  https://github.com/wg/wrk
+
 ## CMS Tools
 
 * Tipe - Next Generation API-first CMS
