@@ -166,6 +166,8 @@
   https://svelte.technology
 * Vue - The Progressive JavaScript Framework
   https://vuejs.org
+* xstate - Functional, stateless JavaScript finite state machines and statecharts.
+  https://www.npmjs.com/package/xstate
 
 ## Package Managemet
 
