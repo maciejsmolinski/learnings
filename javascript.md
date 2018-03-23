@@ -223,6 +223,8 @@
   http://jphpsf.github.io/setImmediate-shim-demo/
 * V8 - Performance Profiling
   https://github.com/thlorenz/v8-perf/blob/master/performance-profiling.md
+* Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js
+  https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs
 
 ## Abstract / Good Code / Patterns
 
