@@ -48,10 +48,15 @@
 * [Clean Alternatives with MaybeT](http://www.parsonsmatt.org/2016/11/18/clean_alternatives_with_maybet.html)
 * [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
 
-## Various Monads
+## Free Monads
 
 * [What does Free buy us? Let’s talk about free monads](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html)
+* [A Modern Architecture for FP](http://degoes.net/articles/modern-fp)
+* [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
 * [Free Monad - Cheatsheet](http://jeremymikkola.com/posts/2017_07_11_free_monad_cheatsheet.html)
+
+## Various Monads
+
 * [The Continuation Monad](http://www.haskellforall.com/2012/12/the-continuation-monad.html)
 * [Transient Monad Tutorial](https://github.com/transient-haskell/transient/wiki/Transient-tutorial)
 
