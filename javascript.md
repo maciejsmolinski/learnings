@@ -260,6 +260,8 @@
   https://learnnextjs.com/
 * Node Foreman - a manager for Procfile-based applications
   https://github.com/strongloop/node-foreman
+* A Roadmap for Node.js Security
+  https://nodesecroadmap.fyi/
 * Node.js best practices - A curated list from the top ranked articles and always updated
   https://github.com/i0natan/nodebestpractices#2-error-handling-practices
 * Project Guidelines - A set of best practices for JavaScript projects
