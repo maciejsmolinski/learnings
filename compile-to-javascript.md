@@ -15,6 +15,8 @@
 
 * Official Website
   http://elm-lang.org
+* Elm Europe 2017 - Evan Czaplicki - The life of a file
+  https://www.youtube.com/watch?v=XpDsk374LDE
 * Elm - Learning Elm From A Drum Sequencer (Part 1)
   https://www.smashingmagazine.com/2018/01/learning-elm-drum-sequencer-part-1/
 
