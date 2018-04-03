@@ -28,6 +28,7 @@
 ## Videos
 
 * Category Theory for the Working Hacker by Philip Wadler ([youtube](https://www.youtube.com/watch?v=V10hzjgoklA))
+* Category Theory, The essence of interface-based design - Erik Meijer ([youtube](https://www.youtube.com/watch?v=JMP6gI5mLHc))
 
 ## Articles
 
