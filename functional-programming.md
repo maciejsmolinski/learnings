@@ -48,6 +48,9 @@
 
 ## Articles
 
+* So You Still Don't Understand Hindley-Milner? Part 1 ([www](http://akgupta.ca/blog/2013/05/14/so-you-still-dont-understand-hindley-milner/))
+* So You Still Don't Understand Hindley-Milner? Part 2 ([www](http://akgupta.ca/blog/2013/06/07/so-you-still-dont-understand-hindley-milner-part-2/))
+* So You Still Don't Understand Hindley-Milner? Part 3 ([www](http://akgupta.ca/blog/2013/06/07/so-you-still-dont-understand-hindley-milner-part-3/))
 * The type system of mathematics ([www](https://qchu.wordpress.com/2013/05/28/the-type-system-of-mathematics/))
 
 # Computational Effects
