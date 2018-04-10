@@ -15,6 +15,7 @@
   https://beta.observablehq.com/
 
 ## Functional Programming in JavaScript
+
 * Fear, trust and JavaScript: When types and functional programming fail
   https://www.reaktor.com/blog/fear-trust-and-javascript/
 * Functional Front-End Coding
@@ -154,6 +155,8 @@
   https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
 * React - How to use React's Provider Pattern
   https://www.robinwieruch.de/react-provider-pattern-context/
+* React - Render Prop / Children Prop - Michael Jackson - Never Write Another HoC
+  https://www.youtube.com/watch?v=BcVAq3YFiuc
 * React - React Christmas (Advent Calendar)
   https://react.christmas
 * React - Build forms in React, without the tears
