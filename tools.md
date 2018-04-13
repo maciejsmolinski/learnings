@@ -42,6 +42,11 @@
 * Noisli.com - Improve Focus and Boost Productivity with Background Noise
   https://www.noisli.com/
 
+## Interactive Programming
+
+* Observable is a better way to code
+  https://beta.observablehq.com/
+
 ## Spreadsheets
 
 * Airtable.com - Organize anything, with anyone, from anywhere
