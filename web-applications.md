@@ -49,6 +49,10 @@
 * Everyone can now run JavaScript on Cloudflare with Workers
   https://blog.cloudflare.com/cloudflare-workers-unleashed/
 
+## Accessibility
+
+* Easy Accessibility Testing with aXe
+  https://www.axe-core.org/
 
 ## Books
 
