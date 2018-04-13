@@ -26,6 +26,8 @@
 
 * nginx — HTTP and reverse proxy server
   https://nginx.org/en/
+* Caddy — the HTTP/2 web server with automatic HTTPS
+  https://caddyserver.com/
 * OpenResty® — Scalable Web Platform by Extending NGINX with Lua
   https://openresty.org/en/
 
