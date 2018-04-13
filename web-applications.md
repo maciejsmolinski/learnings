@@ -4,6 +4,8 @@
 
 * Resource-oriented client architecture
   http://roca-style.org/
+* JAMstack — Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup
+  https://jamstack.org/
 * The Twelve-Factor App
   https://12factor.net/
 * Micro Frontends - extending the microservice idea to frontend development
