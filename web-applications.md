@@ -26,6 +26,8 @@
 
 ## Performance
 
+* Performance Budget Calculator — Calculate A Performance Budget For Your Site
+  http://www.performancebudget.io/
 * Essential Image Optimization - An eBook by Addy Osmani
   https://images.guide/
 * Image Analysis Tool (Website Speed Test)
