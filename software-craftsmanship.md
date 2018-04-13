@@ -31,6 +31,11 @@
 > Programming is a systematic design of abstractions and a systematic approach to human creativity
 > ~ Jay McCarthy 
 
+## Parsing & Interpreters
+
+* Crafting Interpreters — A handbook for making programming languages.
+  http://craftinginterpreters.com/
+
 ## End Goal
 
 * Giving good demos
