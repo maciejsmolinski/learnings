@@ -17,6 +17,11 @@
 * Fast and Fearless Evolution of Server-Side Web Applications
   https://wickstrom.tech/programming/2017/12/18/fast-and-fearless-evolution-of-server-side-web-applications.html
 
+## Containers & Microservices
+
+* Træfik — HTTP reverse proxy and load balancer made to deploy microservices with ease
+  https://traefik.io/
+
 ## Operating Systems
 
 * MirageOS is a library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms
