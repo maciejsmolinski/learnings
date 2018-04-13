@@ -22,6 +22,13 @@
 * Træfik — HTTP reverse proxy and load balancer made to deploy microservices with ease
   https://traefik.io/
 
+## HTTP
+
+* nginx — HTTP and reverse proxy server
+  https://nginx.org/en/
+* OpenResty® — Scalable Web Platform by Extending NGINX with Lua
+  https://openresty.org/en/
+
 ## Operating Systems
 
 * MirageOS is a library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms
