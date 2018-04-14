@@ -20,8 +20,7 @@
 
 ## Practical Examples
 
-* Scott Wlaschin - Railway Oriented Programming — error handling in functional languages
-  https://vimeo.com/97344498
+* Scott Wlaschin - Railway Oriented Programming — error handling in functional languages ([vimeo](https://vimeo.com/97344498))
 
 # Category Theory
 
@@ -33,6 +32,10 @@
 ## Articles
 
 * From design patterns to category theory ([www](http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/))
+
+## Websites
+
+* nLab — category theory ([wiki](https://ncatlab.org/nlab/show/category+theory))
 
 # Lambda Calculus
 
@@ -55,8 +58,7 @@
 
 ## Videos
 
-* Dependent Types - Idris - Type safe printf
-  https://www.youtube.com/watch?v=fVBck2Zngjo
+* Dependent Types - Idris - Type safe printf ([youtube](https://www.youtube.com/watch?v=fVBck2Zngjo))
 
 # Computational Effects
 
