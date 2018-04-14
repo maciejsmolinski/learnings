@@ -10,6 +10,11 @@
 * Build your own RSpec – introduction to DSL and metaprogramming
   http://pdabrowski.com/blog/ruby-on-rails/testing/build-your-own-rspec/
 
+## Good Practices & Patterns
+
+* Enough With the Service Objects Already
+  https://avdi.codes/service-objects/
+
 ## Frameworks
 
 * Ruby on Rails — a web-application framework that includes everything needed to create database-backed web applications
