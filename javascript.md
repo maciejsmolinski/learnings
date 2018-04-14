@@ -174,7 +174,7 @@
 * xstate - Functional, stateless JavaScript finite state machines and statecharts.
   https://www.npmjs.com/package/xstate
 
-## Package Managemet
+## Package Management & Bundlers
 
 * Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser
   https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403
@@ -186,6 +186,10 @@
   https://github.com/zkat/npx
 * npm - scoped packages
   https://docs.npmjs.com/misc/scope
+* Parcel — Blazing fast, zero configuration web application bundler
+  https://parceljs.org/
+* Webpack — module bundler
+  https://webpack.js.org/
   
 ## Interactive Development
 
