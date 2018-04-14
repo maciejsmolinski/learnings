@@ -14,3 +14,5 @@
 
 * Pry — a powerful alternative to the standard IRB shell for Ruby
   http://pryrepl.org/
+* Active Admin — The administration framework for Ruby on Rails
+  https://activeadmin.info/
