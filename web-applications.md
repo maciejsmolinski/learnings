@@ -81,7 +81,8 @@
 
 * A Complete Guide to Grid
   https://css-tricks.com/snippets/css/complete-guide-grid/
-
+* CSS Grid — Learn all about CSS Grid with Wes Bos in this free video series
+  https://cssgrid.io/
 
 ## Books
 
