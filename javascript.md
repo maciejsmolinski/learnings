@@ -180,6 +180,8 @@
   https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403
 * Lerna - A tool for managing JavaScript projects with multiple packages
   https://lernajs.io/
+* Yarn Workspaces —  a new way to setup your package architecture
+  https://yarnpkg.com/lang/en/docs/workspaces/
 * npx - execute npm package binaries
   https://github.com/zkat/npx
 * npm - scoped packages
