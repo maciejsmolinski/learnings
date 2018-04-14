@@ -72,6 +72,11 @@
 * Easy Accessibility Testing with aXe
   https://www.axe-core.org/
 
+## Standards
+
+* What’s New in HTML 5.2?
+  https://bitsofco.de/whats-new-in-html-5-2/
+
 ## Books
 
 * The Complete NGINX Cookbook
