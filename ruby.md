@@ -28,3 +28,5 @@
   http://pryrepl.org/
 * Active Admin — The administration framework for Ruby on Rails
   https://activeadmin.info/
+* Faktory — High-performance job processing for the polyglot enterprise
+  http://contribsys.com/faktory/
