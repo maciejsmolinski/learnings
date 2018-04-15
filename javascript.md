@@ -275,6 +275,8 @@
   https://github.com/i0natan/nodebestpractices#2-error-handling-practices
 * Project Guidelines - A set of best practices for JavaScript projects
   https://github.com/wearehive/project-guidelines
+* Node.js Streams: Everything you need to know
+  https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93
 * Experiments with Koa and JavaScript Generators
   http://blog.stevensanderson.com/2013/12/21/experiments-with-koa-and-javascript-generators/
 * Hates Node.js
