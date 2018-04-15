@@ -14,6 +14,8 @@
   https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f
 * 7 Habits of Highly Effective Thinkers
   https://www.youtube.com/watch?v=IFWbxZrjWhM
+* The Crucial Thinking Skill Nobody Ever Taught You
+  https://medium.com/the-mission/the-crucial-thinking-skill-nobody-ever-taught-you-536191d101ab
 
 ## Teaching
 
