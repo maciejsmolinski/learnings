@@ -157,6 +157,8 @@
   https://www.robinwieruch.de/react-provider-pattern-context/
 * React - Render Prop / Children Prop - Michael Jackson - Never Write Another HoC
   https://www.youtube.com/watch?v=BcVAq3YFiuc
+* Replacing Redux with the new React context API
+  https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c  
 * React - React Christmas (Advent Calendar)
   https://react.christmas
 * React - Build forms in React, without the tears
