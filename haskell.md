@@ -44,6 +44,7 @@
 ## Dependent Types
 
 * [Basic Type Level Programming in Haskell by Matt Parsons](http://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html)
+* [Type Tac Toe: Advanced Type Safety](https://chrispenner.ca/posts/type-tac-toe)
 
 ## Monad Transformers
 
