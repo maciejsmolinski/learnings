@@ -45,7 +45,7 @@
   https://egghead.io/courses/advanced-react-component-patterns
 * Professor Frisby Introduces Composable Functional JavaScript
   https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box
-* Heres how React's New Context API Works
+* Here's how React's New Context API Works
   https://www.youtube.com/watch?v=XLJN4JfniH4
 
 ## Functional Reactive Programming in JavaScript
@@ -157,7 +157,9 @@
   https://www.robinwieruch.de/react-provider-pattern-context/
 * React - Render Prop / Children Prop - Michael Jackson - Never Write Another HoC
   https://www.youtube.com/watch?v=BcVAq3YFiuc
-* Replacing Redux with the new React context API
+* React — Here's how React's New Context API Works
+  https://www.youtube.com/watch?v=XLJN4JfniH4
+* React — Replacing Redux with the new React Context API
   https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c  
 * React - React Christmas (Advent Calendar)
   https://react.christmas
