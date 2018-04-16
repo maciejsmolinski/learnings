@@ -41,6 +41,10 @@
 * [More thoughts on the Expression Problem in Haskell](https://eli.thegreenplace.net/2018/more-thoughts-on-the-expression-problem-in-haskell/)
 * [Haskell functions as functors, applicatives and monads](https://eli.thegreenplace.net/2018/haskell-functions-as-functors-applicatives-and-monads/)
 
+## Dependent Types
+
+* [Basic Type Level Programming in Haskell by Matt Parsons](http://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html)
+
 ## Monad Transformers
 
 * [Monad Transformers Step by Step by Martin Grabmuller (PDF)](https://page.mi.fu-berlin.de/scravy/realworldhaskell/materialien/monad-transformers-step-by-step.pdf)
