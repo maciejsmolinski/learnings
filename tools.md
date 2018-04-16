@@ -13,6 +13,13 @@
 * Traefik - modern HTTP reverse proxy and load balancer made to deploy microservices with ease
   https://traefik.io/
 
+## Code Editors
+
+* Visual Studio Code
+  https://code.visualstudio.com/
+* Code Editor Themes — Rainglow
+  https://rainglow.io/
+
 ## Performance
 
 * WRK - a Modern HTTP benchmarking tool
