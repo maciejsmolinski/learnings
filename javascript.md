@@ -286,6 +286,10 @@
 * Server.js - a powerful server for Node.js that just works
   https://serverjs.io/
 
+## Case Studies
+
+* Building a Text Editor for a Digital-First Newsroom
+  https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21
 
 ## Debugging
 
