@@ -40,6 +40,7 @@
 * [Phantom Types](https://en.wikibooks.org/wiki/Haskell/Phantom_types)
 * [More thoughts on the Expression Problem in Haskell](https://eli.thegreenplace.net/2018/more-thoughts-on-the-expression-problem-in-haskell/)
 * [Haskell functions as functors, applicatives and monads](https://eli.thegreenplace.net/2018/haskell-functions-as-functors-applicatives-and-monads/)
+* [Functional_dependencies](https://wiki.haskell.org/Functional_dependencies)
 
 ## Dependent Types
 
