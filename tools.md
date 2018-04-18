@@ -31,6 +31,10 @@
   https://tipe.io/
 * Contentful - Don’t let a CMS get in the way of shipping software
   https://www.contentful.com/
+* Graphcool — Self-Hosted GraphQL BaaS 
+  https://www.graph.cool/
+* GraphCMS — The GraphQL CMS
+  https://graphcms.com/
 
 ## Social Media
 
