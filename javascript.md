@@ -182,6 +182,8 @@
 
 * GraphQL — Apollo — Bind GraphQL data to your UI with one function call
   https://www.apollographql.com/client/
+* GraphQL — Graphcool — Self-Hosted GraphQL BaaS
+  https://www.graph.cool/
 
 ## Package Management & Bundlers
 
