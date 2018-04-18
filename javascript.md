@@ -178,6 +178,11 @@
 * xstate - Functional, stateless JavaScript finite state machines and statecharts.
   https://www.npmjs.com/package/xstate
 
+## Rest & GraphQL
+
+* GraphQL — Apollo — Bind GraphQL data to your UI with one function call
+  https://www.apollographql.com/client/
+
 ## Package Management & Bundlers
 
 * Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser
