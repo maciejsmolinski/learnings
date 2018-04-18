@@ -14,3 +14,10 @@
 
 * Random Numbers - Numberphile
   https://www.youtube.com/watch?v=SxP30euw3-0
+
+## How Computers Work
+
+* How do computers read code?
+  https://www.youtube.com/watch?v=QXjU9qTsYCc
+* Crash Course — Computer Science — Video Series
+  https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
