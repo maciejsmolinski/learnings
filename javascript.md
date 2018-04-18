@@ -11,8 +11,10 @@
 
 ## Learning & Interactive Platforms
 
-* Observable - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration
+* Observable — Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration
   https://beta.observablehq.com/
+* RunKit — sandboxed JavaScript environment where you can instantly switch node versions, use every npm module without having to wait to install it, and even visualize your results
+  https://runkit.com/home
 
 ## Functional Programming in JavaScript
 
