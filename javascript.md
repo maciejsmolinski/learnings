@@ -231,6 +231,8 @@
   https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/
 * Indicating offline
   https://justmarkup.com/log/2016/08/indicating-offline/
+* Designing For A Browserless Web
+  https://www.smashingmagazine.com/2017/11/designing-for-a-browserless-web/
 
 ## Shadow DOM / Scoping
 
