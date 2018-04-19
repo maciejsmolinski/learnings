@@ -179,6 +179,8 @@
   https://vuejs.org
 * xstate - Functional, stateless JavaScript finite state machines and statecharts.
   https://www.npmjs.com/package/xstate
+* Bit - Components are building blocks. You are the architect. 
+  https://bitsrc.io/
 
 ## Rest & GraphQL
 
