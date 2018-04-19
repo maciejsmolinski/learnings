@@ -54,6 +54,8 @@
   https://reasonml.github.io/api/Pervasives.html
 * ReasonReact Router
   https://reasonml.github.io/reason-react/docs/en/router.html
+* How I deployed a ReasonML React app with Docker
+  https://blog.hasura.io/how-i-deployed-a-reasonml-react-app-with-docker-29dd2ce6de82
 
 ## BuckleScript
 
