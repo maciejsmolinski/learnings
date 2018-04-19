@@ -52,6 +52,8 @@
   http://gradus-reason.com/steps/
 * Pervasives — Standard Library
   https://reasonml.github.io/api/Pervasives.html
+* ReasonReact Router
+  https://reasonml.github.io/reason-react/docs/en/router.html
 
 ## BuckleScript
 
