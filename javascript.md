@@ -87,6 +87,8 @@
 
 * WebAssembly support now shipping in all major browsers
   https://blog.mozilla.org/blog/2017/11/13/webassembly-in-browsers/
+* Hello wasm-pack!
+  https://hacks.mozilla.org/2018/04/hello-wasm-pack/
 
 ## Typechecking
 
