@@ -57,6 +57,8 @@
 
 ## Testing
 
+* JavaScript Testing: Unit vs Functional vs Integration Tests
+  https://www.sitepoint.com/javascript-testing-unit-functional-integration/
 * A guide to unit testing in JavaScript
   https://github.com/mawrkus/js-unit-testing-guide
 * Mocking is a Code Smell
