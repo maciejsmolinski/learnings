@@ -57,6 +57,8 @@
 
 ## Testing
 
+* A guide to unit testing in JavaScript
+  https://github.com/mawrkus/js-unit-testing-guide
 * Mocking is a Code Smell
   https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
 * Jest - Delightful JavaScript Testing
