@@ -188,6 +188,9 @@
   https://www.apollographql.com/client/
 * GraphQL — Graphcool — Self-Hosted GraphQL BaaS
   https://www.graph.cool/
+* GraphQL — How GraphQL Replaces Redux
+  https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d
+
 
 ## Package Management & Bundlers
 
