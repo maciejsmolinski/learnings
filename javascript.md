@@ -81,6 +81,11 @@
 * Can I require on webtask.io?
   https://tehsis.github.io/webtaskio-canirequire/
 
+## WebAssembly
+
+* WebAssembly support now shipping in all major browsers
+  https://blog.mozilla.org/blog/2017/11/13/webassembly-in-browsers/
+
 ## Typechecking
 
 * Type Systems for JavaScript - Flow and TypeScript
