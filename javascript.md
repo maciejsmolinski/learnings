@@ -146,51 +146,53 @@
   http://mithril.js.org/
 * Skate - library built on top of the W3C web component specs that enables you to write functional and performant web components with a very small footprint
   https://github.com/skatejs/skatejs
-* Monkberry - blazingly fast, small 1kb and simple JavaScript library for building web user interfaces
+* Monkberry — blazingly fast, small 1kb and simple JavaScript library for building web user interfaces
   http://monkberry.js.org/ 
-* Choo - fun functional programming - A 5kb framework for creating sturdy frontend applications
+* Choo — fun functional programming - A 5kb framework for creating sturdy frontend applications
   https://github.com/yoshuawuyts/choo
-* Hyperapp - 1 KB JavaScript library for building frontend applications
+* Hyperapp — 1 KB JavaScript library for building frontend applications
   https://hyperapp.js.org/
-* Moon - A minimal, blazing fast user interface library
+* Moon — A minimal, blazing fast user interface library
   http://moonjs.ga/
-* Nerv - A blazing fast React alternative, compatible with IE8 and React 16
+* Nerv — A blazing fast React alternative, compatible with IE8 and React 16
   https://nerv.aotu.io/
-* Stencil - The magical, reusable web component generator
+* Stencil — The magical, reusable web component generator
   https://stenciljs.com/
-* Sammy - a general Web Framework With Class
+* Sammy — a general Web Framework With Class
   http://sammyjs.org/
 * React 
   https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
 * React Fiber Architecture
   https://github.com/acdlite/react-fiber-architecture
-* React - Mixins Are Dead. Long Live Composition
+* React — Mixins Are Dead. Long Live Composition
   https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750
-* React - How to use React's Provider Pattern
+* React — How to use React's Provider Pattern
   https://www.robinwieruch.de/react-provider-pattern-context/
-* React - Render Prop / Children Prop - Michael Jackson - Never Write Another HoC
+* React — Render Prop / Children Prop - Michael Jackson - Never Write Another HoC
   https://www.youtube.com/watch?v=BcVAq3YFiuc
 * React — Here's how React's New Context API Works
   https://www.youtube.com/watch?v=XLJN4JfniH4
 * React — Replacing Redux with the new React Context API
   https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c  
-* React - React Christmas (Advent Calendar)
+* React — React Christmas (Advent Calendar)
   https://react.christmas
-* React - Build forms in React, without the tears
+* React — Build forms in React, without the tears
   https://github.com/jaredpalmer/formik
-* React - Portals provide a first-class way to render children into a DOM node that exists outside the DOM hierarchy of the parent component
+* React — Portals provide a first-class way to render children into a DOM node that exists outside the DOM hierarchy of the parent component
+* React — Introducing React Easy State
+  https://blog.risingstack.com/introducing-react-easy-state/
   https://reactjs.org/docs/portals.html
-* Inferno - An extremely fast React-like JavaScript library for building modern user interfaces.
+* Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
-* Preact - Fast 3kB alternative to React with the same ES6 API
+* Preact — Fast 3kB alternative to React with the same ES6 API
   https://preactjs.com
-* Svelte - framework without the framework - the magical disappearing UI framework
+* Svelte — framework without the framework - the magical disappearing UI framework
   https://svelte.technology
-* Vue - The Progressive JavaScript Framework
+* Vue — The Progressive JavaScript Framework
   https://vuejs.org
-* xstate - Functional, stateless JavaScript finite state machines and statecharts.
+* xstate — Functional, stateless JavaScript finite state machines and statecharts.
   https://www.npmjs.com/package/xstate
-* Bit - Components are building blocks. You are the architect. 
+* Bit — Components are building blocks. You are the architect. 
   https://bitsrc.io/
 
 ## Rest & GraphQL
