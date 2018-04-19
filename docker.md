@@ -12,6 +12,11 @@
 * Docker-compose cheatsheet
   https://devhints.io/docker-compose
 
+## Best Practices
+
+* Best practices for writing Dockerfiles
+  https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+
 ## Tools
 
 * Kitematic - Run containers through a simple, yet powerful graphical user interface
