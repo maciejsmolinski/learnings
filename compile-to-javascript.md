@@ -50,6 +50,8 @@
   http://reasonmlhub.com/exploring-reasonml/toc.html
 * Gradus Reason - Steps to learning Reason OCaml
   http://gradus-reason.com/steps/
+* Pervasives — Standard Library
+  https://reasonml.github.io/api/Pervasives.html
 
 ## BuckleScript
 
