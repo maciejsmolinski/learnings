@@ -23,3 +23,5 @@
   https://kitematic.com/
 * Portainer - Simple management UI for Docker
   https://portainer.io/
+* Traefik - modern HTTP reverse proxy and load balancer made to deploy microservices with ease
+  https://traefik.io/
