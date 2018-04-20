@@ -35,6 +35,11 @@
 * [ViewPatterns](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/pattern-and-guard-extensions#viewpatterns)
 * [TypeApplications](https://kseo.github.io/posts/2017-01-08-visible-type-application-ghc8.html)
 
+## Haskell Internals
+
+* Polymorphism for dummies
+  http://www.haskellforall.com/2015/10/polymorphism-for-dummies.html
+
 ## Typeclasses / Types / Algebraic Data Types
 
 * [MonadIO Considered Harmful](http://chrispenner.ca/posts/monadio-considered-harmful)
