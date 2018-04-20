@@ -30,6 +30,10 @@
 * [Philip Wadler - The First Monad Tutorial](https://www.youtube.com/watch?v=yjmKMhJOJos)
 * [Haskell for JavaScript programmers](https://www.youtube.com/watch?v=pUN3algpvMs)
 
+## Language Extensions
+
+* [ViewPatterns](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/pattern-and-guard-extensions#viewpatterns)
+
 ## Typeclasses / Types / Algebraic Data Types
 
 * [MonadIO Considered Harmful](http://chrispenner.ca/posts/monadio-considered-harmful)
