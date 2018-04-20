@@ -325,6 +325,8 @@
 
 * Building a Text Editor for a Digital-First Newsroom
   https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21
+* Edpuzzle - Migrating to React progressively but painlessly
+  https://www.slideshare.net/santihbc/edpuzzle-migrating-to-react-progressively-but-painlessly
 
 ## Debugging
 
