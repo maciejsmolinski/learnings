@@ -33,6 +33,7 @@
 ## Language Extensions
 
 * [ViewPatterns](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/pattern-and-guard-extensions#viewpatterns)
+* [TypeApplications](https://kseo.github.io/posts/2017-01-08-visible-type-application-ghc8.html)
 
 ## Typeclasses / Types / Algebraic Data Types
 
