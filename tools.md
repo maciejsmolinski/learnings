@@ -24,6 +24,10 @@
 
 * Gradient by ShapeFactory
   https://gradient.shapefactory.co/
+* Pigment by ShapeFactory
+  https://pigment.shapefactory.co/
+* Duotone by ShapeFactory
+  https://duotone.shapefactory.co/
 
 ## Performance
 
