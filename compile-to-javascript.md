@@ -4,6 +4,8 @@
   http://www.purescript.org
 * "PureScript by Example" by Phil Freeman (book)
   https://leanpub.com/purescript
+* Fear, trust and PureScript: Building on trust with types and functional programming
+  https://www.reaktor.com/blog/fear-trust-and-purescript/
 * Functional Programming Concepts in Purescript (online course)
   https://egghead.io/courses/functional-programming-concepts-in-purescript
 * Symbols and IsSymbol Instances
