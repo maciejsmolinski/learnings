@@ -221,6 +221,8 @@
   https://parceljs.org/
 * Webpack — module bundler
   https://webpack.js.org/
+* Rollup —  a module bundler for JavaScript which compiles small pieces of code into something larger and more complex
+  https://rollupjs.org/guide/en
   
 ## Interactive Development
 
