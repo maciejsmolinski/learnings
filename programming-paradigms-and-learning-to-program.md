@@ -15,6 +15,11 @@
 * Random Numbers - Numberphile
   https://www.youtube.com/watch?v=SxP30euw3-0
 
+## Image Processing
+
+* Image Processing 101
+  https://codewords.recurse.com/issues/six/image-processing-101
+
 ## How Computers Work
 
 * How do computers read code?
