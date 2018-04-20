@@ -20,6 +20,11 @@
 * Code Editor Themes — Rainglow
   https://rainglow.io/
 
+## Design Tools
+
+* Gradient by ShapeFactory
+  https://gradient.shapefactory.co/
+
 ## Performance
 
 * WRK - a Modern HTTP benchmarking tool
