@@ -13,6 +13,11 @@
 * Traefik - modern HTTP reverse proxy and load balancer made to deploy microservices with ease
   https://traefik.io/
 
+## Cloud Services
+
+* Manifold — Find, organize, and connect the best cloud services
+  https://www.manifold.co/
+
 ## Code Editors
 
 * Visual Studio Code
