@@ -10,6 +10,7 @@
 * [Haskell Website](https://www.haskell.org/)
 * [Haskell API search engine](https://www.haskell.org/hoogle/)
 * [Advice for Haskell beginners](http://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html)
+* [The Nesting Instinct](https://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html)
 * [What is your review of Haskell (programming language)?](https://www.quora.com/What-is-your-review-of-Haskell-programming-language)
 * [Haskell at work — Screencasts focused on practical Haskell programming](https://haskell-at-work.com/)
 * [Haskell Is Not Programming](https://superstrings.io/haskell-is-not-programming-3246779f2ef6)
