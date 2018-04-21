@@ -215,7 +215,6 @@
 * GraphQL — How GraphQL Replaces Redux
   https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d
 
-
 ## Package Management & Bundlers
 
 * Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser
@@ -295,6 +294,8 @@
   http://jlongster.com/Whats-in-a-Continuation
 * A Guide to Modular Design Thinking
   https://ponyfoo.com/articles/modular-design-thinking
+* Designing very large (JavaScript) applications
+  https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3
 
 ## Architecture
 
