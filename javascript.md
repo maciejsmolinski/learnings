@@ -9,6 +9,15 @@
 * Robust Client-Side JavaScript - A Developer’s Guide
   https://molily.de/robust-javascript/
 
+## Case Studies
+
+* Building a Text Editor for a Digital-First Newsroom
+  https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21
+* Edpuzzle - Migrating to React progressively but painlessly
+  https://www.slideshare.net/santihbc/edpuzzle-migrating-to-react-progressively-but-painlessly
+* Front-End Case Studies
+  https://github.com/andrew--r/frontend-case-studies
+
 ## Learning & Interactive Platforms
 
 * Observable — Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration
@@ -320,13 +329,6 @@
   https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
 * Server.js - a powerful server for Node.js that just works
   https://serverjs.io/
-
-## Case Studies
-
-* Building a Text Editor for a Digital-First Newsroom
-  https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21
-* Edpuzzle - Migrating to React progressively but painlessly
-  https://www.slideshare.net/santihbc/edpuzzle-migrating-to-react-progressively-but-painlessly
 
 ## Debugging
 
