@@ -15,6 +15,8 @@
   https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21
 * Edpuzzle - Migrating to React progressively but painlessly
   https://www.slideshare.net/santihbc/edpuzzle-migrating-to-react-progressively-but-painlessly
+* Rearchitecting Airbnb’s Frontend
+  https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2
 * Front-End Case Studies
   https://github.com/andrew--r/frontend-case-studies
 
