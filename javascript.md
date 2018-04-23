@@ -204,6 +204,8 @@
   https://blog.risingstack.com/introducing-react-easy-state/
 * React — The state reducer pattern
   https://blog.kentcdodds.com/the-state-reducer-pattern-️-b40316cfac57
+* React — State so simple, it goes without saying 
+  https://unstated.io
 * React — Book — React in patterns by Krasimir Tsonev
   https://krasimir.gitbooks.io/react-in-patterns/content/
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
