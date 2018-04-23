@@ -74,6 +74,7 @@
 ## Free Monads
 
 * [What does Free buy us? Let’s talk about free monads](http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html)
+* [Matt Parsons - I Command You to be Free! - λC 2017](https://www.youtube.com/watch?v=Ej5FQtEgTBw)
 * [A Modern Architecture for FP](http://degoes.net/articles/modern-fp)
 * [Monad transformers, free monads, mtl, laws and a new approach](https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html)
 * [Free Monad - Cheatsheet](http://jeremymikkola.com/posts/2017_07_11_free_monad_cheatsheet.html)
