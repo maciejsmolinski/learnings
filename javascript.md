@@ -20,6 +20,11 @@
 * Front-End Case Studies
   https://github.com/andrew--r/frontend-case-studies
 
+## Books
+
+* React in patterns by Krasimir Tsonev
+  https://krasimir.gitbooks.io/react-in-patterns/content/
+
 ## Learning & Interactive Platforms
 
 * Observable — Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration
@@ -194,9 +199,11 @@
 * React — Build forms in React, without the tears
   https://github.com/jaredpalmer/formik
 * React — Portals provide a first-class way to render children into a DOM node that exists outside the DOM hierarchy of the parent component
+  https://reactjs.org/docs/portals.html
 * React — Introducing React Easy State
   https://blog.risingstack.com/introducing-react-easy-state/
-  https://reactjs.org/docs/portals.html
+* React — Book — React in patterns by Krasimir Tsonev
+  https://krasimir.gitbooks.io/react-in-patterns/content/
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
