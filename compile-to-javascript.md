@@ -12,6 +12,8 @@
   https://github.com/paf31/24-days-of-purescript-2016/blob/master/9.markdown
 * Hyper - Type-safe, statically checked composition of HTTP servers
   https://hyper.wickstrom.tech/
+* Counterexamples of Type Classes
+  http://blog.functorial.com/posts/2015-12-06-Counterexamples.html
 
 ## Elm 
 
