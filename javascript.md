@@ -70,8 +70,10 @@
 
 ## Functional Reactive Programming in JavaScript
 
-* Kefir.js - Reactive Programming library for JavaScript
+* Kefir.js — Reactive Programming library for JavaScript
   https://rpominov.github.io/kefir/
+* xstream — An extremely intuitive, small, and fast functional reactive stream library for JavaScript
+  http://staltz.github.io/xstream/
 
 ## Testing
 
