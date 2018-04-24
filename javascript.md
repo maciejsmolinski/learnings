@@ -218,6 +218,8 @@
   https://vuejs.org
 * xstate — Functional, stateless JavaScript finite state machines and statecharts.
   https://www.npmjs.com/package/xstate
+* ghooks — simple git hooks
+  https://github.com/ghooks-org/ghooks
 * Bit — Components are building blocks. You are the architect. 
   https://bitsrc.io/
 
