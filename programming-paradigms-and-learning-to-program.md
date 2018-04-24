@@ -4,6 +4,8 @@
 
 * Lambda Days 2018 - Felienne Hermans - How to teach programming and other things?
   https://www.youtube.com/watch?v=UJxXgugvXmE
+* Chris Allen - Why Johnny Can't Code Good - λC 2017
+  https://www.youtube.com/watch?v=2xyZeovFqCA
 
 ## Programming Paradigms
 
