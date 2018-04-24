@@ -99,6 +99,11 @@
 * UsabilityHub.com - Remote user testing
   https://usabilityhub.com/
 
+## Split Testing
+
+* How Long Should You Run Your A/B Test?
+  https://blog.mailchimp.com/how-long-to-run-an-ab-test/
+
 ## Error Tracking
 
 * LogRocket.com - Stop guessing why bugs happen
