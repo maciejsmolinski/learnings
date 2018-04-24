@@ -51,6 +51,8 @@
 
 * The art of the error message — Writing clear, helpful copy for when things go wrong
   https://thestyleofelements.org/the-art-of-the-error-message-9f878d0bff80
+* Common Types of Error Messages
+  https://drive.google.com/file/d/0B6f9wHapAofKRFdvU3BUbVZjckU/view
 
 ## Design & Prototyping
 
