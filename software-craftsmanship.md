@@ -18,6 +18,11 @@
 * Continuous integration vs. continuous delivery vs. continuous deployment
   https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd
 
+## Maintaining Code
+
+* Livable Code by Sarah Mei
+  https://vimeo.com/231672897
+
 ## Algorithms & Data Structures
 
 * Itsy Bitsy Data Structures - super simplified examples of many of the common data structures written in easy to read JavaScript
