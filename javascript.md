@@ -156,6 +156,8 @@
   https://mobx.js.org
 * Redux - Predictable state container for JavaScript apps 
   http://redux.js.org
+* redux-observable — RxJS 5-based middleware for Redux
+  https://redux-observable.js.org/
 * Rematch - Redux best practices without the boilerplate
   https://github.com/rematch/rematch
 * Refraction - A guard that represent central point of control in your application
