@@ -2,6 +2,8 @@
 
 ## Books & Online Resources
 
+* Creating Passionate Users Blog
+  http://headrush.typepad.com/
 * Intercom on Product Management
   https://www.intercom.com/books/product-management
 * Mind the Product - an international product community
