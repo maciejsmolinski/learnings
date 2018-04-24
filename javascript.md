@@ -74,6 +74,8 @@
   https://rpominov.github.io/kefir/
 * xstream — An extremely intuitive, small, and fast functional reactive stream library for JavaScript
   http://staltz.github.io/xstream/
+* most.js — Ultra-high performance reactive programming
+  https://github.com/cujojs/most
 
 ## Testing
 
