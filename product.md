@@ -4,10 +4,12 @@
 
 * Creating Passionate Users Blog
   http://headrush.typepad.com/
+* This deserves your attention — Leisa's reading list
+  https://tinyletter.com/leisa/
+* Mind the Product — an international product community
+  https://www.mindtheproduct.com/
 * Intercom on Product Management
   https://www.intercom.com/books/product-management
-* Mind the Product - an international product community
-  https://www.mindtheproduct.com/
 
 ## Product Frameworks
 
