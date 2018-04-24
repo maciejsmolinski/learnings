@@ -2,10 +2,12 @@
 
 ## Teaching and Learning to Program
 
-* Lambda Days 2018 - Felienne Hermans - How to teach programming and other things?
-  https://www.youtube.com/watch?v=UJxXgugvXmE
 * Chris Allen - Why Johnny Can't Code Good - λC 2017
   https://www.youtube.com/watch?v=2xyZeovFqCA
+* Making Badass Developers - Kathy Sierra - Fluent 2015
+  https://www.youtube.com/watch?v=FKTxC9pl-WM
+* Lambda Days 2018 - Felienne Hermans - How to teach programming and other things?
+  https://www.youtube.com/watch?v=UJxXgugvXmE
 
 ## Programming Paradigms
 
