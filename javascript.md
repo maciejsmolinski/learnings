@@ -282,6 +282,8 @@
 
 ## Performance
 
+* Secrets of the DOM Virtual Machine, Tom Dale (Glimmer.js, Incremental DOM)
+  https://www.youtube.com/watch?v=kD3LaHtwMm8
 * What happens when you visit ft.com?
   https://medium.com/ft-product-technology/making-a-request-to-the-financial-times-b2119a2f422d
 * React Performance Fixes on Airbnb Listing Pages
