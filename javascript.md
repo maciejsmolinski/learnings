@@ -228,6 +228,8 @@
   https://github.com/ghooks-org/ghooks
 * Bit — Components are building blocks. You are the architect. 
   https://bitsrc.io/
+* Glimmer.js — Fast and light-weight UI components for the web
+  https://glimmerjs.com/
 
 ## Rest & GraphQL
 
