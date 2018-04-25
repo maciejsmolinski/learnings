@@ -22,6 +22,8 @@
   https://cssreference.io/
 * Responsive Components: a Solution to the Container Queries Problem
   https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/
+* CSS Blocks — Blazing fast CSS for your design systems and app components
+  http://css-blocks.com/
 
 ## Design
 
