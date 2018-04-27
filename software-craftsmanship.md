@@ -36,10 +36,12 @@
 > Programming is a systematic design of abstractions and a systematic approach to human creativity
 > ~ Jay McCarthy 
 
-## Parsing & Interpreters
+## Parsing, Interpreters & Compilers
 
 * Crafting Interpreters — A handbook for making programming languages.
   http://craftinginterpreters.com/
+* Andy Keep - Writing a Nanopass Compiler
+  https://www.youtube.com/watch?v=Os7FE3J-U5Q
 
 ## End Goal
 
