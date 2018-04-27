@@ -120,6 +120,11 @@
 * Haskell compiler infastructure for WebAssembly
   https://github.com/haskell-wasm/wasm
 
+## Other
+
+• Recursion Schemes — Cheatsheet
+  https://github.com/slamdata/matryoshka/blob/master/resources/recursion-schemes.pdf
+
 ## Practical Haskell
 
 * [A founder's perspective on 4 years with Haskell](http://baatz.io/posts/haskell-in-a-startup/)
