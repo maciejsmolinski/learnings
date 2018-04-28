@@ -11,6 +11,11 @@
 * I Wrote Down Everything I Learned While Programming for a Month
   https://dnote.io/blog/writing-everything-i-learn-coding-for-a-month/
 
+## Online Courses
+
+* Katacoda — Learn new technologies right in your browser
+  https://www.katacoda.com/
+
 ## Programming Paradigms
 
 * Learnable Programming
