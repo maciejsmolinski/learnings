@@ -262,7 +262,9 @@
   https://webpack.js.org/
 * Rollup —  a module bundler for JavaScript which compiles small pieces of code into something larger and more complex
   https://rollupjs.org/guide/en
-  
+* Zero-config code transformation with babel-plugin-macros
+  https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros
+
 ## Interactive Development
 
 * Quokka.js is a rapid prototyping playground for JavaScript and TypeScript. It runs your code immediately as you type and displays various execution results in your code editor.
