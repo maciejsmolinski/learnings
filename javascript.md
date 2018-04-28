@@ -26,6 +26,8 @@
 
 * React in patterns by Krasimir Tsonev
   https://krasimir.gitbooks.io/react-in-patterns/content/
+* Exploring ES2018 and ES2019
+  http://exploringjs.com/es2018-es2019/index.html
 
 ## Learning & Interactive Platforms
 
