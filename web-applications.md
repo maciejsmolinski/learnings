@@ -16,6 +16,8 @@
   https://www.infoq.com/presentations/netflix-deployment-practices
 * Fast and Fearless Evolution of Server-Side Web Applications
   https://wickstrom.tech/programming/2017/12/18/fast-and-fearless-evolution-of-server-side-web-applications.html
+* Serverless is eating the stack and people are freaking out — as they should be
+  https://read.acloud.guru/serverless-is-eating-the-stack-and-people-are-freaking-out-and-they-should-be-431a9e0db482
 
 ## Containers & Microservices
 
