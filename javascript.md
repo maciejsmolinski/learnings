@@ -19,6 +19,8 @@
   https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2
 * Front-End Case Studies
   https://github.com/andrew--r/frontend-case-studies
+* Tools without config
+  https://blog.kentcdodds.com/automation-without-config-412ab5e47229
 
 ## Books
 
