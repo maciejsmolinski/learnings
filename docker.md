@@ -6,6 +6,8 @@
   https://docs.docker.com/engine/swarm/stack-deploy/
 * Docker as Build Environment
   https://www.rainerhahnekamp.com/en/docker-build-environment/
+* A Development Environment for Micro-Services with Docker and Node.js
+  http://engineering.blogfoster.com/a-development-environment-for-micro-services-with-docker-and-node-js/
 
 ## Cheatsheets
 
