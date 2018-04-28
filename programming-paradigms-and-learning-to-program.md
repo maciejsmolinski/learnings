@@ -8,6 +8,8 @@
   https://www.youtube.com/watch?v=FKTxC9pl-WM
 * Lambda Days 2018 - Felienne Hermans - How to teach programming and other things?
   https://www.youtube.com/watch?v=UJxXgugvXmE
+* I Wrote Down Everything I Learned While Programming for a Month
+  https://dnote.io/blog/writing-everything-i-learn-coding-for-a-month/
 
 ## Programming Paradigms
 
