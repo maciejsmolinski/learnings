@@ -10,6 +10,8 @@
   https://www.youtube.com/watch?v=UJxXgugvXmE
 * I Wrote Down Everything I Learned While Programming for a Month
   https://dnote.io/blog/writing-everything-i-learn-coding-for-a-month/
+* ABC: Always Be Coding
+  https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2
 
 ## Online Courses
 
