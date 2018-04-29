@@ -20,7 +20,7 @@
 
 ## Practical Examples
 
-* Scott Wlaschin - Railway Oriented Programming — error handling in functional languages ([vimeo](https://vimeo.com/97344498))
+* Scott Wlaschin - Railway Oriented Programming — error handling in functional languages ([vimeo](https://vimeo.com/97344498)) ([article & slides](https://fsharpforfunandprofit.com/rop/))
 
 # Category Theory
 
