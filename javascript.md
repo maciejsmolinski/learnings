@@ -269,6 +269,13 @@
 * Zero-config code transformation with babel-plugin-macros
   https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros
 
+## Authentication & Authorization
+
+* Passport — Simple, unobtrusive authentication for Node.js
+  http://www.passportjs.org/
+* What the heck is JWT anyway?
+  https://dev.to/siwalik/what-the-heck-is-jwt-anyway--47hg
+
 ## Interactive Development
 
 * Quokka.js is a rapid prototyping playground for JavaScript and TypeScript. It runs your code immediately as you type and displays various execution results in your code editor.
