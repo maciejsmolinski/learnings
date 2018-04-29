@@ -17,6 +17,8 @@
 
 ## Online Courses
 
+* Codecademy — Learn to code 
+  https://www.codecademy.com/
 * Katacoda — Learn new technologies right in your browser
   https://www.katacoda.com/
 
