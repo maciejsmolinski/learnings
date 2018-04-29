@@ -66,8 +66,8 @@
   http://www.kovach.me/nanoscope/getting-started.html
 * Daggy - Library for creating tagged constructors a.k.a. "union types" or "sum types".
   https://github.com/fantasyland/daggy
-* Static Land — Specification for common algebraic structures in JavaScript based on Fantasy Land
-  https://github.com/rpominov/static-land
+* Fluture — FantasyLand compliant (monadic) alternative to Promises. Offers a control structure similar to Promises, Tasks and Deferreds
+  https://github.com/fluture-js/Fluture
 * Composability: from Callbacks to Categories in ES6
   https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e#.mgthgbbac
 * Another Perspective on Promises (Promise as a category)
