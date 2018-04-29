@@ -44,6 +44,8 @@
 
 * Performance Budget Calculator — Calculate A Performance Budget For Your Site
   http://www.performancebudget.io/
+* Measure Performance with the RAIL Model
+  https://developers.google.com/web/fundamentals/performance/rail
 * Essential Image Optimization - An eBook by Addy Osmani
   https://images.guide/
 * Image Analysis Tool (Website Speed Test)
