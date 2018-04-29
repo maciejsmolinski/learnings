@@ -69,6 +69,11 @@
 * Everyone can now run JavaScript on Cloudflare with Workers
   https://blog.cloudflare.com/cloudflare-workers-unleashed/
 
+## Authentication & Authorization
+
+* What the heck is JWT anyway?
+  https://dev.to/siwalik/what-the-heck-is-jwt-anyway--47hg
+
 ## Accessibility
 
 * Easy Accessibility Testing with aXe
