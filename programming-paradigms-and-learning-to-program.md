@@ -12,6 +12,8 @@
   https://dnote.io/blog/writing-everything-i-learn-coding-for-a-month/
 * ABC: Always Be Coding
   https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2
+* The secret to being a top developer is building things! Here’s a list of fun apps to build!
+  https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c
 
 ## Online Courses
 
