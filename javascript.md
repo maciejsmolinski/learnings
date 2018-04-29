@@ -40,6 +40,8 @@
 
 ## Functional Programming in JavaScript
 
+* Two Years of Functional Programming in JavaScript: Lessons Learned
+  https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726
 * Fear, trust and JavaScript: When types and functional programming fail
   https://www.reaktor.com/blog/fear-trust-and-javascript/
 * Union Types in Flow & Reason
