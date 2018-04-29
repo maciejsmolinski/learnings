@@ -56,6 +56,8 @@
   http://folktale.origamitower.com/
 * Sanctuary - a JavaScript functional programming library inspired by Haskell and PureScript
   https://sanctuary.js.org/
+* Monet.js — a tool bag that assists Functional Programming by providing a rich set of Monads and other useful functions
+  http://monet.github.io/monet.js/
 * Ramda - A practical functional library for JavaScript programmers
   http://ramdajs.com/
 * Matches.js - Powerful pattern matching for Javascript
