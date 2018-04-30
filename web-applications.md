@@ -46,6 +46,8 @@
   http://www.performancebudget.io/
 * Measure Performance with the RAIL Model
   https://developers.google.com/web/fundamentals/performance/rail
+* Chrome Summit: New Bar for Web Experiences — FIRE / PWAs
+  https://www.lukew.com/ff/entry.asp?1975 
 * Essential Image Optimization - An eBook by Addy Osmani
   https://images.guide/
 * Image Analysis Tool (Website Speed Test)
