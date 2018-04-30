@@ -210,6 +210,8 @@
   https://www.robinwieruch.de/react-provider-pattern-context/
 * React — Render Prop / Children Prop - Michael Jackson - Never Write Another HoC
   https://www.youtube.com/watch?v=BcVAq3YFiuc
+* React — Compound Components - Ryan Florence
+  https://www.youtube.com/watch?v=hEGg-3pIHlE
 * React — Here's how React's New Context API Works
   https://www.youtube.com/watch?v=XLJN4JfniH4
 * React — Replacing Redux with the new React Context API
