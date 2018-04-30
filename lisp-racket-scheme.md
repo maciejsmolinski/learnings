@@ -13,3 +13,5 @@
 
 * Racket Cheat Sheet
   https://docs.racket-lang.org/racket-cheat/index.html
+* Systems Programming with Racket
+  https://docs.racket-lang.org/more/
