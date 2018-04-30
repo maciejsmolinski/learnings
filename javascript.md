@@ -72,6 +72,8 @@
   https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e#.mgthgbbac
 * Another Perspective on Promises (Promise as a category)
   https://blog.drewolson.org/another-perspective-on-promises/
+* Understanding Transducers in JavaScript
+  https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624
 
 ## Online Courses & Tutorials
 
