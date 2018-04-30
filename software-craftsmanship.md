@@ -7,6 +7,11 @@
 * Always. Be. Shipping.
   https://blog.codinghorror.com/yes-but-what-have-you-done/
 
+## Code Reviews
+
+* Unlearning toxic behaviors in a code review culture
+  https://medium.freecodecamp.org/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c
+
 ## Articles / Good Practices
 
 * Boolean Blindness
