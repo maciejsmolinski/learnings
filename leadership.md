@@ -23,6 +23,8 @@
   ([www](http://changingminds.org/disciplines/leadership/articles/manager_leader.htm))
 * How to Manage People Who Are Smarter than You  
   ([www](https://hbr.org/2015/08/how-to-manage-people-who-are-smarter-than-you))
+* Paul McGee - How to motivate: The number one thing you must do to motivate people  
+  ([youtube](https://www.youtube.com/watch?v=yVFoaLchwpA))
   
 ## Teams & Team Building
 
