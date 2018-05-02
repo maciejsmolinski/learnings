@@ -34,6 +34,9 @@
   ([pdf](https://www.skillsone.com/Pdfs/smp248248.pdf))
 * Speed Dating and 4 Other Innovative Team Building Activities  
   ([www](http://www.paulkeijzer.com/speed-dating-4-innovative-team-building-activities/))
+* 4+3+2+1 Team Success Factors by Jimmy Janlén  
+  ([youtube](https://www.youtube.com/watch?v=0BcwY1fZtY4))
+  
 
 ## Culture
 
