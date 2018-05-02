@@ -1,6 +1,11 @@
 
 # Learning
 
+## Essays
+
+* The Best Investment Decision I Have Ever Made
+  https://medium.com/personal-growth/the-best-investment-decision-i-have-ever-made-84b4509ccd76
+
 ## Studying
 
 * Improve Your Learning and Memory. Insightful Thinking 101
