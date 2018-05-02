@@ -32,6 +32,13 @@
   https://caddyserver.com/
 * OpenResty® — Scalable Web Platform by Extending NGINX with Lua
   https://openresty.org/en/
+  
+## Peer-to-Peer Web
+
+* Beaker — a peer-to-peer browser with tools to create and host websites. Don't just browse the Web, build it.
+  https://beakerbrowser.com/
+* Hashbase — Hosting for the peer-to-peer Web. Keep your files online, even when your computer is turned off.
+  https://hashbase.io/
 
 ## Operating Systems
 
