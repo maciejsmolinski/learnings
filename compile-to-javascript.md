@@ -30,6 +30,8 @@
   https://reasonml.github.io/
 * An invitation to ReasonML
   https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html
+* Patrick Stapfer - A Quick Look on my ReasonML Workflow with VSCode
+  https://medium.com/@ryyppy/a-quick-look-on-my-reasonml-workflow-with-vscode-637685f9417a
 * A curated playlist for ReasonML / BuckleScript / OCaml related learning resources
   https://www.youtube.com/playlist?list=PLYU6eGtVFu8ZG3yh1FfLrqHBMUXj80wgK&disable_polymer=true
 * ReasonML - Mixing ReasonML into your React apps, Robbie McCorkell
