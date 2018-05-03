@@ -226,6 +226,8 @@
   https://reactjs.org/docs/portals.html
 * React — Introducing React Easy State
   https://blog.risingstack.com/introducing-react-easy-state/
+* React — Stress Testing React Easy State
+  https://medium.com/@solkimicreb/stress-testing-react-easy-state-ac321fa3becf
 * React — The state reducer pattern
   https://blog.kentcdodds.com/the-state-reducer-pattern-️-b40316cfac57
 * React — State so simple, it goes without saying 
