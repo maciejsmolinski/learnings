@@ -114,6 +114,13 @@
 * Chimp - Develop acceptance tests & end-to-end tests with realtime feedback
   https://github.com/xolvio/chimp
 
+## Desktop
+
+* Electron — Build cross platform desktop apps with JavaScript, HTML, and CSS
+  https://electronjs.org/
+* Proton Native — Create native desktop applications through a React syntax, on all platforms
+  https://proton-native.js.org
+
 ## Serverless
 
 * Webtask.io - Make serverless endpoints
