@@ -5,6 +5,8 @@
 
 * The Best Investment Decision I Have Ever Made
   https://medium.com/personal-growth/the-best-investment-decision-i-have-ever-made-84b4509ccd76
+* This Morning Routine will Save You 20+ Hours Per Week
+  https://medium.com/@benjaminhardy/this-morning-routine-will-save-you-20-hours-per-week-409f8acbde1
 
 ## Studying
 
