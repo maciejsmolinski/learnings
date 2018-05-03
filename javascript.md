@@ -54,6 +54,8 @@
   https://github.com/hemanth/functional-programming-jargon
 * Folktale - A standard library for functional programming in JavaScript
   http://folktale.origamitower.com/
+* Folktale/Validation - A data structure that typically models form validations, and other scenarios where you want to aggregate all failures
+  http://folktale.origamitower.com/api/v2.1.0/en/folktale.validation.html
 * Sanctuary - a JavaScript functional programming library inspired by Haskell and PureScript
   https://sanctuary.js.org/
 * Monet.js — a tool bag that assists Functional Programming by providing a rich set of Monads and other useful functions
