@@ -79,6 +79,8 @@
   https://blog.drewolson.org/another-perspective-on-promises/
 * Understanding Transducers in JavaScript
   https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624
+* Transducing — Functional-Light JavaScript (Appendix A)
+  https://github.com/getify/Functional-Light-JS/blob/master/manuscript/apA.md
 
 ## Online Courses & Tutorials
 
