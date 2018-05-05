@@ -32,6 +32,9 @@
   http://exploringjs.com/es2018-es2019/index.html
 * JavaScript Allongé, the "Six" Edition
   https://leanpub.com/javascriptallongesix
+* Functional-Light JavaScript by Kyle Simpson
+  https://github.com/getify/Functional-Light-JS
+  
 
 ## Learning & Interactive Platforms
 
