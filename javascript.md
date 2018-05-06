@@ -264,6 +264,8 @@
   https://github.com/ghooks-org/ghooks
 * Just — A library of dependency-free utilities that do just do one thing
   https://github.com/angus-c/just
+* Unistore — 650b state container with component actions for Preact & React
+  https://github.com/developit/unistore
 * Bit — Components are building blocks. You are the architect. 
   https://bitsrc.io/
 * Glimmer.js — Fast and light-weight UI components for the web
