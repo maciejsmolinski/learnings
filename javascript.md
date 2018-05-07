@@ -93,6 +93,8 @@
 
 ## Functional Reactive Programming in JavaScript
 
+* Uphill Conf 2018 — André Staltz: Two Fundamental Abstractions (Iterables, Observables, Getters, Setters)
+  https://www.youtube.com/watch?v=fdol03pcvMA
 * Kefir.js — Reactive Programming library for JavaScript
   https://rpominov.github.io/kefir/
 * xstream — An extremely intuitive, small, and fast functional reactive stream library for JavaScript
