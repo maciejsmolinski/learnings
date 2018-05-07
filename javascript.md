@@ -211,7 +211,7 @@
 * Hyperapp — 1 KB JavaScript library for building frontend applications
   https://hyperapp.js.org/
 * Moon — A minimal, blazing fast user interface library
-  http://moonjs.ga/
+  https://kbrsh.github.io/moon/
 * Nerv — A blazing fast React alternative, compatible with IE8 and React 16
   https://nerv.aotu.io/
 * Stencil — The magical, reusable web component generator
