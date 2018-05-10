@@ -28,6 +28,8 @@
 
 * Official Website
   https://reasonml.github.io/
+* Get Started with Reason (egghead.io video course)
+  https://egghead.io/courses/get-started-with-reason
 * An invitation to ReasonML
   https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html
 * Patrick Stapfer - A Quick Look on my ReasonML Workflow with VSCode
