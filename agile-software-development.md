@@ -87,6 +87,8 @@
   https://developers.soundcloud.com/blog/deliver-software-faster-by-managing-work-in-progress-not-by-adding-overtime
 * Henrik Kniberg - Focus (Stop Starting, Start Finishing)
   https://www.youtube.com/watch?v=n7wH2XdOWpM
+* Allen Holub — The Death of Agile (Agile, XP, Principles)
+  https://www.youtube.com/watch?v=HZyRQ8Uhhmk
 
 ## Tech Practices
 
