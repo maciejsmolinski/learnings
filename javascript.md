@@ -307,6 +307,8 @@
   https://rollupjs.org/guide/en
 * Zero-config code transformation with babel-plugin-macros
   https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros
+* Prepack — A tool for making JavaScript code run faster
+  https://prepack.io/
 
 ## Authentication & Authorization
 
