@@ -274,6 +274,8 @@
   https://glimmerjs.com/
 * AppRun — a 3K library for developing applications using the elm architecture, events and components
   https://yysun.github.com/apprun
+* ow — function argument validation for humans
+  https://github.com/sindresorhus/ow
 
 
 ## Rest & GraphQL
