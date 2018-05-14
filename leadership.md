@@ -42,5 +42,7 @@
 
 ## Culture
 
+* Culture Decks — A collection of culture decks, core values, mission statements, and more from real companies
+  https://tettra.co/culture-codes/culture-decks/
 * "A guide to building a high-performance culture that can meet the challenges of today's rapid pace of change in business" ~ Powerful. How to create a winning culture interview w/ Patty McCord
   https://www.youtube.com/watch?v=a4XapXQdHhE
