@@ -25,6 +25,8 @@
   https://www.youtube.com/watch?v=XpDsk374LDE
 * Advanced Types in Elm - Opaque Types
   https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2
+* Advanced Types in Elm - Extensible Records
+  https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d
 * Elm - Learning Elm From A Drum Sequencer (Part 1)
   https://www.smashingmagazine.com/2018/01/learning-elm-drum-sequencer-part-1/
 
