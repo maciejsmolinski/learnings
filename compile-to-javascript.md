@@ -23,6 +23,8 @@
   http://elm-lang.org
 * Elm Europe 2017 - Evan Czaplicki - The life of a file
   https://www.youtube.com/watch?v=XpDsk374LDE
+* Advanced Types in Elm - Opaque Types
+  https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2
 * Elm - Learning Elm From A Drum Sequencer (Part 1)
   https://www.smashingmagazine.com/2018/01/learning-elm-drum-sequencer-part-1/
 
