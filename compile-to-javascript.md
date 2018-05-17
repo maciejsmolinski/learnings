@@ -2,6 +2,8 @@
 
 * Official Website
   http://www.purescript.org
+* Utah Haskell Meetup - Intro to PureScript - Michael Trotter
+  https://www.youtube.com/watch?v=_31c9O4lpUY
 * "PureScript by Example" by Phil Freeman (book)
   https://leanpub.com/purescript
 * Fear, trust and PureScript: Building on trust with types and functional programming
