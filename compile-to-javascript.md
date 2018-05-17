@@ -16,6 +16,8 @@
   http://blog.functorial.com/posts/2015-12-06-Counterexamples.html
 * Quick React Native with PureScript
   https://gist.github.com/dwhitney/e2a040432040607ae519fdf05cbc27ad
+* Incremental UI Rendering by Tom Harding
+  https://www.youtube.com/watch?v=LkSWyqNUBq8
 
 ## Elm 
 
