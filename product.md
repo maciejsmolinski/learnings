@@ -62,6 +62,8 @@
   https://designcode.io/learn
 * Refactoring UI — Learn UI design through case studies on improving user-submitted projects
   https://refactoringui.com/
+* Learn UX — UI Design Tools Video Courses
+  https://learnux.io/
 * Type Scale - Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts
   https://type-scale.com/
 * A Five Minutes Guide to Better Typography
