@@ -46,3 +46,8 @@
   https://tettra.co/culture-codes/culture-decks/
 * "A guide to building a high-performance culture that can meet the challenges of today's rapid pace of change in business" ~ Powerful. How to create a winning culture interview w/ Patty McCord
   https://www.youtube.com/watch?v=a4XapXQdHhE
+
+## Goals
+
+* Manager Tools Podcast - How to Set Annual Goals
+  ([pt1](https://www.manager-tools.com/2007/12/how-to-set-annual-goals-part-1-of-3), [pt2](https://www.manager-tools.com/2008/01/how-to-set-annual-goals-part-2-of-3), [pt3](https://www.manager-tools.com/2008/01/how-to-set-annual-goals-part-3-of-3))
