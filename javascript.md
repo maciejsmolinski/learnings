@@ -364,6 +364,8 @@
   http://jphpsf.github.io/setImmediate-shim-demo/
 * V8 - Performance Profiling
   https://github.com/thlorenz/v8-perf/blob/master/performance-profiling.md
+* V8 - Surprising polymorphism in React applications
+  https://medium.com/@bmeurer/surprising-polymorphism-in-react-applications-63015b50abc
 * V8 - Design Elements
   https://github.com/v8/v8/wiki/Design%20Elements
 * Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js
