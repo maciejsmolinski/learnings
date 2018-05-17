@@ -60,6 +60,8 @@
 
 * The best resources for learning design and code
   https://designcode.io/learn
+* Refactoring UI — Learn UI design through case studies on improving user-submitted projects
+  https://refactoringui.com/
 * Type Scale - Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts
   https://type-scale.com/
 * A Five Minutes Guide to Better Typography
