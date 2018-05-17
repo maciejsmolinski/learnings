@@ -24,6 +24,8 @@
   https://code.visualstudio.com/
 * Code Editor Themes — Rainglow
   https://rainglow.io/
+* VS Code can do that?!
+  https://vscodecandothat.com/
 
 ## Design Tools
 
