@@ -11,6 +11,8 @@
 
 ## Case Studies
 
+* Gooact: React in 160 lines of JavaScript
+  https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f
 * Building a Text Editor for a Digital-First Newsroom
   https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21
 * Edpuzzle - Migrating to React progressively but painlessly
