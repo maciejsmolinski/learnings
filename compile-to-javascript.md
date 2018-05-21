@@ -1,3 +1,5 @@
+# Compile to JavaScript
+
 ## PureScript
 
 * Official Website
@@ -21,7 +23,7 @@
 * Incremental UI Rendering by Tom Harding
   https://www.youtube.com/watch?v=LkSWyqNUBq8
 
-## Elm 
+## Elm
 
 * Official Website
   http://elm-lang.org

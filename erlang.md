@@ -5,7 +5,6 @@
 * Learn You Some Erlang for great good (online)
   http://learnyousomeerlang.com/content
 
-
 ## Elixir
 
 * Elixir School - Lessons about the Elixir programming language
