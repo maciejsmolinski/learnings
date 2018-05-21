@@ -31,3 +31,8 @@
 
 * What makes a good teacher great? | Azul Terronez | TEDxSantoDomingo
   https://www.youtube.com/watch?v=vrU6YJle6Q4
+
+## Mindfulness & Meditation
+
+* Headspace — Meditation made simple
+  https://www.headspace.com/
