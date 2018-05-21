@@ -9,6 +9,13 @@
 * How to Design Programs
   http://www.htdp.org/
 
+## Functional Programming - Podcasts
+
+* Functional Geekery
+  https://www.functionalgeekery.com/
+* Lambda Cast 
+  https://lambdacast.com
+
 ## Functional Programming - General Information
 
 * Standardized Ladder of Functional Programming
