@@ -71,6 +71,11 @@
 * Noisli.com - Improve Focus and Boost Productivity with Background Noise
   https://www.noisli.com/
 
+## Mindfulness & Meditation
+
+* Headspace — Meditation made simple
+  https://www.headspace.com/
+
 ## Interactive Programming
 
 * Observable is a better way to code
