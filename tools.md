@@ -75,6 +75,8 @@
 
 * Headspace — Meditation made simple
   https://www.headspace.com/
+* Calm — Meditation Techniques for Sleep and Stress Reduction
+  https://www.calm.com/
 
 ## Interactive Programming
 
