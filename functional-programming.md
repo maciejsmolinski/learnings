@@ -1,80 +1,96 @@
 # Functional Programming
 
-## Books
+## Functional Programming - Books
 
-* Software Foundations ([www](https://softwarefoundations.cis.upenn.edu/current/index.html))
-* Structure and Interpretation of Computer Programs ([www](https://mitpress.mit.edu/sicp/))
-* How to Design Programs ([www](http://www.htdp.org/))
+* Software Foundations
+  https://softwarefoundations.cis.upenn.edu/current/index.html
+* Structure and Interpretation of Computer Programs
+  https://mitpress.mit.edu/sicp/
+* How to Design Programs
+  http://www.htdp.org/
 
-## General Information
+## Functional Programming - General Information
 
-* Standardized Ladder of Functional Programming ([www](http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf))
+* Standardized Ladder of Functional Programming
+  http://lambdaconf.us/downloads/documents/lambdaconf_slfp.pdf
 
-## Papers
+## Functional Programming - Papers
 
-* Why Functional Programming Matters by John Hughes, 1990 ([pdf](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf))
+* Why Functional Programming Matters by John Hughes, 1990
+  https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
 
-## Videos
+## Functional Programming - Videos
 
-* John Hughes - Why Functional Programming Matters, 2016 ([youtube](https://www.youtube.com/watch?v=Z35Tt87pIpg))
+* John Hughes - Why Functional Programming Matters, 2016
+  https://www.youtube.com/watch?v=Z35Tt87pIpg
 
-## Practical Examples
+## Functional Programming - Practical Examples
 
-* Scott Wlaschin - Railway Oriented Programming — error handling in functional languages ([vimeo](https://vimeo.com/97344498)) ([article & slides](https://fsharpforfunandprofit.com/rop/))
+* Scott Wlaschin - Railway Oriented Programming — error handling in functional languages (vimeo)
+  https://vimeo.com/97344498
+* Scott Wlaschin - Railway Oriented Programming — error handling in functional languages (article & slides)
+  https://fsharpforfunandprofit.com/rop/
 
-# Category Theory
+## Category Theory - Videos
 
-## Videos
+* Category Theory for the Working Hacker by Philip Wadler
+  https://www.youtube.com/watch?v=V10hzjgoklA
+* Category Theory, The essence of interface-based design - Erik Meijer
+  https://www.youtube.com/watch?v=JMP6gI5mLHc
 
-* Category Theory for the Working Hacker by Philip Wadler ([youtube](https://www.youtube.com/watch?v=V10hzjgoklA))
-* Category Theory, The essence of interface-based design - Erik Meijer ([youtube](https://www.youtube.com/watch?v=JMP6gI5mLHc))
+## Category Theory - Articles
 
-## Articles
+* From design patterns to category theory
+  http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
 
-* From design patterns to category theory ([www](http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/))
+## Category Theory - Websites
 
-## Websites
+* nLab — category theory
+  https://ncatlab.org/nlab/show/category+theory
 
-* nLab — category theory ([wiki](https://ncatlab.org/nlab/show/category+theory))
+## Lambda Calculus - Videos
 
-# Lambda Calculus
+* Propositions as Types by Philip Wadler
+  https://www.youtube.com/watch?v=IOiZatlZtGU
 
-## Videos
+## Lambda Calculus - Articles
 
-* Propositions as Types by Philip Wadler ([youtube](https://www.youtube.com/watch?v=IOiZatlZtGU))
+* Write You a Haskell - Lambda Calculus by Stephen Diehl
+  http://dev.stephendiehl.com/fun/003_lambda_calculus.html
 
-## Articles
+## Type Systems - Articles
 
-* Write You a Haskell - Lambda Calculus by Stephen Diehl ([www](http://dev.stephendiehl.com/fun/003_lambda_calculus.html))
+* So You Still Don't Understand Hindley-Milner? Part 1
+  http://akgupta.ca/blog/2013/05/14/so-you-still-dont-understand-hindley-milner/
+* So You Still Don't Understand Hindley-Milner? Part 2
+  http://akgupta.ca/blog/2013/06/07/so-you-still-dont-understand-hindley-milner-part-2/
+* So You Still Don't Understand Hindley-Milner? Part 3
+  http://akgupta.ca/blog/2013/06/07/so-you-still-dont-understand-hindley-milner-part-3/
+* The type system of mathematics
+  https://qchu.wordpress.com/2013/05/28/the-type-system-of-mathematics/
 
-# Type Systems
+## Type Systems - Videos
 
-## Articles
+* Dependent Types - Idris - Type safe printf
+  https://www.youtube.com/watch?v=fVBck2Zngjo
 
-* So You Still Don't Understand Hindley-Milner? Part 1 ([www](http://akgupta.ca/blog/2013/05/14/so-you-still-dont-understand-hindley-milner/))
-* So You Still Don't Understand Hindley-Milner? Part 2 ([www](http://akgupta.ca/blog/2013/06/07/so-you-still-dont-understand-hindley-milner-part-2/))
-* So You Still Don't Understand Hindley-Milner? Part 3 ([www](http://akgupta.ca/blog/2013/06/07/so-you-still-dont-understand-hindley-milner-part-3/))
-* The type system of mathematics ([www](https://qchu.wordpress.com/2013/05/28/the-type-system-of-mathematics/))
+## Computational Effects - Resource Collections
 
-## Videos
+* A collaborative bibliography of work related to the theory and practice of computational effects
+  https://github.com/yallop/effects-bibliography
 
-* Dependent Types - Idris - Type safe printf ([youtube](https://www.youtube.com/watch?v=fVBck2Zngjo))
+## Computational Effects - Articles
 
-# Computational Effects
+* Coeffects The next big programming challenge by Tomas Petricek
+  http://tomasp.net/blog/2014/why-coeffects-matter/
 
-## Resource Collections
+## Computational Effects - Languages
 
-* A collaborative bibliography of work related to the theory and practice of computational effects ([www](https://github.com/yallop/effects-bibliography))
+* Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O
+  http://www.eff-lang.org/
 
-## Articles
+## Computational Effects - Interactive Playground
 
-* Coeffects The next big programming challenge by Tomas Petricek ([www](http://tomasp.net/blog/2014/why-coeffects-matter/))
-
-## Languages
-
-* Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O ([www](http://www.eff-lang.org/))
-
-## Interactive Playground
-
-* Coeffects: Context-aware programming languages by Tomas Petricek ([www](http://tomasp.net/coeffects/))
+* Coeffects: Context-aware programming languages by Tomas Petricek
+  http://tomasp.net/coeffects/
 
