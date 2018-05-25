@@ -8,8 +8,8 @@
   https://www.youtube.com/watch?v=_31c9O4lpUY
 * "PureScript by Example" by Phil Freeman (book)
   https://leanpub.com/purescript
-* Breakpoint 2018 PureScript workshop
-  https://github.com/reaktor/purescript-workshop-breakpoint
+* "A Working Stiff's Guide to PureScript" workshop by Nicholas Kariniemi & Antti Holvikari
+  https://github.com/reaktor/purescript-workshop
 * Fear, trust and PureScript: Building on trust with types and functional programming
   https://www.reaktor.com/blog/fear-trust-and-purescript/
 * Functional Programming Concepts in Purescript (online course)
