@@ -315,6 +315,8 @@
   https://babeljs.io/blog/2017/09/11/zero-config-with-babel-macros
 * Prepack — A tool for making JavaScript code run faster
   https://prepack.io/
+* BundlePhobia — find the cost of adding a npm package to your bundle
+  https://bundlephobia.com/
 
 ## Authentication & Authorization
 
