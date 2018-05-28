@@ -24,6 +24,8 @@
   https://gist.github.com/dwhitney/e2a040432040607ae519fdf05cbc27ad
 * Incremental UI Rendering by Tom Harding
   https://www.youtube.com/watch?v=LkSWyqNUBq8
+* The Future Is Comonadic! by Phil Freeman (slides)
+  https://speakerdeck.com/paf31/the-future-is-comonadic
 
 ## Elm
 
