@@ -6,6 +6,8 @@
   https://www.youtube.com/watch?v=2xyZeovFqCA
 * Making Badass Developers - Kathy Sierra - Fluent 2015
   https://www.youtube.com/watch?v=FKTxC9pl-WM
+* "Teaching Elm to Beginners" by Richard Feldman
+  https://www.youtube.com/watch?v=G-GhUxeYc1U
 * Lambda Days 2018 - Felienne Hermans - How to teach programming and other things?
   https://www.youtube.com/watch?v=UJxXgugvXmE
 * I Wrote Down Everything I Learned While Programming for a Month
