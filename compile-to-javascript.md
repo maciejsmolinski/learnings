@@ -31,6 +31,8 @@
   http://elm-lang.org
 * Elm Europe 2017 - Evan Czaplicki - The life of a file
   https://www.youtube.com/watch?v=XpDsk374LDE
+* "Teaching Elm to Beginners" by Richard Feldman
+  https://www.youtube.com/watch?v=G-GhUxeYc1U
 * Advanced Types in Elm - Opaque Types
   https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2
 * Advanced Types in Elm - Extensible Records
