@@ -189,8 +189,10 @@
 
 ## Other
 
-* [Recursion Schemes — Cheatsheet
+* Recursion Schemes — Cheatsheet
   https://github.com/slamdata/matryoshka/blob/master/resources/recursion-schemes.pdf
+* Haskell/GHC symbol search Cheatsheet
+  https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet
 
 ## Practical Haskell
 
