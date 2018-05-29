@@ -256,6 +256,8 @@
   https://medium.com/@foxdonut00/you-dont-need-redux-mobx-rxjs-cerebral-6a735b150a02
 * React — Book — React in patterns by Krasimir Tsonev
   https://krasimir.gitbooks.io/react-in-patterns/content/
+* React — react-sentinel — responsive components (requestAnimationFrame, container queries)
+  https://github.com/YurkaninRyan/react-sentinel
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
