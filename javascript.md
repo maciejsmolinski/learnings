@@ -431,6 +431,8 @@
   https://blog.sqreen.io/one-easy-way-to-inject-malicious-code-in-any-node-js-application/
 * Server.js - a powerful server for Node.js that just works
   https://serverjs.io/
+* nest — A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
+  https://nestjs.com/
 
 ## Debugging
 
