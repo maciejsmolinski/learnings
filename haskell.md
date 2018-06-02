@@ -161,6 +161,8 @@
 
 * Type classes: an exploration of the design space
   https://www.microsoft.com/en-us/research/wp-content/uploads/1997/01/multi.pdf
+* beerendlauwers/haskell-papers-ereader — Haskell papers optimized for e-readers
+  https://github.com/beerendlauwers/haskell-papers-ereader
 
 ## Parsers
 
