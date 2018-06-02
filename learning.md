@@ -14,6 +14,8 @@
   http://thankyoubrain.blogspot.com.mt/2014/11/insightful-thinking-101.html
 * How to Study Way More Effectively | The Feynman Technique
   https://www.youtube.com/watch?v=MlJdMr3O5J4
+* This 10-Minute Routine Will Increase Your Memory And Creativity
+  https://medium.com/the-mission/this-10-minute-routine-will-increase-your-memory-and-creativity-b4f4dc7161ce
 
 ## Habits & Studies
 
