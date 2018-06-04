@@ -258,6 +258,8 @@
   https://krasimir.gitbooks.io/react-in-patterns/content/
 * React — react-sentinel — responsive components (requestAnimationFrame, container queries)
   https://github.com/YurkaninRyan/react-sentinel
+* React Suspense — Async rendering in React — Andrew Clark
+  https://www.youtube.com/watch?v=z-6JC0_cOns
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
