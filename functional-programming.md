@@ -37,6 +37,8 @@
   https://vimeo.com/97344498
 * Scott Wlaschin - Railway Oriented Programming — error handling in functional languages (article & slides)
   https://fsharpforfunandprofit.com/rop/
+* Scott Wlaschin - Domain Modeling Made Functional
+  https://www.youtube.com/watch?v=1pSH8kElmM4
 
 ## Category Theory - Videos
 
