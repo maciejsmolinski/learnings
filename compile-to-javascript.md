@@ -84,6 +84,8 @@
   https://reasonml.github.io/reason-react/docs/en/router.html
 * How I deployed a ReasonML React app with Docker
   https://blog.hasura.io/how-i-deployed-a-reasonml-react-app-with-docker-29dd2ce6de82
+* Creating global state in ReasonReact
+  https://medium.com/@Hehk/creating-global-state-in-reasonreact-f84701c6ab6
 
 ## BuckleScript
 
