@@ -183,6 +183,8 @@
   http://haskell-servant.readthedocs.io/en/stable/index.html
 * Duckling is a Haskell library that parses text into structured data
   https://github.com/facebook/duckling
+* isovector/canada-t
+  https://github.com/isovector/canada-t
 
 ## Web Programming with Haskell
 
