@@ -26,6 +26,8 @@
   https://www.youtube.com/watch?v=LkSWyqNUBq8
 * The Future Is Comonadic! by Phil Freeman (slides)
   https://speakerdeck.com/paf31/the-future-is-comonadic
+* Wrapping JavaScript for PureScript
+  https://blog.ndk.io/purescript-ffi.html
 
 ## Elm
 
