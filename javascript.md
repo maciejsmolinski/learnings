@@ -262,6 +262,8 @@
   https://github.com/YurkaninRyan/react-sentinel
 * React Suspense — Async rendering in React — Andrew Clark
   https://www.youtube.com/watch?v=z-6JC0_cOns
+* React — compositor/x0 - Zero-config React development environment & static site generator
+  https://compositor.io/x0/
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
@@ -323,6 +325,8 @@
   https://prepack.io/
 * BundlePhobia — find the cost of adding a npm package to your bundle
   https://bundlephobia.com/
+* x0 - Zero-config React development environment & static site generator
+  https://compositor.io/x0/
 
 ## Authentication & Authorization
 
