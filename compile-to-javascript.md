@@ -50,12 +50,14 @@
   https://egghead.io/courses/get-started-with-reason
 * An invitation to ReasonML
   https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html
+* Robbie McCorkell — ReasonML - Mixing ReasonML into your React apps
+  https://www.youtube.com/watch?v=gZweJw_egaE
+* Nik Graf — Hitchhiker's guide to ReasonReact
+  https://www.youtube.com/watch?v=N_2IRjbvVtE
 * Patrick Stapfer - A Quick Look on my ReasonML Workflow with VSCode
   https://medium.com/@ryyppy/a-quick-look-on-my-reasonml-workflow-with-vscode-637685f9417a
 * A curated playlist for ReasonML / BuckleScript / OCaml related learning resources
   https://www.youtube.com/playlist?list=PLYU6eGtVFu8ZG3yh1FfLrqHBMUXj80wgK&disable_polymer=true
-* ReasonML - Mixing ReasonML into your React apps, Robbie McCorkell
-  https://www.youtube.com/watch?v=gZweJw_egaE
 * A Pragmatists’s Guide to ReasonML - Marcel Cutts
   https://www.youtube.com/watch?v=ZKi87Bx4YNQ
 * Patrick Stapfer: Making Unreasonable States Impossible - ReasonML Munich Meetup
