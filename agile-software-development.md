@@ -62,6 +62,8 @@
   https://gojko.net/2017/12/11/christmas-prioritisation.html
 * 7 Product Dimensions, Exploring Product Options to Arrive at Right Requirements
   https://blog.crisp.se/2014/08/25/ellen-gottesdiener/guest-post-by-ellen-gottesdiener-exploring-product-options-to-arrive-at-right-requirements
+* Mob Programming: A Whole Team Approach — Woody Zuill
+  https://www.youtube.com/watch?v=SHOVVnRB4h0
 
 ## Methodologies
 
@@ -89,6 +91,8 @@
   https://www.youtube.com/watch?v=n7wH2XdOWpM
 * Allen Holub — The Death of Agile (Agile, XP, Principles)
   https://www.youtube.com/watch?v=HZyRQ8Uhhmk
+* Woody Zuill — Mob Programming: A Whole Team Approach
+  https://www.youtube.com/watch?v=SHOVVnRB4h0
 
 ## Tech Practices
 
