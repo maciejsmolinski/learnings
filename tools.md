@@ -24,6 +24,8 @@
   https://streamable.com/
 * Cloudinary — Image and Video Management in the Cloud
   https://cloudinary.com/
+* Sendvid — Upload and Share Videos
+  https://sendvid.com/
 
 ## Code Editors
 
