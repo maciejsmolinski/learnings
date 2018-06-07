@@ -18,6 +18,13 @@
 * Manifold — Find, organize, and connect the best cloud services
   https://www.manifold.co/
 
+## Video Uploads
+
+* Streamable — video for publishers
+  https://streamable.com/
+* Cloudinary — Image and Video Management in the Cloud
+  https://cloudinary.com/
+
 ## Code Editors
 
 * Visual Studio Code
