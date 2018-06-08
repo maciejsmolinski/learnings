@@ -44,6 +44,8 @@
   https://beta.observablehq.com/
 * RunKit — sandboxed JavaScript environment where you can instantly switch node versions, use every npm module without having to wait to install it, and even visualize your results
   https://runkit.com/home
+* Glitch - the friendly community where you'll build the app of your dreams
+  https://glitch.com/
 
 ## Functional Programming in JavaScript
 
