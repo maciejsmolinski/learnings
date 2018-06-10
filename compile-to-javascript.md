@@ -28,6 +28,8 @@
   https://speakerdeck.com/paf31/the-future-is-comonadic
 * Wrapping JavaScript for PureScript
   https://blog.ndk.io/purescript-ffi.html
+* Teaching Polymorphism 
+  https://gist.github.com/kRITZCREEK/52737375a71fdcfb0c552b52cfe5c43c
 
 ## Elm
 
