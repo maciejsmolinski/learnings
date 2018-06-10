@@ -302,6 +302,8 @@
   https://www.graph.cool/
 * GraphQL — How GraphQL Replaces Redux
   https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d
+* GraphQL — The Fullstack Tutorial for GraphQL
+  https://www.howtographql.com/
 
 ## Package Management & Bundlers
 
