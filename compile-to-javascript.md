@@ -30,6 +30,8 @@
   https://blog.ndk.io/purescript-ffi.html
 * Teaching Polymorphism 
   https://gist.github.com/kRITZCREEK/52737375a71fdcfb0c552b52cfe5c43c
+* "Code Reuse in PureScript: Functions, Typeclasses, and Interpreters" by Nate Faubion
+  https://www.youtube.com/watch?v=GlUcCPmH8wI
 
 ## Elm
 
