@@ -87,6 +87,8 @@
   https://github.com/getify/Functional-Light-JS/blob/master/manuscript/apA.md
 * Functional JavaScript - What are Monads & Why Use Them?
   https://www.youtube.com/watch?v=UoRyYX4J10A
+* Day 86: on fantasy, part 1 — Implementing Maybe
+  https://www.dabolivar.com/posts/day-86/
 
 ## Online Courses & Tutorials
 
