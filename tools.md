@@ -36,7 +36,7 @@
 * VS Code can do that?!
   https://vscodecandothat.com/
 
-## Design Tools
+## Design Tools & Resources
 
 * Gradient by ShapeFactory
   https://gradient.shapefactory.co/
@@ -44,6 +44,8 @@
   https://pigment.shapefactory.co/
 * Duotone by ShapeFactory
   https://duotone.shapefactory.co/
+* Ionicons — Beautifully crafted open source icons
+  https://ionicons.com/
 
 ## Performance
 
