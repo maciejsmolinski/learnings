@@ -63,3 +63,8 @@
   https://www.manager-tools.com/2008/01/how-to-set-annual-goals-part-2-of-3
 * Manager Tools Podcast - How to Set Annual Goals (pt3)
   https://www.manager-tools.com/2008/01/how-to-set-annual-goals-part-3-of-3
+
+## Driving Change
+
+* How to ask questions that drive change at work
+  https://hackernoon.com/how-to-ask-questions-that-drive-change-at-work-81d9422ffa9c
