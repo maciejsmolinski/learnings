@@ -54,6 +54,8 @@
   https://reasonml.github.io/
 * Get Started with Reason (egghead.io video course)
   https://egghead.io/courses/get-started-with-reason
+* Reason Basics (cheatsheet)
+  https://github.com/parkerziegler/reason-basics
 * An invitation to ReasonML
   https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html
 * Robbie McCorkell — ReasonML - Mixing ReasonML into your React apps
