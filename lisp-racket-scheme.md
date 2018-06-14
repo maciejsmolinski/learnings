@@ -20,3 +20,8 @@
   https://docs.racket-lang.org/racket-cheat/index.html
 * Systems Programming with Racket
   https://docs.racket-lang.org/more/
+
+## Communicating Sequential Processes (CSP)
+
+* Why CSP matters I: Keeping things in sync
+  https://blog.ndk.io/why-csp-matters1.html
