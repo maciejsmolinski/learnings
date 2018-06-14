@@ -25,3 +25,5 @@
 
 * Why CSP matters I: Keeping things in sync
   https://blog.ndk.io/why-csp-matters1.html
+* Why CSP matters II: How do I know sync works?
+  https://blog.ndk.io/why-csp-matters2.html
