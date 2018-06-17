@@ -96,6 +96,8 @@
   https://medium.com/@Hehk/creating-global-state-in-reasonreact-f84701c6ab6
 * Evolving Codebase - Jared Forsyth - Why We’re Afraid of Change 
   https://www.youtube.com/watch?v=5Sl5C-5fX1M
+* GraphQL in Reason - Sean Grove - Having your cake and eating it too
+  https://www.youtube.com/watch?v=OT7xOpPCGds
 
 ## BuckleScript
 
