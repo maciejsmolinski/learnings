@@ -94,6 +94,8 @@
   https://blog.hasura.io/how-i-deployed-a-reasonml-react-app-with-docker-29dd2ce6de82
 * Creating global state in ReasonReact
   https://medium.com/@Hehk/creating-global-state-in-reasonreact-f84701c6ab6
+* Evolving Codebase - Jared Forsyth - Why We’re Afraid of Change 
+  https://www.youtube.com/watch?v=5Sl5C-5fX1M
 
 ## BuckleScript
 
