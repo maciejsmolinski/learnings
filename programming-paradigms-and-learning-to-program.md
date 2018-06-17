@@ -47,3 +47,8 @@
   https://www.youtube.com/watch?v=QXjU9qTsYCc
 * Crash Course — Computer Science — Video Series
   https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+
+## Algorithms
+
+* Big-O notation in 5 minutes — The basics
+  https://www.youtube.com/watch?v=__vX2sjlpXU
