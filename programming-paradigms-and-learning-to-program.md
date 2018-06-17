@@ -16,6 +16,8 @@
   https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2
 * The secret to being a top developer is building things! Here’s a list of fun apps to build!
   https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c
+* Apprenticeship - Treehouse & Ryan Carson teach coding for "0 to job-ready," apprenticeships to close talent gap
+  https://www.youtube.com/watch?v=fa768qY_0bs
 
 ## Online Courses
 
