@@ -448,6 +448,12 @@
 * nest — A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
   https://nestjs.com/
 
+## JavaScript Internals
+
+* Jake Archibald: In The Loop - JSConf.Asia 2018 (Event Loop)
+  https://www.youtube.com/watch?v=cCOL7MC4Pl0
+  
+
 ## Debugging
 
 * Debugging The Web (Chrome Dev Summit 2016)
