@@ -98,6 +98,8 @@
   https://www.youtube.com/watch?v=5Sl5C-5fX1M
 * GraphQL in Reason - Sean Grove - Having your cake and eating it too
   https://www.youtube.com/watch?v=OT7xOpPCGds
+* Vladimir Kurchatkin - Building native Node.js addons in Reason | ReasonConf 2018
+  https://www.youtube.com/watch?v=EEIGi1lP-v0
 
 ## BuckleScript
 
