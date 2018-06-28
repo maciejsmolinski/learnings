@@ -294,7 +294,8 @@
   https://github.com/sindresorhus/ow
 * mobx-state-tree — Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX
   https://github.com/mobxjs/mobx-state-tree
-
+* ajv - The fastest JSON Schema Validator
+  https://github.com/epoberezkin/ajv
 
 ## Rest & GraphQL
 
