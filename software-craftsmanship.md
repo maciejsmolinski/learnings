@@ -48,6 +48,11 @@
 * Andy Keep - Writing a Nanopass Compiler
   https://www.youtube.com/watch?v=Os7FE3J-U5Q
 
+## Agile Software Development
+
+* Robert C. Martin - The Land that Scrum Forgot
+  https://www.youtube.com/watch?v=hG4LH6P8Syk
+
 ## End Goal
 
 * Giving good demos
