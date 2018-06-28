@@ -18,6 +18,11 @@
 * MindSettlers - Solve team problems faster. Make change stick.  Find new practices, experiment, analyze, engage.
   https://www.mindsettlers.com/
   
+## Lessons Learned
+
+* Robert C. Martin - The Land that Scrum Forgot
+  https://www.youtube.com/watch?v=hG4LH6P8Syk
+
 ## Methods & Techniques & Tools
 
 * The Cone of Uncertainty
