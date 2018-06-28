@@ -8,6 +8,8 @@
   https://www.youtube.com/watch?v=_31c9O4lpUY
 * "PureScript by Example" by Phil Freeman (book)
   https://leanpub.com/purescript
+* Reaktor Breakpoint 2018: Nicholas Kariniemi, JavaScript, TypeScript and PureScript
+  https://www.youtube.com/watch?v=IvPBMEYxP-Y
 * "A Working Stiff's Guide to PureScript" workshop by Nicholas Kariniemi & Antti Holvikari
   https://github.com/reaktor/purescript-workshop
 * Fear, trust and PureScript: Building on trust with types and functional programming
