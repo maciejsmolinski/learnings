@@ -90,6 +90,9 @@
   https://airbnb.io/react-sketchapp/
 * DO - The most versatile to-do app UI kit you've ever seen.
   https://www.invisionapp.com/do
+* UXPin — The Premier UX Design Platform. Prototyping. Documentation. Design Systems.
+  https://www.uxpin.com/
+
 
 ## Landing Pages
 
