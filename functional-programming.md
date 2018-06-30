@@ -83,6 +83,11 @@
 * Dependent Types - Idris - Type safe printf
   https://www.youtube.com/watch?v=fVBck2Zngjo
 
+## Type Classes - Articles
+
+* Demystifying Type Classes - Implementing, and Understanding Type Classes
+  http://okmij.org/ftp/Computation/typeclass.html
+
 ## Computational Effects - Resource Collections
 
 * A collaborative bibliography of work related to the theory and practice of computational effects
