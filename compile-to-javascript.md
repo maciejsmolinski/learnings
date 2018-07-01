@@ -116,5 +116,7 @@
 
 * Official Website
   https://www.dartlang.org
+* Flutter — Build beautiful native apps in record time
+  https://flutter.io/
 * Build reactive mobile apps with Flutter (Google I/O '18)
   https://www.youtube.com/watch?v=RS36gBEp8OI
