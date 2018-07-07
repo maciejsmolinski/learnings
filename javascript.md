@@ -175,6 +175,8 @@
   https://flyweb.github.io/posts/2016/11/01/introducing-flyweb.html
 * WebExtensions API - a cross-browser system for developing extensions
   https://developer.mozilla.org/en-US/Add-ons/WebExtensions
+* A minimal guide to ECMAScript Decorators
+  https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
 
 ## Tools / Frameworks
 
