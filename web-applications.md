@@ -106,6 +106,8 @@
 
 * Interneting Is Hard — Web Development Tutorials For Complete Beginners
   https://internetingishard.com/
+* Codecademy — Learn to code - for free
+  https://www.codecademy.com/
 
 ## Books
 
