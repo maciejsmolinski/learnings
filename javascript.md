@@ -334,6 +334,8 @@
   https://bundlephobia.com/
 * x0 - Zero-config React development environment & static site generator
   https://compositor.io/x0/
+* pnpm — Fast, disk space efficient package manager
+  https://github.com/pnpm/pnpm
 
 ## Authentication & Authorization
 
