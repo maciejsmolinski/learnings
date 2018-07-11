@@ -310,6 +310,11 @@
 * GraphQL — The Fullstack Tutorial for GraphQL
   https://www.howtographql.com/
 
+## Documentation
+
+* docz — It has never been so easy to document your things! (markdown + components)
+  https://www.docz.site/
+
 ## Package Management & Bundlers
 
 * Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser
