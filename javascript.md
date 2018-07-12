@@ -402,6 +402,8 @@
   https://github.com/v8/v8/wiki/Design%20Elements
 * Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js
   https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs
+* Optimize Website Speed With Chrome DevTools
+  https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 
 ## Abstract / Good Code / Patterns
 
