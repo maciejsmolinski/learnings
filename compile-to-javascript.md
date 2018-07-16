@@ -36,6 +36,8 @@
   https://www.youtube.com/watch?v=GlUcCPmH8wI
 * "Async Programming in PureScript" by Nate Faubion
   https://www.youtube.com/watch?v=dbM72ap30TE
+* "PS Unscripted - Free From Tree & Halogen VDOM" by Nate Faubion
+  https://www.youtube.com/watch?v=eKkxmVFcd74
 
 ## Elm
 
