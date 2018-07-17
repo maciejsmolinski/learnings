@@ -46,6 +46,8 @@
   http://www.paulkeijzer.com/speed-dating-4-innovative-team-building-activities/
 * 4+3+2+1 Team Success Factors by Jimmy Janlén
   https://www.youtube.com/watch?v=0BcwY1fZtY4
+* T-Shaped Engineering on Meetup Pro
+  https://medium.com/making-meetup/t-shaped-engineering-on-meetup-pro-1e0a38df7f5b
 
 
 ## Culture
