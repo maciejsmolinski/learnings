@@ -37,7 +37,11 @@
 * Functional-Light JavaScript by Kyle Simpson
   https://github.com/getify/Functional-Light-JS
   
+## Workshops
 
+* React — FullstackFest react component library workshop (design systems)
+  https://github.com/Skyscanner/fullstackfest-react-workshop
+  
 ## Learning & Interactive Platforms
 
 * Observable — Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration
