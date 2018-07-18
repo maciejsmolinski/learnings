@@ -270,6 +270,8 @@
   https://www.youtube.com/watch?v=z-6JC0_cOns
 * React — compositor/x0 - Zero-config React development environment & static site generator
   https://compositor.io/x0/
+* React — atlassian/react-beautiful-dnd — Beautiful, accessible drag and drop for lists with React.js
+  https://github.com/atlassian/react-beautiful-dnd
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
