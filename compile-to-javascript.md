@@ -40,6 +40,8 @@
   https://www.youtube.com/watch?v=eKkxmVFcd74
 * Comonads all the way down by Tom Harding
   https://docs.google.com/presentation/d/1UkRASOzbN67KinFq7SqJgsH_Q27iE4jxwgeveznWowM/edit#slide=id.p
+* Hardy Jones — Integrating Purescript and Halogen into Javascript Apps - Part 6 of 6 - λC 2017
+  https://www.youtube.com/watch?v=2h2bBkxn_Lw
 
 ## Elm
 
