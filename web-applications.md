@@ -69,6 +69,8 @@
   https://blog.dnsimple.com/2018/02/server-timing-with-phoenix/
 * WRK - a Modern HTTP benchmarking tool
   https://github.com/wg/wrk
+* Optimize Website Speed With Chrome DevTools
+  https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 
 ## Caching
 
