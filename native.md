@@ -10,3 +10,8 @@
   https://flutter.io/
 * Build reactive mobile apps with Flutter (Google I/O '18)
   https://www.youtube.com/watch?v=RS36gBEp8OI
+
+## Resources
+
+* React Native Apps is a showcase of only open source React Native apps
+  https://github.com/ReactNativeNews/React-Native-Apps
