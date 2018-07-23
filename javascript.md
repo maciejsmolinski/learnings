@@ -9,6 +9,13 @@
 * Robust Client-Side JavaScript - A Developer’s Guide
   https://molily.de/robust-javascript/
 
+## Things Explained
+
+* JavaScript Reactivity Explained Visually — Gregg Pollack
+  https://www.youtube.com/watch?v=7Cjb7Xj8fEI
+* In The Loop — Event Loop — Jake Archibald
+  https://www.youtube.com/watch?v=cCOL7MC4Pl0
+
 ## Case Studies
 
 * Gooact: React in 160 lines of JavaScript
