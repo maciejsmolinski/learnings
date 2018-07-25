@@ -46,6 +46,8 @@
   https://duotone.shapefactory.co/
 * Ionicons — Beautifully crafted open source icons
   https://ionicons.com/
+* Streamline 3.0 — The world’s largest icon library
+  https://streamlineicons.com/
 
 ## Performance
 
