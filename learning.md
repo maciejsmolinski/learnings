@@ -9,6 +9,8 @@
   https://medium.com/@benjaminhardy/this-morning-routine-will-save-you-20-hours-per-week-409f8acbde1
 * Accelerate Your Learning Curve With These 5 Practical Tips
   https://dariusforoux.com/accelerate-your-learning-curve/
+* 5-Hour Rule: If you’re not spending 5 hours per week learning, you’re being irresponsible
+  https://medium.com/the-mission/the-5-hour-rule-if-youre-not-spending-5-hours-per-week-learning-you-re-being-irresponsible-791c3f18f5e6
 
 ## Studying
 
