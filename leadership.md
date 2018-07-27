@@ -20,6 +20,13 @@
 * Manager Tools Podcast - One-on-Ones - Part 3 (Hall Of Fame Guidance)
   https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-3
 
+## DiSC Model
+
+* DiSC Model Summary
+  https://www.manager-tools.com/documents/disc-basics
+* DiSC Cheat Sheet
+  https://www.manager-tools.com/docs/BeEffectiveWithDISC
+
 ## Leadership
 
 * John C. Maxwell - Law Of Influence!
