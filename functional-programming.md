@@ -8,6 +8,8 @@
   https://mitpress.mit.edu/sicp/
 * How to Design Programs
   http://www.htdp.org/
+* Programming Language Foundations in Agda
+  https://plfa.github.io/
 
 ## Functional Programming - Podcasts
 
