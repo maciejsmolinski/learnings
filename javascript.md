@@ -164,6 +164,8 @@
   https://blog.mozilla.org/blog/2017/11/13/webassembly-in-browsers/
 * Hello wasm-pack!
   https://hacks.mozilla.org/2018/04/hello-wasm-pack/
+* Rust and WebAssembly — Announcing the js-sys crate!
+  https://rustwasm.github.io/2018/07/26/announcing-the-js-sys-crate.html
 
 ## Typechecking
 
