@@ -11,6 +11,15 @@
 * Manager Tools Podcast - Giving Effective Feedback (pt4)
   https://www.manager-tools.com/2005/07/giving-effective-feedback-part-4-hall-fame-guidance
 
+## One on Ones
+
+* Manager Tools Podcast - One-on-Ones - Part 1 (Hall Of Fame Guidance)
+  https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-1
+* Manager Tools Podcast - One-on-Ones - Part 2 (Hall Of Fame Guidance)
+  https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-2
+* Manager Tools Podcast - One-on-Ones - Part 3 (Hall Of Fame Guidance)
+  https://www.manager-tools.com/2005/07/the-single-most-effective-management-tool-part-3
+
 ## Leadership
 
 * John C. Maxwell - Law Of Influence!
@@ -48,7 +57,6 @@
   https://www.youtube.com/watch?v=0BcwY1fZtY4
 * T-Shaped Engineering on Meetup Pro
   https://medium.com/making-meetup/t-shaped-engineering-on-meetup-pro-1e0a38df7f5b
-
 
 ## Culture
 
