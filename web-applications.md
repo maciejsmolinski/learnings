@@ -97,13 +97,6 @@
 * What’s New in HTML 5.2?
   https://bitsofco.de/whats-new-in-html-5-2/
 
-## CSS
-
-* A Complete Guide to Grid
-  https://css-tricks.com/snippets/css/complete-guide-grid/
-* CSS Grid — Learn all about CSS Grid with Wes Bos in this free video series
-  https://cssgrid.io/
-
 ## Learning Web Development
 
 * Interneting Is Hard — Web Development Tutorials For Complete Beginners
