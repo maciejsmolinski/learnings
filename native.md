@@ -15,3 +15,8 @@
 
 * React Native Apps is a showcase of only open source React Native apps
   https://github.com/ReactNativeNews/React-Native-Apps
+  
+## Animations
+
+* Lottie — a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile and on the web!
+  http://airbnb.io/lottie/
