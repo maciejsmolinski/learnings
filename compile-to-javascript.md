@@ -59,6 +59,8 @@
   https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d
 * Elm - Learning Elm From A Drum Sequencer (Part 1)
   https://www.smashingmagazine.com/2018/01/learning-elm-drum-sequencer-part-1/
+* From React to Elm
+  http://sebastianporto.com/blog/posts/2017/from-react-to-elm/
 
 ## ReasonML
 
