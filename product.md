@@ -96,6 +96,8 @@
   https://www.uxpin.com/
 * Alva — a radically new digital design tool built for cross-functional product teams
   https://meetalva.io/
+* Framer X — Interactive design for everyone.
+  https://framer.com/x
 
 ## Landing Pages
 
