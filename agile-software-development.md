@@ -100,6 +100,8 @@
   https://www.youtube.com/watch?v=HZyRQ8Uhhmk
 * Woody Zuill — Mob Programming: A Whole Team Approach
   https://www.youtube.com/watch?v=SHOVVnRB4h0
+* 27 Sprint Anti-Patterns Holding Back Scrum Teams
+  https://dzone.com/articles/27-sprint-anti-patterns-holding-back-scrum-teams
 
 ## Tech Practices
 
