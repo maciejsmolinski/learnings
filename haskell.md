@@ -238,6 +238,8 @@
   https://hackage.haskell.org/package/turtle-1.5.8
 * Wire.com — the source code
   https://github.com/wireapp/wire-server
+* Fast Sudoku Solver in Haskell #3: Picking the Right Data Structures
+  https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-3/
 
 ## Deploying Haskell Code
 
