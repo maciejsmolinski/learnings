@@ -69,6 +69,8 @@
   https://blog.crisp.se/2014/08/25/ellen-gottesdiener/guest-post-by-ellen-gottesdiener-exploring-product-options-to-arrive-at-right-requirements
 * Mob Programming: A Whole Team Approach — Woody Zuill
   https://www.youtube.com/watch?v=SHOVVnRB4h0
+* Yesterday's Weather
+  https://www.scruminc.com/yesterdays-weather/
 
 ## Methodologies
 
