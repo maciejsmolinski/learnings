@@ -11,6 +11,11 @@
 * Build reactive mobile apps with Flutter (Google I/O '18)
   https://www.youtube.com/watch?v=RS36gBEp8OI
 
+## Automation
+
+* fastlane —  the easiest way to automate beta deployments and releases for your iOS and Android apps
+  https://fastlane.tools/
+
 ## Resources
 
 * React Native Apps is a showcase of only open source React Native apps
