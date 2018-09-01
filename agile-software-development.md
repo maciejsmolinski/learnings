@@ -13,6 +13,12 @@
 * Agile Product Ownership in a Nutshell (YouTube)
   https://www.youtube.com/watch?v=502ILHjX9EE
 
+## Scrum Master
+
+* Why we do not need a SCRUM MASTER!
+  https://www.linkedin.com/pulse/why-we-do-need-scrum-master-daniel-carrilho-
+  
+
 ## Continuous Learning & Tools
 
 * MindSettlers - Solve team problems faster. Make change stick.  Find new practices, experiment, analyze, engage.
