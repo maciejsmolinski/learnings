@@ -30,6 +30,8 @@
   https://github.com/andrew--r/frontend-case-studies
 * Tools without config
   https://blog.kentcdodds.com/automation-without-config-412ab5e47229
+* Modern component reusability: Render props in React & scoped slots in Vue
+  https://blog.logrocket.com/modern-component-reusability-render-props-in-react-scoped-slots-in-vue-ff3c5b2dc899
 
 ## Books
 
