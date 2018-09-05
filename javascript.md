@@ -133,6 +133,8 @@
   https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a
 * Jest - Delightful JavaScript Testing
   https://facebook.github.io/jest/
+* Jest — Mocks — Understanding Jest Mocks
+  https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c
 * Enzyme - JavaScript Testing utility for React
   https://airbnb.io/enzyme/
 * Majestic - an electron app that provides a UI for running tests with Jest
