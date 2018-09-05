@@ -315,6 +315,13 @@
   https://github.com/mobxjs/mobx-state-tree
 * ajv - The fastest JSON Schema Validator
   https://github.com/epoberezkin/ajv
+* mdx — JSX in Markdown for ambitious projects 
+  https://mdxjs.com
+
+## Presentations
+
+* mdx-deck — MDX-based presentation decks
+  https://github.com/jxnblk/mdx-deck
 
 ## Rest & GraphQL
 
