@@ -10,6 +10,8 @@
   https://www.mindtheproduct.com/
 * Intercom on Product Management
   https://www.intercom.com/books/product-management
+* DesignBetter.co — Introducing the best practices, stories, and insights from the world’s top design leaders
+  https://www.designbetter.co/
 
 ## Product Frameworks
 
