@@ -78,6 +78,8 @@
   https://www.sketchapp.com/
 * InVision Studio - The world's most powerful screen design tool
   https://www.invisionapp.com/studio
+* InVision Studio — Made For Studio — Everything You Need To Get Started With InVision Studio
+  https://madeforstudio.com/
 * Adobe XD. Design. Prototype. Experience
   https://www.adobe.com/mt/products/xd.html
 * InVision Inspect — Pixel-perfect design handoffs for your team
