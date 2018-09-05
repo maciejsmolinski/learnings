@@ -287,6 +287,8 @@
   https://compositor.io/x0/
 * React — atlassian/react-beautiful-dnd — Beautiful, accessible drag and drop for lists with React.js
   https://github.com/atlassian/react-beautiful-dnd
+* React — Ryan Florence - Route Recalculating
+  https://www.youtube.com/watch?v=X-kA8B2QzjY
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
