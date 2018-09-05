@@ -18,6 +18,13 @@
 * Manifold — Find, organize, and connect the best cloud services
   https://www.manifold.co/
 
+## Proxies
+
+* mitmproxy — a free and open source interactive HTTPS proxy
+  https://mitmproxy.org/
+* Charles - web debugging proxy — an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet
+  https://www.charlesproxy.com/
+
 ## Video Uploads
 
 * Streamable — video for publishers
