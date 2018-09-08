@@ -53,6 +53,11 @@
 * Robert C. Martin - The Land that Scrum Forgot
   https://www.youtube.com/watch?v=hG4LH6P8Syk
 
+## Developing Products
+
+* Intercom — Run Less Software
+  https://www.intercom.com/blog/run-less-software/
+
 ## End Goal
 
 * Giving good demos
