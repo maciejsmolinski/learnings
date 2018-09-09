@@ -14,6 +14,8 @@
 
 * Enough With the Service Objects Already
   https://avdi.codes/service-objects/
+* The (Silver) Bullet for the N+1 Problem
+  https://www.sitepoint.com/silver-bullet-n1-problem/
 
 ## Frameworks
 
