@@ -61,6 +61,8 @@
   https://www.smashingmagazine.com/2018/01/learning-elm-drum-sequencer-part-1/
 * From React to Elm
   http://sebastianporto.com/blog/posts/2017/from-react-to-elm/
+* Elm and Web Components
+  http://codeloveandboards.com/blog/2018/09/09/elm-and-web-components/
 
 ## ReasonML
 
