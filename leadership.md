@@ -80,6 +80,8 @@
   https://www.manager-tools.com/2008/01/how-to-set-annual-goals-part-2-of-3
 * Manager Tools Podcast - How to Set Annual Goals (pt3)
   https://www.manager-tools.com/2008/01/how-to-set-annual-goals-part-3-of-3
+* With Goals, FAST Beats SMART
+  https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/
 
 ## Driving Change
 
