@@ -109,6 +109,8 @@
 
 * Adele — The repository of publicly available design systems and pattern libraries
   https://adele.uxpin.com/
+* Design Systems Repo — Design Systems Gallery
+  https://designsystemsrepo.com/design-systems/
 
 ## Landing Pages
 
