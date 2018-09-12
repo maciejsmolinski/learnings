@@ -104,6 +104,11 @@
   https://meetalva.io/
 * Framer X — Interactive design for everyone.
   https://framer.com/x
+  
+## Design Systems
+
+* Adele — The repository of publicly available design systems and pattern libraries
+  https://adele.uxpin.com/
 
 ## Landing Pages
 
