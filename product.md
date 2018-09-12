@@ -113,6 +113,8 @@
   https://designsystemsrepo.com/design-systems/
 * Priceline One — Priceline Design System
   https://pricelinelabs.github.io/design-system/
+* Polaris — Shopify Design System
+  https://polaris.shopify.com/
 
 ## Landing Pages
 
