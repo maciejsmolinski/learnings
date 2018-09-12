@@ -111,6 +111,8 @@
   https://adele.uxpin.com/
 * Design Systems Repo — Design Systems Gallery
   https://designsystemsrepo.com/design-systems/
+* Priceline One — Priceline Design System
+  https://pricelinelabs.github.io/design-system/
 
 ## Landing Pages
 
