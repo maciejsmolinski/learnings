@@ -71,6 +71,8 @@
   https://www.graph.cool/
 * GraphCMS — The GraphQL CMS
   https://graphcms.com/
+* Sanity.io — Structured Content Done Right
+  https://www.sanity.io/ https://www.sanity.io/syntax
 
 ## Social Media
 
