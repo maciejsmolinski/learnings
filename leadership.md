@@ -65,6 +65,11 @@
 * T-Shaped Engineering on Meetup Pro
   https://medium.com/making-meetup/t-shaped-engineering-on-meetup-pro-1e0a38df7f5b
 
+## Hiring
+
+* If you don't hire juniors, you don't deserve seniors
+  http://isaaclyman.com/blog/posts/junior-developers/
+
 ## Culture
 
 * Culture Decks — A collection of culture decks, core values, mission statements, and more from real companies
