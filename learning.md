@@ -21,6 +21,11 @@
 * This 10-Minute Routine Will Increase Your Memory And Creativity
   https://medium.com/the-mission/this-10-minute-routine-will-increase-your-memory-and-creativity-b4f4dc7161ce
 
+## Practicing
+
+* The Beginner’s Guide to Deliberate Practice
+  https://jamesclear.com/beginners-guide-deliberate-practice
+
 ## Habits & Studies
 
 * Peak Performance: Elevate Your Game, Avoid Burnout, and Thrive with the New Science of Success by Brad Stulberg and Steve Magness
