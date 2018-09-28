@@ -37,6 +37,11 @@
 * "The Innovator's Dilemma" by Harvard Business School professor Clayton Christensen
   https://www.youtube.com/watch?v=yUAtIQDllo8
 
+## Heuristic
+
+* Triggers — A powerful brainstorming tool for creatives
+  http://www.trytriggers.com/
+
 ## Digital Psychology / Mental Notes / User Behaviour
 
 * Digital Psychology – a free library of psychological principles and examples for inspiration to enhance the customer experience and influence your user's behavior 
