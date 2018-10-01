@@ -81,6 +81,10 @@
 
 ## CDN
 
+* Cloudflare
+  https://www.cloudflare.com/
+* Fastly
+  https://www.fastly.com/
 * Everyone can now run JavaScript on Cloudflare with Workers
   https://blog.cloudflare.com/cloudflare-workers-unleashed/
 
