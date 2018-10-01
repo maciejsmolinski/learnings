@@ -114,3 +114,8 @@
 
 * The Complete NGINX Cookbook
   https://www.nginx.com/resources/library/complete-nginx-cookbook/
+
+## Courses
+
+* Frontend Masters — Mastering Chrome Developer Tools v2
+  https://frontendmasters.com/courses/chrome-dev-tools-v2/
