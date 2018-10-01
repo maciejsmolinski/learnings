@@ -241,6 +241,11 @@
 * Fast Sudoku Solver in Haskell #3: Picking the Right Data Structures
   https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-3/
 
+## Libraries
+
+* named — Named parameters (keyword arguments) for Haskell
+  https://hackage.haskell.org/package/named
+
 ## Deploying Haskell Code
 
 * Ultra light docker image for Haskell
