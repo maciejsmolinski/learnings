@@ -148,6 +148,8 @@
   https://www.cypress.io/
 * Chimp - Develop acceptance tests & end-to-end tests with realtime feedback
   https://github.com/xolvio/chimp
+* How to Test React Components using Jest and Enzyme
+  https://blog.bitsrc.io/how-to-test-react-components-using-jest-and-enzyme-fab851a43875
 
 ## Desktop
 
