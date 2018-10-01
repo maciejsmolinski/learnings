@@ -124,6 +124,8 @@
   https://www.youtube.com/watch?v=0-T3shwj-YA
 * Sketch.sh - Interactive ReasonML sketchbook
   https://sketch.sh/
+* Using Belt.Result
+  https://langintro.com/reasonml/using_belt_result/
 
 ## BuckleScript
 
