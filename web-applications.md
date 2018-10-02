@@ -25,6 +25,8 @@
   https://traefik.io/
 * Draft — Streamlined Kubernetes Development
   https://draft.sh/
+* Kubernetes: The Surprisingly Affordable Platform for Personal Projects
+  https://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects
 
 ## HTTP
 
