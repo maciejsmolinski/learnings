@@ -11,5 +11,7 @@
   https://elixirschool.com/en/
 * Programming Elixir - Functional |> Concurrent |> Pragmatic |> Fun (Book)
   https://pragprog.com/book/elixir/programming-elixir
+* Elixir for Programmers by Dave Thomas
+  https://codestool.coding-gnome.com/courses/elixir-for-programmers
 * Phoenix performance metrics within the browser developer tools
   https://blog.dnsimple.com/2018/02/server-timing-with-phoenix/
