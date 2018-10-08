@@ -10,6 +10,8 @@
   https://flutter.io/
 * Build reactive mobile apps with Flutter (Google I/O '18)
   https://www.youtube.com/watch?v=RS36gBEp8OI
+* Stanford Lecture 1: Introduction to iOS 11, Xcode 9 and Swift 4
+  https://www.youtube.com/watch?v=71pyOB4TPRE
 
 ## Automation
 
