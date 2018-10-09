@@ -36,7 +36,8 @@
   https://www.youtube.com/watch?v=IFWbxZrjWhM
 * The Crucial Thinking Skill Nobody Ever Taught You
   https://medium.com/the-mission/the-crucial-thinking-skill-nobody-ever-taught-you-536191d101ab
-
+* Researchers Invent a New Font That Is Scientifically Proven to Help You Retain What You Read
+  https://www.inc.com/minda-zetlin/sans-forgetica-font-memory-retention-reading-rmit-university-melbourne.html
 
 ## Teaching
 
