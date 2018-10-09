@@ -28,6 +28,11 @@
 * Kubernetes: The Surprisingly Affordable Platform for Personal Projects
   https://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects
 
+## TCP/IP
+
+* Binding Multiple Sockets To The Same Port
+  https://jamison.dance/05-27-2018/multiple-sockets-on-the-same-port
+
 ## HTTP
 
 * nginx — HTTP and reverse proxy server
