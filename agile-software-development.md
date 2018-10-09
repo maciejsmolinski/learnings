@@ -110,6 +110,8 @@
   https://dzone.com/articles/27-sprint-anti-patterns-holding-back-scrum-teams
 * Intercom — Run Less Software
   https://www.intercom.com/blog/run-less-software/
+* Getting stakeholder buy in for agile development
+  https://18f.gsa.gov/2017/12/14/getting-stakeholder-buy-in-for-agile-development/
 
 ## Tech Practices
 
