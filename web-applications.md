@@ -58,6 +58,8 @@
 
 ## Performance
 
+* The Cost Of JavaScript In 2018 — performance budgets and tactics for better user experience
+  https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
 * Performance Budget Calculator — Calculate A Performance Budget For Your Site
   http://www.performancebudget.io/
 * Measure Performance with the RAIL Model
