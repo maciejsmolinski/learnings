@@ -34,7 +34,8 @@
   https://blog.logrocket.com/modern-component-reusability-render-props-in-react-scoped-slots-in-vue-ff3c5b2dc899
 * Kent C Dodds — Simply React
   https://www.youtube.com/watch?v=AiJ8tRRH0f8
-
+* The Cost Of JavaScript In 2018 — performance budgets and tactics for better user experience
+  https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
 
 ## Books
 
@@ -409,6 +410,8 @@
 
 ## Performance
 
+* The Cost Of JavaScript In 2018 — performance budgets and tactics for better user experience
+  https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
 * Secrets of the DOM Virtual Machine, Tom Dale (Glimmer.js, Incremental DOM)
   https://www.youtube.com/watch?v=kD3LaHtwMm8
 * What happens when you visit ft.com?
