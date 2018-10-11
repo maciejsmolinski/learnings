@@ -333,6 +333,8 @@
   https://date-fns.org/
 * polly.js — Record, Replay, and Stub HTTP Interactions
   https://netflix.github.io/pollyjs/
+* graphql-yoga — Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
+  https://github.com/prisma/graphql-yoga
 
 ## Presentations
 
