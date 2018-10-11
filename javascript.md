@@ -297,6 +297,8 @@
   https://github.com/atlassian/react-beautiful-dnd
 * React — Ryan Florence - Route Recalculating
   https://www.youtube.com/watch?v=X-kA8B2QzjY
+* React — Suspense — The Suspense is Killing Redux
+  https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
