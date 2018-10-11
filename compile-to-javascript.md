@@ -65,6 +65,8 @@
   http://sebastianporto.com/blog/posts/2017/from-react-to-elm/
 * Elm and Web Components
   http://codeloveandboards.com/blog/2018/09/09/elm-and-web-components/
+* Ellie — Online IDE with Elm support
+  https://ellie-app.com/
 
 ## ReasonML
 
