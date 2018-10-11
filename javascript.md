@@ -329,6 +329,8 @@
   https://github.com/epoberezkin/ajv
 * mdx — JSX in Markdown for ambitious projects 
   https://mdxjs.com
+* date-fns — Modern JavaScript date utility library
+  https://date-fns.org/
 
 ## Presentations
 
