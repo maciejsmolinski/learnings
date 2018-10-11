@@ -88,6 +88,13 @@
 * Tettra is a knowledge management tool for modern teams — help your team make better decisions in less time
   https://tettra.co/
 
+## Note taking
+
+* Evernote — Best note taking app
+  https://evernote.com/
+* QuickNote — Minimalist, Free & Anonymous Note Taking App
+  https://quicknote.io/
+
 ## Focus & Productivity
 
 * Noisli.com - Improve Focus and Boost Productivity with Background Noise
