@@ -46,6 +46,8 @@
   https://www.youtube.com/watch?v=EoJ9xnzG76M
 * PureScript: Tomorrow’s JavaScript Today
   https://www.youtube.com/watch?v=5AtyWgQ3vv0
+* Principled, Painless Asynchronous Programming in PureScript
+  https://github.com/degoes-consulting/lambdaconf-2015/blob/master/speakers/jdegoes/async-purescript/presentation.md
 * Tutorial Series — Make the Leap from JavaScript to PureScript
   https://github.com/adkelley/javascript-to-purescript
 
