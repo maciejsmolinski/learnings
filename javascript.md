@@ -331,6 +331,8 @@
   https://mdxjs.com
 * date-fns — Modern JavaScript date utility library
   https://date-fns.org/
+* polly.js — Record, Replay, and Stub HTTP Interactions
+  https://netflix.github.io/pollyjs/
 
 ## Presentations
 
