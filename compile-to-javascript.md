@@ -46,6 +46,8 @@
   https://www.youtube.com/watch?v=EoJ9xnzG76M
 * PureScript: Tomorrow’s JavaScript Today
   https://www.youtube.com/watch?v=5AtyWgQ3vv0
+* Tutorial Series — Make the Leap from JavaScript to PureScript
+  https://github.com/adkelley/javascript-to-purescript
 
 ## Elm
 
