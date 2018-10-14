@@ -134,6 +134,8 @@
   https://langintro.com/reasonml/using_belt_result/
 * Adopting Reason: strategies, dual sources of truth, and why genType is a big deal
   https://medium.com/@javierwchavarri/adopting-reason-strategies-dual-sources-of-truth-and-why-gentype-is-a-big-deal-c514265b466d
+* Rebolt — BuckleScript bindings for React Native
+  https://rebolt.callstack.com/docs/intro.html
 
 ## BuckleScript
 
