@@ -41,6 +41,8 @@
   https://fsharpforfunandprofit.com/rop/
 * Scott Wlaschin - Domain Modeling Made Functional
   https://www.youtube.com/watch?v=1pSH8kElmM4
+* Chris Myers: A Year Living Freely
+  http://functionaltalks.org/2016/11/24/chris-myers-a-year-living-freely/
 
 ## Category Theory - Videos
 
