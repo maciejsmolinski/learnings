@@ -147,6 +147,11 @@
 * How Long Should You Run Your A/B Test?
   https://blog.mailchimp.com/how-long-to-run-an-ab-test/
 
+## Experimentation
+
+* Bullet Train — manage feature flags and remote config across web, mobile and server side applications
+  https://bullet-train.io/
+
 ## Error Tracking
 
 * LogRocket.com - Stop guessing why bugs happen
