@@ -122,6 +122,8 @@
   https://pricelinelabs.github.io/design-system/
 * Polaris — Shopify Design System
   https://polaris.shopify.com/
+* Evergreen — A Design System for the Web
+  https://evergreen.segment.com/
 
 ## Landing Pages
 
