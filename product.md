@@ -148,6 +148,8 @@
 
 * How Long Should You Run Your A/B Test?
   https://blog.mailchimp.com/how-long-to-run-an-ab-test/
+* Easy statistics for AdWords A/B testing, and hamsters
+  https://blog.asmartbear.com/easy-statistics-for-adwords-ab-testing-and-hamsters.html
 
 ## Experimentation
 
