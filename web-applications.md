@@ -42,6 +42,11 @@
 * OpenResty® — Scalable Web Platform by Extending NGINX with Lua
   https://openresty.org/en/
   
+## Tools
+
+* REDbot — The Resource Expert Droid helps check HTTP resources for common problems and makes suggestions about how to improve them
+  https://redbot.org/
+
 ## Peer-to-Peer Web
 
 * Beaker — a peer-to-peer browser with tools to create and host websites. Don't just browse the Web, build it.
