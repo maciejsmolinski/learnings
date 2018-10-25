@@ -14,6 +14,8 @@
   https://www.intercom.com/blog/run-less-software/
 * DesignBetter.co — Introducing the best practices, stories, and insights from the world’s top design leaders
   https://www.designbetter.co/
+* DesignBetter.co — available in ePub format
+  https://www.invisionapp.com/inside-design/design-better-epub
 
 ## Product Frameworks
 
