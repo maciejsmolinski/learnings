@@ -44,6 +44,8 @@
 
 * Bit - Components are building blocks. You are the architect.
   https://bitsrc.io/
+* Custom Elements Everywhere — Making sure frameworks and custom elements can be BFFs
+  https://custom-elements-everywhere.com/
 
 ## Performance
 
