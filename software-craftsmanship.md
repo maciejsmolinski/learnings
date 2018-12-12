@@ -25,6 +25,8 @@
   http://wiki.c2.com/?PrimitiveObsession
 * Failing Fast - Throwing Errors Early and Often
   https://molily.de/robust-javascript/#failing-fast https://martinfowler.com/ieeeSoftware/failFast.pdf
+* Don't use the greater than sign in programming
+  http://llewellynfalco.blogspot.com/2016/02/dont-use-greater-than-sign-in.html
 * Continuous integration vs. continuous delivery vs. continuous deployment
   https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd
 
