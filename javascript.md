@@ -299,6 +299,8 @@
   https://www.youtube.com/watch?v=X-kA8B2QzjY
 * React — Suspense — The Suspense is Killing Redux
   https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430
+* React — React Custom Hooks and the death of Render Props
+  https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
