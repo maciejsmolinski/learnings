@@ -301,6 +301,8 @@
   https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430
 * React — React Custom Hooks and the death of Render Props
   https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f
+* React — Writing Custom React Hooks for GraphQL
+  https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
