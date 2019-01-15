@@ -6,6 +6,8 @@
   http://stateofjs.com/2016/introduction/
 * The State Of JavaScript 2017
   http://stateofjs.com/2017/introduction/
+* The State Of JavaScript 2018
+  https://2018.stateofjs.com/introduction/
 * Robust Client-Side JavaScript - A Developer’s Guide
   https://molily.de/robust-javascript/
 
