@@ -4,6 +4,8 @@
 
 * Official Website
   http://www.purescript.org
+* PureScript — Common Operators
+  https://github.com/purescript/documentation/blob/master/guides/Common-Operators.md
 * Utah Haskell Meetup - Intro to PureScript - Michael Trotter
   https://www.youtube.com/watch?v=_31c9O4lpUY
 * "PureScript by Example" by Phil Freeman (book)
