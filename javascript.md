@@ -303,6 +303,8 @@
   https://blog.logrocket.com/react-custom-hooks-and-the-death-of-render-props-a0ce5cba387f
 * React — Writing Custom React Hooks for GraphQL
   https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62
+* React — Hooks implementation
+  https://github.com/facebook/react/blob/b4ad8e947150a1a0b486a388e2d4762d3eee51ee/packages/react/src/ReactHooks.js
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
