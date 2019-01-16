@@ -11,6 +11,8 @@
   https://dariusforoux.com/accelerate-your-learning-curve/
 * 5-Hour Rule: If you’re not spending 5 hours per week learning, you’re being irresponsible
   https://medium.com/the-mission/the-5-hour-rule-if-youre-not-spending-5-hours-per-week-learning-you-re-being-irresponsible-791c3f18f5e6
+* Encouraging the Wrong State of Mind for Creating Good Code
+  https://medium.com/@george3d6/encouraging-the-wrong-state-of-mind-for-creating-good-code-531031517881
 
 ## Studying
 
