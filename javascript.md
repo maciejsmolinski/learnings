@@ -267,6 +267,8 @@
   https://reactjs.org/docs/render-props.html
 * React — Compound Components - Ryan Florence
   https://www.youtube.com/watch?v=hEGg-3pIHlE
+* Quick guide to React compound components
+  https://blog.logrocket.com/guide-to-react-compound-components-9c4b3eb482e9
 * React — Here's how React's New Context API Works
   https://www.youtube.com/watch?v=XLJN4JfniH4
 * React — Replacing Redux with the new React Context API
