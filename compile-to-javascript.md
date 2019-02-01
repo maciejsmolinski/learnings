@@ -132,6 +132,8 @@
   https://www.youtube.com/watch?v=EEIGi1lP-v0
 * Exploring Navigation for react-native in ReasonML by Mateusz Zatorski | ReasonConf 2018 Open Mic
   https://www.youtube.com/watch?v=0-T3shwj-YA
+* How to get a taste of ReasonML by building something useful
+  https://medium.freecodecamp.org/how-to-taste-reasonml-by-building-something-useful-7b1189b94637
 * Sketch.sh - Interactive ReasonML sketchbook
   https://sketch.sh/
 * Using Belt.Result
