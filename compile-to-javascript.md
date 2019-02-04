@@ -144,6 +144,8 @@
   https://medium.com/@javierwchavarri/adopting-reason-strategies-dual-sources-of-truth-and-why-gentype-is-a-big-deal-c514265b466d
 * Rebolt — BuckleScript bindings for React Native
   https://rebolt.callstack.com/docs/intro.html
+* Revery — Native, high-performance, cross-platform desktop apps - built with Reason!
+  https://github.com/revery-ui/revery
 
 ## BuckleScript
 
