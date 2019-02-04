@@ -94,6 +94,8 @@
   https://evernote.com/
 * QuickNote — Minimalist, Free & Anonymous Note Taking App
   https://quicknote.io/
+* Write.as — Minimalist, privacy-focused, writing and publishing platform
+  https://write.as/
 
 ## Focus & Productivity
 
