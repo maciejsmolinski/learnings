@@ -140,6 +140,8 @@
 
 * Textik - ASCII diagrams editor
   https://textik.com/
+* Monodraw — Powerful ASCII art editor designed for the Mac.
+  https://monodraw.helftone.com/
 
 ## Learning
 
