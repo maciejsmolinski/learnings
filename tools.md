@@ -96,6 +96,8 @@
   https://quicknote.io/
 * Write.as — Minimalist, privacy-focused, writing and publishing platform
   https://write.as/
+* Telegra.ph — a minimalist publishing tool that allows you to create richly formatted posts
+  https://telegra.ph 
 
 ## Focus & Productivity
 
