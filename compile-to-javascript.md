@@ -54,6 +54,8 @@
   https://github.com/degoes-consulting/lambdaconf-2015/blob/master/speakers/jdegoes/async-purescript/presentation.md
 * Tutorial Series — Make the Leap from JavaScript to PureScript
   https://github.com/adkelley/javascript-to-purescript
+* PS Unscripted - purescript-graphql - A GraphQL.js wrapper
+  https://www.youtube.com/watch?v=5NxbPNZxdW8
 
 ## Elm
 
