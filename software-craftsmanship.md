@@ -55,6 +55,12 @@
 * Andy Keep - Writing a Nanopass Compiler
   https://www.youtube.com/watch?v=Os7FE3J-U5Q
 
+## Quality & Safety
+
+* Why Is It So Hard To Build Safe Software?
+  https://free-dissociation.com/blog/posts/2018/08/why-is-it-so-hard-to-build-safe-software/
+
+
 ## Agile Software Development
 
 * Robert C. Martin - The Land that Scrum Forgot
