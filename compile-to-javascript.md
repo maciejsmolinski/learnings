@@ -146,6 +146,8 @@
   https://rebolt.callstack.com/docs/intro.html
 * Revery — Native, high-performance, cross-platform desktop apps - built with Reason!
   https://github.com/revery-ui/revery
+* bs-sql-common — A common interface common for SQL drivers
+  https://redex.github.io/package/bs-sql-common/
 
 ## BuckleScript
 
