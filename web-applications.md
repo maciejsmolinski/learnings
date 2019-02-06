@@ -101,6 +101,8 @@
   https://www.fastly.com/
 * Everyone can now run JavaScript on Cloudflare with Workers
   https://blog.cloudflare.com/cloudflare-workers-unleashed/
+* Cloudflare Workers Playground
+  https://cloudflareworkers.com/
 
 ## Authentication & Authorization
 
