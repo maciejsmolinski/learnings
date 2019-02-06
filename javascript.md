@@ -395,6 +395,8 @@
   https://compositor.io/x0/
 * pnpm — Fast, disk space efficient package manager
   https://github.com/pnpm/pnpm
+* Js.Coach — Manually curated list of packages for React, Webpack and others (index)
+  https://js.coach/
 
 ## Authentication & Authorization
 
