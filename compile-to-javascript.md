@@ -56,6 +56,8 @@
   https://github.com/adkelley/javascript-to-purescript
 * PS Unscripted - purescript-graphql - A GraphQL.js wrapper
   https://www.youtube.com/watch?v=5NxbPNZxdW8
+* Automatically de/encoding JSON in Purescript using Generics-Rep
+  https://qiita.com/kimagure/items/00f97c7fc6cef178fa3c
 
 ## Elm
 
