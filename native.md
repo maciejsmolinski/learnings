@@ -16,6 +16,8 @@
   https://rebolt.callstack.com/docs/intro.html
 * React Native Tutorial #2 - Making a login screen
   https://www.youtube.com/watch?v=1xu1eeRCPEk
+* React Native Apps — a showcase of only open source React Native apps
+  https://github.com/ReactNativeNews/React-Native-Apps
 
 ## Styling/CSS
 
