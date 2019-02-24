@@ -126,6 +126,8 @@
   https://polaris.shopify.com/
 * Evergreen — A Design System for the Web
   https://evergreen.segment.com/
+* Measuring the Impact of a Design System
+  https://medium.com/@didoo/measuring-the-impact-of-a-design-system-7f925af090f7
 
 ## Landing Pages
 
