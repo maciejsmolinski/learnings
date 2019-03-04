@@ -62,6 +62,8 @@
   https://alpacaaa.net/blog/post/purescript-drop-effect-rows/
 * justinwoo/purescript-simple-json — a simple Purescript JSON library that uses types automatically
   https://github.com/justinwoo/purescript-simple-json
+* Async in Purescript is fun and easy
+  https://qiita.com/kimagure/items/2ebce1399bac00c79656
 
 ## Elm
 
