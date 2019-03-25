@@ -5,6 +5,11 @@
 * The Clean Coder: A Code of Conduct for Professional Programmers
   https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073
 
+## Architecture & Software Design
+
+* Software Architecture - The Difference Between Architecture and Design
+  https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830
+
 ## Continuous Improvement
 
 * ABC: Always Be Coding
