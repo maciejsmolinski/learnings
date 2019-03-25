@@ -12,6 +12,8 @@
 
 ## Continuous Improvement
 
+* What I Learned in My First Two Years as a Software Engineer
+  https://blog.usejournal.com/what-i-learned-in-my-first-two-years-as-a-software-engineer-4e374fdcf0fd
 * ABC: Always Be Coding
   https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2
 * Always. Be. Shipping.
