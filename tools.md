@@ -121,6 +121,13 @@
 * Airtable.com - Organize anything, with anyone, from anywhere
   https://airtable.com/
 
+## Password Managers
+
+* LastPass — remembers all your passwords, so you don't have to
+  https://www.lastpass.com/
+* Dashlane — Never forget another password
+  https://www.dashlane.com
+
 ## AI 
 
 * Grakn.ai - a hyper-relational database for knowledge engineering
