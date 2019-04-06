@@ -190,6 +190,8 @@
 
 * Haskell compiler infastructure for WebAssembly
   https://github.com/haskell-wasm/wasm
+* Concurrency and Node
+  https://www.fpcomplete.com/blog/2016/12/concurrency-and-node
 
 ## Other
 
