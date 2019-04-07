@@ -83,10 +83,15 @@
   https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154
 * Phoenix performance metrics within the browser developer tools
   https://blog.dnsimple.com/2018/02/server-timing-with-phoenix/
-* WRK - a Modern HTTP benchmarking tool
-  https://github.com/wg/wrk
 * Optimize Website Speed With Chrome DevTools
   https://developers.google.com/web/tools/chrome-devtools/speed/get-started
+
+## Load Testing
+
+* WRK - a Modern HTTP benchmarking tool
+  https://github.com/wg/wrk
+* Siege — an http load testing and benchmarking utility
+  https://www.joedog.org/siege-home/
 
 ## Caching
 
