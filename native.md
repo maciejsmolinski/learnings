@@ -18,6 +18,8 @@
   https://www.youtube.com/watch?v=1xu1eeRCPEk
 * React Native Apps — a showcase of only open source React Native apps
   https://github.com/ReactNativeNews/React-Native-Apps
+* Building the F8 App
+  https://makeitopen.com/
 
 ## Styling/CSS
 
