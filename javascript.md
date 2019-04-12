@@ -397,6 +397,8 @@
   https://github.com/pnpm/pnpm
 * Js.Coach — Manually curated list of packages for React, Webpack and others (index)
   https://js.coach/
+* tink — a proof of concept implementation of an install-less installer
+  https://github.com/npm/tink
 
 ## Authentication & Authorization
 
