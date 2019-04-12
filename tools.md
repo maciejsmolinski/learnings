@@ -1,5 +1,10 @@
 # Tools
 
+## Development Utilities
+
+* Module Linker, a Chrome Extension for browsing source code better
+  https://module-linker.alhur.es
+
 ## Cloud Computing
 
 * Scaleway - Deploy BareMetal SSD cloud server in seconds
