@@ -9,6 +9,8 @@
 
 * Software Architecture - The Difference Between Architecture and Design
   https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830
+* Thirteen ways of looking at a turtle
+  https://fsharpforfunandprofit.com/turtle/
 
 ## Continuous Improvement
 
