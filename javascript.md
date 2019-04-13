@@ -347,6 +347,8 @@
   https://netflix.github.io/pollyjs/
 * graphql-yoga — Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
   https://github.com/prisma/graphql-yoga
+* FBT — An internationalization framework
+  https://facebookincubator.github.io/fbt/
 
 ## Presentations
 
