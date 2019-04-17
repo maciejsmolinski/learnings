@@ -13,10 +13,12 @@
 
 ## Things Explained
 
-* JavaScript Reactivity Explained Visually — Gregg Pollack
-  https://www.youtube.com/watch?v=7Cjb7Xj8fEI
 * In The Loop — Event Loop — Jake Archibald
   https://www.youtube.com/watch?v=cCOL7MC4Pl0
+* Tasks, microtasks, queues and schedules
+  https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
+* JavaScript Reactivity Explained Visually — Gregg Pollack
+  https://www.youtube.com/watch?v=7Cjb7Xj8fEI
 
 ## Case Studies
 
