@@ -21,6 +21,12 @@
 * Systems Programming with Racket
   https://docs.racket-lang.org/more/
 
+## Clojure
+
+* `http-kit` — a minimalist, efficient, Ring-compatible HTTP client/server for Clojure
+  http://www.http-kit.org/index.html
+  
+
 ## Communicating Sequential Processes (CSP)
 
 * Why CSP matters I: Keeping things in sync
