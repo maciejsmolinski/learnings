@@ -25,6 +25,8 @@
 
 * `http-kit` — a minimalist, efficient, Ring-compatible HTTP client/server for Clojure
   http://www.http-kit.org/index.html
+* `Leiningen` — for automating Clojure projects without setting your hair on fire
+  https://leiningen.org/
   
 
 ## Communicating Sequential Processes (CSP)
