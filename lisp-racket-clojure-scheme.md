@@ -1,4 +1,4 @@
-# Lisp, Racket, Scheme
+# Lisp, Racket, Clojure, Scheme
 
 ## Videos
 
