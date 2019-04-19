@@ -158,6 +158,8 @@
   https://github.com/revery-ui/revery
 * bs-sql-common — A common interface common for SQL drivers
   https://redex.github.io/package/bs-sql-common/
+* Weekly Reason Newsletter
+  https://reasonml.online/
 
 ## BuckleScript
 
