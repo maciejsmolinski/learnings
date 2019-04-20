@@ -20,6 +20,8 @@
   https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2
 * Always. Be. Shipping.
   https://blog.codinghorror.com/yes-but-what-have-you-done/
+* Why Every Software Engineer Should Write Articles
+  https://medium.freecodecamp.org/why-every-software-engineer-should-write-articles-f35bdae72d1b
 
 ## Code Reviews
 
