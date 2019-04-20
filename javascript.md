@@ -405,6 +405,8 @@
   https://js.coach/
 * tink — a proof of concept implementation of an install-less installer
   https://github.com/npm/tink
+* Yarn Plug’n’Play (pnp)
+  https://yarnpkg.com/lang/en/docs/pnp/
 
 ## Authentication & Authorization
 
