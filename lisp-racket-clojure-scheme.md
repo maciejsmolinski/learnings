@@ -21,6 +21,11 @@
 * Systems Programming with Racket
   https://docs.racket-lang.org/more/
 
+## Hackett
+
+* Official Guide — a high-level, general-purpose programming language designed for writing programs in many domains
+  https://docs.racket-lang.org/hackett/guide.html
+
 ## Clojure
 
 * `http-kit` — a minimalist, efficient, Ring-compatible HTTP client/server for Clojure
