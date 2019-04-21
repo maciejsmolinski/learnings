@@ -18,6 +18,11 @@
 * Traefik - modern HTTP reverse proxy and load balancer made to deploy microservices with ease
   https://traefik.io/
 
+## Continuous Integration / Deployments
+
+* Semaphore — The continuous integration and delivery platform powering the world’s best engineering teams
+  https://semaphoreci.com/
+
 ## Cloud Services
 
 * Manifold — Find, organize, and connect the best cloud services
