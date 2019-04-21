@@ -22,6 +22,9 @@
 
 * Semaphore — The continuous integration and delivery platform powering the world’s best engineering teams
   https://semaphoreci.com/
+* Semaphore Class 
+  https://www.youtube.com/watch?v=C_-2Ic3H2Y8
+
 
 ## Cloud Services
 
