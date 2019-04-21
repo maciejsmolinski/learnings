@@ -92,6 +92,8 @@
   https://www.notion.so/
 * Tettra is a knowledge management tool for modern teams — help your team make better decisions in less time
   https://tettra.co/
+* Slab — a beautiful knowledge base for teams. Keep answers out of silos
+  https://slab.com/?ref=producthunt
 
 ## Note taking
 
