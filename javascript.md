@@ -20,6 +20,8 @@
 
 ## Things Explained
 
+* 33 concepts every JavaScript developer should know
+  https://github.com/leonardomso/33-js-concepts
 * In The Loop — Event Loop — Jake Archibald
   https://www.youtube.com/watch?v=cCOL7MC4Pl0
 * Tasks, microtasks, queues and schedules
