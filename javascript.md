@@ -500,6 +500,8 @@
   https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3
 * Patterns — Generic Repository with Typescript and Node.js
   https://hackernoon.com/generic-repository-with-typescript-and-node-js-731c10a1b98e
+* All the 23 (GoF) design patterns implemented in Javascript
+  https://github.com/fbeline/design-patterns-JS
 
 ## Architecture
 
