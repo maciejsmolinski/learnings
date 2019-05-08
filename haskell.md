@@ -185,6 +185,8 @@
   https://github.com/facebook/duckling
 * isovector/canada-t
   https://github.com/isovector/canada-t
+* Selda — A Haskell SQL Library
+  https://selda.link/
 
 ## Web Programming with Haskell
 
