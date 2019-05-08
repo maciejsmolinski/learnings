@@ -143,6 +143,9 @@
   https://www.fullstory.com/
 * Mixpanel.com - Product analytics for product people
   https://mixpanel.com/
+* Heap.io — The New Standard in Tracking Customer Data
+  https://heap.io/
+
 
 ## User Testing
 
