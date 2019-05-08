@@ -200,6 +200,11 @@
 * Haskell/GHC symbol search Cheatsheet
   https://github.com/takenobu-hs/haskell-symbol-search-cheatsheet
 
+## Good practices and patterns
+
+* Matt Parsons — How do I design my application in Haskell? Three Layer Haskell Cake
+  https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
+
 ## Practical Haskell
 
 * A founder's perspective on 4 years with Haskell
