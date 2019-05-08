@@ -138,12 +138,14 @@
 * Coda — A doc as powerful as an app
   https://coda.io/
 
-## Password Managers
+## Password Managers & Password Generators
 
 * LastPass — remembers all your passwords, so you don't have to
   https://www.lastpass.com/
 * Dashlane — Never forget another password
   https://www.dashlane.com
+* 1Password — Strong Password Generator
+  https://1password.com/password-generator/
 
 ## AI 
 
