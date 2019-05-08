@@ -66,6 +66,9 @@
   https://qiita.com/kimagure/items/2ebce1399bac00c79656
 * Hardy Jones - How to Build a Blog in 10 Minutes with Hyper - λC 2017
   https://www.youtube.com/watch?v=YLUHnr0CXqE
+* Thomas Honeyman — Real World Halogen
+  https://thomashoneyman.com/guides/real-world-halogen/
+
 
 ## Elm
 
