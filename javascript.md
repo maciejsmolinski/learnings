@@ -201,6 +201,11 @@
 * Migrating a 10,000-line legacy JavaScript codebase to TypeScript
   http://www.pgbovine.net/migrating-legacy-codebase-to-typescript.htm
 
+## Security
+
+* JavaScript and Node.js Security — The Common Pitfalls
+  https://snyk.io/blog/javascript-and-nodejs-security-the-common-pitfalls/
+
 ## ES6
 
 * A Practical Introduction to ES6 Generator Functions
