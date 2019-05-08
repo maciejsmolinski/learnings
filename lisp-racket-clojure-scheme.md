@@ -34,6 +34,8 @@
   https://leiningen.org/
 * Clojure in a Nutshell
   http://soft.vub.ac.be/~tvcutsem/talks/presentations/Clojure-intro.pdf
+* What I learned after writing Clojure for 424 days, straight
+  https://medium.com/@shivekkhurana/what-i-learned-after-writing-clojure-for-424-days-straight-8884ec471f8e
 
 ## Communicating Sequential Processes (CSP)
 
