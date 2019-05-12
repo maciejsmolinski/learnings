@@ -53,6 +53,8 @@
   https://www.youtube.com/watch?v=yjmKMhJOJos
 * Haskell for JavaScript programmers
   https://www.youtube.com/watch?v=pUN3algpvMs
+* Haskell monads and the nest of lies 
+  https://blog.johncs.com/posts/monads-and-how-we-lie.htm
 
 ## Language Extensions
 
