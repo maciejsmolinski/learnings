@@ -129,6 +129,8 @@
   https://polaris.shopify.com/
 * Evergreen — A Design System for the Web
   https://evergreen.segment.com/
+* Ant Design — A design system with values of Nature and Determinacy for better user experience of enterprise applications
+  https://ant.design/
 * Measuring the Impact of a Design System
   https://medium.com/@didoo/measuring-the-impact-of-a-design-system-7f925af090f7
 
