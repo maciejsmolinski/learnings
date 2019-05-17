@@ -15,6 +15,8 @@
   https://www.haskell.org/hoogle/
 * Advice for Haskell beginners
   http://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html
+* Purity in Haskell
+  https://alpacaaa.net/haskell-purity/
 * The Nesting Instinct
   https://argumatronic.com/posts/2018-01-23-the-nesting-instinct.html
 * What is your review of Haskell (programming language)?
