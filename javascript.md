@@ -327,6 +327,8 @@
   https://github.com/facebook/react/blob/b4ad8e947150a1a0b486a388e2d4762d3eee51ee/packages/react/src/ReactHooks.js
 * React Toastify — React notification made easy 
   https://github.com/fkhadra/react-toastify
+* React Admin — A frontend Framework for building admin applications
+  https://marmelab.com/react-admin/
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
