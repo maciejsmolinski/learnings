@@ -5,6 +5,11 @@
 * Learn You Some Erlang for great good (online)
   http://learnyousomeerlang.com/content
 
+## Erlang
+
+* System Architecture - User's Guide
+  http://erlang.org/doc/system_architecture_intro/sys_arch_intro.html
+
 ## Elixir
 
 * Elixir School - Lessons about the Elixir programming language
