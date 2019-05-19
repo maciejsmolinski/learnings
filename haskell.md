@@ -265,3 +265,5 @@
   https://github.com/naushadh/hello-world
 * Hocker, I can't believe it's not docker!
   https://ixmatus.net/articles/docker-without-docker.html
+* Stack and docker integration
+  https://docs.haskellstack.org/en/stable/GUIDE/#docker
