@@ -367,6 +367,8 @@
   https://github.com/prisma/graphql-yoga
 * FBT — An internationalization framework
   https://facebookincubator.github.io/fbt/
+* got — Simplified HTTP requests
+  https://github.com/sindresorhus/got
 
 ## Presentations
 
