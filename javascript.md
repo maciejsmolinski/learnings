@@ -376,6 +376,8 @@
   https://facebookincubator.github.io/fbt/
 * got — Simplified HTTP requests
   https://github.com/sindresorhus/got
+* microstates.js — Composable State Primitives for JavaScript
+  https://github.com/microstates/microstates.js
 
 ## Presentations
 
