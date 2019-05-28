@@ -258,6 +258,8 @@
 
 * named — Named parameters (keyword arguments) for Haskell
   https://hackage.haskell.org/package/named
+* vector — Efficient Arrays
+  http://hackage.haskell.org/package/vector
 
 ## Deploying Haskell Code
 
