@@ -27,3 +27,5 @@
   https://portainer.io/
 * Traefik - modern HTTP reverse proxy and load balancer made to deploy microservices with ease
   https://traefik.io/
+* Docker DNS — simple, self-contained, automatic Docker DNS
+  https://github.com/phensley/docker-dns
