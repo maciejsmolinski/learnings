@@ -191,6 +191,15 @@
   https://github.com/isovector/canada-t
 * Selda — A Haskell SQL Library
   https://selda.link/
+* monad-mock — A Haskell package that provides a monad transformer for mocking mtl-style typeclasses
+  https://github.com/cjdev/monad-mock
+
+## Testing
+
+* QuickCheck - a library for random testing of program properties
+  https://hackage.haskell.org/package/QuickCheck
+* monad-mock — A Haskell package that provides a monad transformer for mocking mtl-style typeclasses
+  https://github.com/cjdev/monad-mock
 
 ## Web Programming with Haskell
 
