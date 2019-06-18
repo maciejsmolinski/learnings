@@ -180,6 +180,8 @@
   https://github.com/zeit/hyper
 * tl;dr - simplified, community driven man pages
   https://tldr.ostera.io/
+* ripgrep — a line-oriented search tool
+  https://github.com/BurntSushi/ripgrep
 
 ## MacOS Tools
 
