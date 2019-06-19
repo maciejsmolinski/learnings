@@ -271,6 +271,8 @@
   https://hackage.haskell.org/package/named
 * vector — Efficient Arrays
   http://hackage.haskell.org/package/vector
+* hspec — a testing framework for Haskell
+  http://hspec.github.io/
 
 ## Deploying Haskell Code
 
