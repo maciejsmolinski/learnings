@@ -68,7 +68,8 @@
   https://www.youtube.com/watch?v=YLUHnr0CXqE
 * Thomas Honeyman — Real World Halogen
   https://thomashoneyman.com/guides/real-world-halogen/
-
+* purescript-spec — a simple testing framework for Purescript
+  https://purescript-spec.github.io/purescript-spec/
 
 ## Elm
 
