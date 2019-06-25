@@ -200,6 +200,8 @@
   https://hackage.haskell.org/package/QuickCheck
 * monad-mock — A Haskell package that provides a monad transformer for mocking mtl-style typeclasses
   https://github.com/cjdev/monad-mock
+* hedgehog — automatically generates a comprehensive array of test cases, exercising your software in ways human testers would never imagine
+  http://hackage.haskell.org/package/hedgehog
 
 ## Web Programming with Haskell
 
