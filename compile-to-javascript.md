@@ -73,6 +73,8 @@
 
 ## Haste
 
+* Official Website
+  https://haste-lang.org/
 * Haste — a compiler to generate JavaScript code from Haskell
   https://github.com/valderman/haste-compiler
 
