@@ -191,3 +191,5 @@
   https://veeer.io/
 * Amethyst - a tiling window manager for macOS along the lines of xmonad
   https://ianyh.com/amethyst/
+* QLMobi — Quick Look plugin for Kindle ebook formats
+  https://github.com/bfabiszewski/QLMobi
