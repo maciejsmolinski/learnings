@@ -71,6 +71,11 @@
 * purescript-spec — a simple testing framework for Purescript
   https://purescript-spec.github.io/purescript-spec/
 
+## Haste
+
+* Haste — a compiler to generate JavaScript code from Haskell
+  https://github.com/valderman/haste-compiler
+
 ## Elm
 
 * Official Website
