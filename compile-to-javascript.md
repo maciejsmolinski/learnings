@@ -77,6 +77,8 @@
   https://haste-lang.org/
 * Haste — a compiler to generate JavaScript code from Haskell
   https://github.com/valderman/haste-compiler
+* Examples: Let's Play!
+  http://www-cs-students.stanford.edu/~blynn/play/
 
 ## Elm
 
