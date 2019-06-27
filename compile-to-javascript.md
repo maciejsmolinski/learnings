@@ -70,6 +70,8 @@
   https://thomashoneyman.com/guides/real-world-halogen/
 * purescript-spec — a simple testing framework for Purescript
   https://purescript-spec.github.io/purescript-spec/
+* purescript-spec-quickcheck — a tiny adapter between the purescript-spec test framework and purescript-quickcheck
+  https://github.com/purescript-spec/purescript-spec-quickcheck
 
 ## Haste
 
