@@ -190,6 +190,11 @@
 * Build reactive mobile apps with Flutter (Google I/O '18)
   https://www.youtube.com/watch?v=RS36gBEp8OI
   
+## TypeScript
+
+* ts-toolbelt — a collection of types that makes TypeScript even safer
+  https://github.com/pirix-gh/ts-toolbelt
+
 ## Mint
 
 * Mint — A refreshing language for the front-end web
