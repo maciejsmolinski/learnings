@@ -396,6 +396,7 @@
   https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d
 * GraphQL — The Fullstack Tutorial for GraphQL
   https://www.howtographql.com/
+* GraphQL — graphql-request — a minimal GraphQL client supporting Node and browsers for scripts or simple apps
 
 ## Documentation
 
