@@ -437,6 +437,8 @@
   https://github.com/npm/tink
 * Yarn Plug’n’Play (pnp)
   https://yarnpkg.com/lang/en/docs/pnp/
+* @pika/pack — npm package building, reimagined
+  https://www.pika.dev/blog/introducing-pika-pack/
 
 ## Authentication & Authorization
 
