@@ -147,7 +147,8 @@
   https://mixpanel.com/
 * Heap.io — The New Standard in Tracking Customer Data
   https://heap.io/
-
+* Fathom Analytics — provides simple, useful website stats without tracking or storing personal data of your users.
+  https://usefathom.com/
 
 ## User Testing
 
