@@ -380,6 +380,9 @@
   https://github.com/sindresorhus/got
 * microstates.js — Composable State Primitives for JavaScript
   https://github.com/microstates/microstates.js
+* Fusion.js — a modern framework for fast, powerful React apps
+  https://fusionjs.com/
+  
 
 ## Presentations
 
