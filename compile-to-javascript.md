@@ -104,6 +104,8 @@
   http://codeloveandboards.com/blog/2018/09/09/elm-and-web-components/
 * Ellie — Online IDE with Elm support
   https://ellie-app.com/
+* elm-visualization
+  https://code.gampleman.eu/elm-visualization/
 
 ## ReasonML
 
