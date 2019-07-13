@@ -74,6 +74,8 @@
   https://github.com/purescript-spec/purescript-spec-quickcheck
 * purescript-quickcheck — an implementation of QuickCheck in PureScript.
   https://github.com/purescript/purescript-quickcheck
+* presto — write apps like mathematical equations
+  https://github.com/juspay/purescript-presto
 
 ## Haste
 
