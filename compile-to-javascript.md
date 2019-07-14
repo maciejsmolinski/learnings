@@ -76,6 +76,8 @@
   https://github.com/purescript/purescript-quickcheck
 * presto — write apps like mathematical equations
   https://github.com/juspay/purescript-presto
+* purescript-panda — a PureScript UI library for building declarative front-ends without a virtual DOM
+  https://github.com/i-am-tom/purescript-panda/
 
 ## Haste
 
