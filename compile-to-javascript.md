@@ -78,6 +78,8 @@
   https://github.com/juspay/purescript-presto
 * purescript-panda — a PureScript UI library for building declarative front-ends without a virtual DOM
   https://github.com/i-am-tom/purescript-panda/
+* pscid — a lightweight, fast and unintrusive PureScript file-watcher
+  https://github.com/kRITZCREEK/pscid
 
 ## Haste
 
