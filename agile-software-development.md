@@ -77,6 +77,8 @@
   https://www.youtube.com/watch?v=SHOVVnRB4h0
 * Yesterday's Weather
   https://www.scruminc.com/yesterdays-weather/
+* We hate the Scrum meetings!
+  https://medium.com/serious-scrum/why-all-those-meetings-33ec898d6c1c
 
 ## Methodologies
 
