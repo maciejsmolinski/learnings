@@ -119,6 +119,8 @@
   
 ## Design Systems
 
+* Evergreen — Segment's Design System
+  https://www.youtube.com/watch?v=aoxEhlLpG9k
 * Adele — The repository of publicly available design systems and pattern libraries
   https://adele.uxpin.com/
 * Design Systems Repo — Design Systems Gallery
