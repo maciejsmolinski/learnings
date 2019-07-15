@@ -80,6 +80,9 @@
   https://github.com/i-am-tom/purescript-panda/
 * pscid — a lightweight, fast and unintrusive PureScript file-watcher
   https://github.com/kRITZCREEK/pscid
+* spago — PureScript package manager and build tool powered by Dhall and package-sets
+  https://github.com/spacchetti/spago
+
 
 ## Haste
 
