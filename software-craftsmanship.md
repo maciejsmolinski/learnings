@@ -71,7 +71,6 @@
 * Why Is It So Hard To Build Safe Software?
   https://free-dissociation.com/blog/posts/2018/08/why-is-it-so-hard-to-build-safe-software/
 
-
 ## Agile Software Development
 
 * Robert C. Martin - The Land that Scrum Forgot
@@ -84,5 +83,7 @@
 
 ## End Goal
 
+* 1x Engineer
+  https://1x.engineer/
 * Giving good demos
   https://blog.kentcdodds.com/giving-good-demos-df5716e6f31b
