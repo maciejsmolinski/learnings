@@ -84,6 +84,8 @@
   https://github.com/spacchetti/spago
 * purescript-mongo — Typesafe Mongo library for Purescript
   https://github.com/jac3km4/purescript-mongo/
+* natefaubion/purescript-run — An extensible-effects implementation
+  https://github.com/natefaubion/purescript-run
 
 ## Haste
 
