@@ -278,6 +278,11 @@
 * hspec — a testing framework for Haskell
   http://hspec.github.io/
 
+## Compilers
+
+* GRIN Compiler - whole program optimizer for lazy and strict functional languages
+  https://github.com/grin-compiler/grin
+
 ## Deploying Haskell Code
 
 * Ultra light docker image for Haskell
