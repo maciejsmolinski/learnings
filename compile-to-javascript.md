@@ -212,6 +212,8 @@
 
 * ts-toolbelt — a collection of types that makes TypeScript even safer
   https://github.com/pirix-gh/ts-toolbelt
+* umbrella — a mono-repository of 97 TypeScript/ES6 projects for functional, data driven development
+  https://github.com/thi-ng/umbrella
 
 ## Mint
 
