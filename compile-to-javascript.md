@@ -82,7 +82,8 @@
   https://github.com/kRITZCREEK/pscid
 * spago — PureScript package manager and build tool powered by Dhall and package-sets
   https://github.com/spacchetti/spago
-
+* purescript-mongo — Typesafe Mongo library for Purescript
+  https://github.com/jac3km4/purescript-mongo/
 
 ## Haste
 
