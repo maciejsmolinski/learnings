@@ -228,6 +228,8 @@
 
 * Semantic: Why Haskell?
   https://github.com/github/semantic/blob/7364e164947116406850ff6f298d80ba77105229/docs/why-haskell.md
+* Asterius: A Haskell to WebAssembly compiler
+  https://github.com/tweag/asterius
 * A founder's perspective on 4 years with Haskell
   http://baatz.io/posts/haskell-in-a-startup/
 * Four months with Haskell
