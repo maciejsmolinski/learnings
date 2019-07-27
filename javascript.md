@@ -382,7 +382,8 @@
   https://github.com/microstates/microstates.js
 * Fusion.js — a modern framework for fast, powerful React apps
   https://fusionjs.com/
-  
+* Why people got mad with Vue 3
+  https://vueschool.io/articles/news/why-people-are-mad-with-vue-3/
 
 ## Presentations
 
