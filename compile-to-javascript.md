@@ -86,6 +86,8 @@
   https://github.com/jac3km4/purescript-mongo/
 * natefaubion/purescript-run — An extensible-effects implementation
   https://github.com/natefaubion/purescript-run
+* slamdata/purescript-routing/ — A clean, type-safe routing library for PureScript
+  https://github.com/slamdata/purescript-routing/
 
 ## Haste
 
