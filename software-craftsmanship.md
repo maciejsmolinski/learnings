@@ -59,6 +59,11 @@
 > Programming is a systematic design of abstractions and a systematic approach to human creativity
 > ~ Jay McCarthy 
 
+# Laws
+
+* Laws, Theories, Principles and Patterns that developers will find useful #hackerlaws
+  https://github.com/dwmkerr/hacker-laws
+
 ## Parsing, Interpreters & Compilers
 
 * Crafting Interpreters — A handbook for making programming languages.
