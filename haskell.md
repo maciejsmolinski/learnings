@@ -193,6 +193,8 @@
   https://selda.link/
 * monad-mock — A Haskell package that provides a monad transformer for mocking mtl-style typeclasses
   https://github.com/cjdev/monad-mock
+* Selective applicative functors
+  https://blogs.ncl.ac.uk/andreymokhov/selective/
 
 ## Testing
 
