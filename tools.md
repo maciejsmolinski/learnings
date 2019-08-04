@@ -76,6 +76,8 @@
 
 ## CMS Tools
 
+* Directus — a Future-Proof Headless CMS & API for Custom Databases 
+  https://github.com/directus/directus
 * Tipe - Next Generation API-first CMS
   https://tipe.io/
 * Contentful - Don’t let a CMS get in the way of shipping software
