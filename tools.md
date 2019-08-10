@@ -1,9 +1,11 @@
 # Tools
 
-## Development Utilities
+## Browser Extensions
 
 * Module Linker, a Chrome Extension for browsing source code better
   https://module-linker.alhur.es
+* Vimium — The Hacker's Browser
+  https://github.com/philc/vimium
 
 ## Cloud Computing
 
