@@ -96,6 +96,9 @@
   https://eli.thegreenplace.net/2018/haskell-functions-as-functors-applicatives-and-monads/
 * Functional_dependencies
   https://wiki.haskell.org/Functional_dependencies
+* The Const Applicative and Monoids
+  https://blog.jle.im/entry/const-applicative-and-monoids.html
+
 
 ## Dependent Types
 
