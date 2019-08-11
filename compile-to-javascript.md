@@ -88,6 +88,8 @@
   https://github.com/natefaubion/purescript-run
 * slamdata/purescript-routing/ — A clean, type-safe routing library for PureScript
   https://github.com/slamdata/purescript-routing/
+* How to Write PureScript React Components to Replace JavaScript
+  https://thomashoneyman.com/articles/replace-react-components-with-purescript/
 
 ## Haste
 
