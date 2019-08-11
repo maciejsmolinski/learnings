@@ -338,8 +338,6 @@
   https://github.com/fkhadra/react-toastify
 * React Admin — A frontend Framework for building admin applications
   https://marmelab.com/react-admin/
-* React — Pass Multiple Children to a React Component with Slots
-  https://daveceddia.com/pluggable-slots-in-react-components/
 * Inferno — An extremely fast React-like JavaScript library for building modern user interfaces.
   https://infernojs.org
 * Preact — Fast 3kB alternative to React with the same ES6 API
