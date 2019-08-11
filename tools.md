@@ -27,7 +27,6 @@
 * Semaphore Class 
   https://www.youtube.com/watch?v=C_-2Ic3H2Y8
 
-
 ## Cloud Services
 
 * Manifold — Find, organize, and connect the best cloud services
@@ -57,6 +56,11 @@
   https://rainglow.io/
 * VS Code can do that?!
   https://vscodecandothat.com/
+
+## Regular Expressions
+
+* Verbal Regex — Regular Expressions made easy
+  https://verbalregex.com/
 
 ## Design Tools & Resources
 
