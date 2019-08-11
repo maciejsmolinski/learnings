@@ -38,6 +38,8 @@
   https://tailwindcss.com/docs/what-is-tailwind/
 * Tachyons — Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible
   https://tachyons.io/
+* Semantic UI — User Interface is the language of the web
+  https://semantic-ui.com/
 
 ## Design
 
