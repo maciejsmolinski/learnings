@@ -384,6 +384,8 @@
   https://fusionjs.com/
 * Why people got mad with Vue 3
   https://vueschool.io/articles/news/why-people-are-mad-with-vue-3/
+* Immer — create the next immutable state tree by simply modifying the current tree
+  https://github.com/immerjs/immer
 
 ## Presentations
 
