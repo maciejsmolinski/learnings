@@ -50,6 +50,8 @@
 
 ## Code Editors
 
+* GNU Emacs For Mac OS X
+  https://emacsformacosx.com/
 * Visual Studio Code
   https://code.visualstudio.com/
 * Code Editor Themes — Rainglow
