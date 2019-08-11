@@ -173,6 +173,8 @@
   https://blog.bitsrc.io/how-to-test-react-components-using-jest-and-enzyme-fab851a43875
 * jest-image-snapshot — Jest matcher for image comparisons 
   https://github.com/americanexpress/jest-image-snapshot
+* stryker-mutator — Mutation testing for JavaScript and friends 
+  https://github.com/stryker-mutator/stryker
 
 ## Desktop
 
