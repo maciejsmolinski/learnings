@@ -12,6 +12,8 @@
 
 ## CSS
 
+* Single Responsibility by Drew Barontini
+  https://drewbarontini.com/articles/single-responsibility-principle/
 * Philip Walton: Container Queries | CSSconf EU 2018
   https://www.youtube.com/watch?v=0wA4CMo9_EU
 * Mark Dalgleish: A Unified Styling Language (React, React Native, Styled Components, Design Systems etc.)
