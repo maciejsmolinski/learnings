@@ -195,6 +195,8 @@
   https://redex.github.io/package/bs-sql-common/
 * Weekly Reason Newsletter
   https://reasonml.online/
+* ReasonML Cheat Sheet
+  https://github.com/arecvlohe/reasonml-cheat-sheet
 
 ## BuckleScript
 
