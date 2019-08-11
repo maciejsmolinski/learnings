@@ -97,6 +97,8 @@
 
 * Advanced Caching in Rails: Revised
   http://hawkins.io/2012/07/advanced_caching_revised/
+* Rails Caching Guide
+  https://railscaching.com/
 
 ## CDN
 
