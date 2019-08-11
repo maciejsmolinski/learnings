@@ -7,5 +7,5 @@
 
 ## Techniques
 
-* React — Pass Multiple Children to a React Component with Slots
+* Pass Multiple Children to a React Component with Slots
   https://daveceddia.com/pluggable-slots-in-react-components/
