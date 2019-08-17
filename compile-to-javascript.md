@@ -90,6 +90,8 @@
   https://github.com/slamdata/purescript-routing/
 * How to Write PureScript React Components to Replace JavaScript
   https://thomashoneyman.com/articles/replace-react-components-with-purescript/
+* purescript-dotenv — Load environment variables from a .env file
+  https://github.com/nsaunders/purescript-dotenv
 
 ## Haste
 
