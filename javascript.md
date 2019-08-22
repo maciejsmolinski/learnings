@@ -192,6 +192,11 @@
 * Can I require on webtask.io?
   https://tehsis.github.io/webtaskio-canirequire/
 
+## Publishing npm packages
+
+* Prereleases and Npm
+  https://medium.com/@mbostock/prereleases-and-npm-e778fc5e2420
+
 ## WebAssembly
 
 * WebAssembly support now shipping in all major browsers
