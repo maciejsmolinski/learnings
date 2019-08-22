@@ -112,3 +112,7 @@
 * Coeffects: Context-aware programming languages by Tomas Petricek
   http://tomasp.net/coeffects/
 
+## Dependent Types — Books
+
+* The Little Typer 
+  http://thelittletyper.com/
