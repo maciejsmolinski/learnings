@@ -1,5 +1,10 @@
 # Functional Programming
 
+## Essays
+
+* Little Languages
+  https://maxhallinan.com/posts/2018/12/07/little-languages/
+
 ## Functional Programming - Books
 
 * Software Foundations
