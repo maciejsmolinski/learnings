@@ -48,6 +48,11 @@
   https://www.youtube.com/watch?v=1pSH8kElmM4
 * Chris Myers: A Year Living Freely
   http://functionaltalks.org/2016/11/24/chris-myers-a-year-living-freely/
+  
+## Functional Programming — Patterns
+
+* How Does Free Make Any Functor a Monad?
+  https://maxhallinan.com/posts/2019/06/08/how-does-free-make-any-functor-a-monad/
 
 ## Category Theory - Videos
 
