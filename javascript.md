@@ -517,6 +517,8 @@
   https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 * Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers
   https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/
+* Node — How to Optimize Node Requests with Simple Caching Strategies
+  https://scotch.io/tutorials/how-to-optimize-node-requests-with-simple-caching-strategies
 
 ## Abstract / Good Code / Patterns
 
@@ -583,7 +585,6 @@
 
 * Jake Archibald: In The Loop - JSConf.Asia 2018 (Event Loop)
   https://www.youtube.com/watch?v=cCOL7MC4Pl0
-  
 
 ## Debugging
 
