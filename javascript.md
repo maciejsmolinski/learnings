@@ -27,6 +27,8 @@
 
 ## Things Explained
 
+* React as a UI Runtime
+  https://overreacted.io/react-as-a-ui-runtime/
 * 33 concepts every JavaScript developer should know
   https://github.com/leonardomso/33-js-concepts
 * In The Loop — Event Loop — Jake Archibald
