@@ -8,3 +8,6 @@
   https://scalaz.github.io/scalaz-zio/
 * John De Goes — FP to the Max — take a procedural program riddled with partial functions and effects, and incrementally refactor it to a purely functional program
   https://www.youtube.com/watch?v=sxudIMiOo68
+* cats — lightweight, modular, and extensible library for functional programming
+  https://typelevel.org/cats/
+
