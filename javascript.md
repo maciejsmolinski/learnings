@@ -201,6 +201,8 @@
 
 ## WebAssembly
 
+* Introduction to WebAssembly
+  https://rsms.me/wasm-intro
 * WebAssembly support now shipping in all major browsers
   https://blog.mozilla.org/blog/2017/11/13/webassembly-in-browsers/
 * Hello wasm-pack!
