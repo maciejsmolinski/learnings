@@ -39,6 +39,11 @@
 * Clojure Spec
   https://clojure.org/guides/spec
 
+## ClojureScript
+
+* Reagent Workshop for React developers
+  https://github.com/ClojureTO/JS-Workshop
+
 ## Communicating Sequential Processes (CSP)
 
 * Why CSP matters I: Keeping things in sync
