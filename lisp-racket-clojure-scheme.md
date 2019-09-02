@@ -28,6 +28,8 @@
 
 ## Clojure
 
+* Clojure Made Simple by Rich Hickey
+  https://www.youtube.com/watch?v=VSdnJDO-xdg
 * `http-kit` — a minimalist, efficient, Ring-compatible HTTP client/server for Clojure
   http://www.http-kit.org/index.html
 * `leiningen` — for automating Clojure projects without setting your hair on fire
