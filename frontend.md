@@ -57,6 +57,8 @@
 
 ## Performance
 
+* Front-End Performance Checklist 2019
+  https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/
 * What happens when you visit ft.com?
   https://medium.com/ft-product-technology/making-a-request-to-the-financial-times-b2119a2f422d
 * React Performance Fixes on Airbnb Listing Pages
