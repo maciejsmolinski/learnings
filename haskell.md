@@ -67,6 +67,8 @@
 
 ## Haskell Internals
 
+* The Glasgow Haskell Compiler — The Architecture of Open Source Applications
+  http://aosabook.org/en/ghc.html
 * Polymorphism for dummies
   http://www.haskellforall.com/2015/10/polymorphism-for-dummies.html
 
