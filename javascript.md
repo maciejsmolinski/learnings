@@ -177,6 +177,8 @@
   https://github.com/americanexpress/jest-image-snapshot
 * stryker-mutator — Mutation testing for JavaScript and friends 
   https://github.com/stryker-mutator/stryker
+* substack/tape — tap-producing test harness for node and browsers
+  https://github.com/substack/tape
 
 ## Desktop
 
