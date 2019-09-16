@@ -97,6 +97,11 @@
 * Sanity.io — Structured Content Done Right
   https://www.sanity.io/ https://www.sanity.io/syntax
 
+## CLI Tools
+
+* Taskell — Command-line Kanban board/task manager with support for Trello boards and GitHub projects 
+  https://github.com/smallhadroncollider/taskell
+
 ## Social Media
 
 * Carbon - Create and share beautiful images of your source code
