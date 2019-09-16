@@ -401,6 +401,8 @@
   https://github.com/immerjs/immer
 * vadimdemedes/ink — React for interactive command-line apps
   https://github.com/vadimdemedes/ink
+* transloadit/uppy — The next open source file uploader for web browsers 
+  https://github.com/transloadit/uppy
 
 ## Presentations
 
