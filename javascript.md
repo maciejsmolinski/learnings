@@ -399,6 +399,8 @@
   https://vueschool.io/articles/news/why-people-are-mad-with-vue-3/
 * Immer — create the next immutable state tree by simply modifying the current tree
   https://github.com/immerjs/immer
+* vadimdemedes/ink — React for interactive command-line apps
+  https://github.com/vadimdemedes/ink
 
 ## Presentations
 
