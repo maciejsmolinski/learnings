@@ -243,6 +243,11 @@
 * A minimal guide to ECMAScript Decorators
   https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
 
+## Frameworks / Vue
+
+* VuePress — Vue-powered Static Site Generator
+  https://vuepress.vuejs.org/
+
 ## Tools / Frameworks
 
 * Next.js - Framework for server-rendered or statically-exported React apps
