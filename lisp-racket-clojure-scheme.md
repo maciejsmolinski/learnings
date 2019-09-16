@@ -20,6 +20,8 @@
   https://docs.racket-lang.org/racket-cheat/index.html
 * Systems Programming with Racket
   https://docs.racket-lang.org/more/
+* #lang wishful thinking" by Vlad Kozin
+  https://www.youtube.com/watch?v=yU-HUb8Xykg
 
 ## Hackett
 
