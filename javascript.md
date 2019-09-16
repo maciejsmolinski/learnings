@@ -211,6 +211,8 @@
   https://hacks.mozilla.org/2018/04/hello-wasm-pack/
 * Rust and WebAssembly — Announcing the js-sys crate!
   https://rustwasm.github.io/2018/07/26/announcing-the-js-sys-crate.html
+* Vim editor ported to WebAssembly
+  https://github.com/rhysd/vim.wasm
 
 ## Typechecking
 
