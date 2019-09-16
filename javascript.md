@@ -245,6 +245,8 @@
 
 ## Frameworks / Vue
 
+* Vue —  The Progressive JavaScript Framework
+  https://vuejs.org/
 * VuePress — Vue-powered Static Site Generator
   https://vuepress.vuejs.org/
 
