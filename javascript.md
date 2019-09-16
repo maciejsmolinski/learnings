@@ -249,6 +249,8 @@
   https://vuejs.org/
 * VuePress — Vue-powered Static Site Generator
   https://vuepress.vuejs.org/
+* VueSchool — Vue.js Tutorials
+  https://vueschool.io/articles/
 
 ## Tools / Frameworks
 
