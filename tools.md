@@ -208,3 +208,5 @@
   https://ianyh.com/amethyst/
 * QLMobi — Quick Look plugin for Kindle ebook formats
   https://github.com/bfabiszewski/QLMobi
+* IINA — The modern media player for macOS
+  https://iina.io/
