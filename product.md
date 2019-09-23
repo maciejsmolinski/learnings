@@ -136,6 +136,11 @@
 * Measuring the Impact of a Design System
   https://medium.com/@didoo/measuring-the-impact-of-a-design-system-7f925af090f7
 
+## Building Communities
+
+* Ryan Hoover, The Building Blocks of Community, LSC15
+  https://www.youtube.com/watch?v=NG1Jn5JM-V8
+
 ## Landing Pages
 
 * Launchaco - The Simplest Way to Build a Website For Your Startup
