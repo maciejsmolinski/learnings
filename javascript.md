@@ -414,6 +414,8 @@
   https://github.com/vadimdemedes/ink
 * transloadit/uppy — The next open source file uploader for web browsers 
   https://github.com/transloadit/uppy
+* degit — straightforward project scaffolding
+  https://github.com/Rich-Harris/degit
 
 ## Presentations
 
