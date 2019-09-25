@@ -69,3 +69,5 @@
   https://blog.dnsimple.com/2018/02/server-timing-with-phoenix/
 * Optimize Website Speed With Chrome DevTools
   https://developers.google.com/web/tools/chrome-devtools/speed/get-started
+* A Modern Front-End Workflow with DevTools - Umar Hansa
+  https://www.youtube.com/watch?v=wz1Sy5C039M
