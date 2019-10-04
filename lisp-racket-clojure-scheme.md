@@ -44,6 +44,8 @@
   https://clojure.org/guides/spec
 * The Clojure Toolbox — A categorised directory of libraries and tools for Clojure
   https://www.clojure-toolbox.com/
+* Clojars — a dead easy community repository foropen source Clojure libraries
+  https://clojars.org/
 
 ## ClojureScript
 
