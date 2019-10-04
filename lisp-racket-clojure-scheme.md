@@ -42,6 +42,8 @@
   https://medium.com/@shivekkhurana/what-i-learned-after-writing-clojure-for-424-days-straight-8884ec471f8e
 * Clojure Spec
   https://clojure.org/guides/spec
+* The Clojure Toolbox — A categorised directory of libraries and tools for Clojure
+  https://www.clojure-toolbox.com/
 
 ## ClojureScript
 
