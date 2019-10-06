@@ -9,3 +9,8 @@
 
 * Building Gophercises
   https://dev.to/joncalhoun/building-gophercises-2ok9
+
+## Tools
+
+* Mage — a make/rake-like build tool using Go
+  https://magefile.org/
