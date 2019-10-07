@@ -50,6 +50,8 @@
   https://github.com/walmartlabs/lacinia
 * compojure — A concise routing library for Ring/Clojure
   https://github.com/weavejester/compojure
+* celtuce — An idiomatic Clojure Redis client wrapping the Java client Lettuce
+  https://github.com/lerouxrgd/celtuce
 
 ## ClojureScript
 
