@@ -48,6 +48,8 @@
   https://clojars.org/
 * lacinia — GraphQL implementation in pure Clojure 
   https://github.com/walmartlabs/lacinia
+* compojure — A concise routing library for Ring/Clojure
+  https://github.com/weavejester/compojure
 
 ## ClojureScript
 
