@@ -52,6 +52,8 @@
   https://github.com/weavejester/compojure
 * celtuce — An idiomatic Clojure Redis client wrapping the Java client Lettuce
   https://github.com/lerouxrgd/celtuce
+* clojure-emacs/cider — The Clojure Interactive Development Environment that Rocks for Emacs
+  https://cider.mx
 
 ## ClojureScript
 
