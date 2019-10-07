@@ -46,6 +46,8 @@
   https://www.clojure-toolbox.com/
 * Clojars — a dead easy community repository foropen source Clojure libraries
   https://clojars.org/
+* lacinia — GraphQL implementation in pure Clojure 
+  https://github.com/walmartlabs/lacinia
 
 ## ClojureScript
 
