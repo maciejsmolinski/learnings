@@ -59,6 +59,8 @@
 
 * Reagent Workshop for React developers
   https://github.com/ClojureTO/JS-Workshop
+* Introduction to ClojureScript and Reagent
+  https://www.youtube.com/watch?v=wq6ctyZBb0A
 
 ## Communicating Sequential Processes (CSP)
 
