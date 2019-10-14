@@ -54,6 +54,8 @@
   https://github.com/lerouxrgd/celtuce
 * clojure-emacs/cider — The Clojure Interactive Development Environment that Rocks for Emacs
   https://cider.mx
+* "Alda's dynamic relationship with Clojure" by Dave Yarwood
+  https://www.youtube.com/watch?v=6hUihVWdgW0
 
 ## ClojureScript
 
