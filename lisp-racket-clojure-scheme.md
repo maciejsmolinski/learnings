@@ -59,6 +59,8 @@
 
 ## ClojureScript
 
+* ClojureScript — Clojure to JS compiler
+  https://github.com/clojure/clojurescript
 * Reagent Workshop for React developers
   https://github.com/ClojureTO/JS-Workshop
 * Introduction to ClojureScript and Reagent
