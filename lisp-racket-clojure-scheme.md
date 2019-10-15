@@ -63,6 +63,8 @@
   https://github.com/ClojureTO/JS-Workshop
 * Introduction to ClojureScript and Reagent
   https://www.youtube.com/watch?v=wq6ctyZBb0A
+* shadow-cljs — ClojureScript compilation made easy
+  https://github.com/thheller/shadow-cljs
 
 ## Communicating Sequential Processes (CSP)
 
