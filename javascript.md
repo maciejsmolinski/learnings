@@ -483,6 +483,11 @@
 * What the heck is JWT anyway?
   https://dev.to/siwalik/what-the-heck-is-jwt-anyway--47hg
 
+## CLI
+
+* oclif — Node.js Open CLI Framework
+  https://github.com/oclif/oclif
+
 ## Interactive Development
 
 * Quokka.js is a rapid prototyping playground for JavaScript and TypeScript. It runs your code immediately as you type and displays various execution results in your code editor.
