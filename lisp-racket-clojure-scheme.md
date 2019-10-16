@@ -32,6 +32,8 @@
 
 * Clojure Made Simple by Rich Hickey
   https://www.youtube.com/watch?v=VSdnJDO-xdg
+* Why Clojure? - Derek Slager
+  https://www.youtube.com/watch?v=BThkk5zv0DE
 * `http-kit` — a minimalist, efficient, Ring-compatible HTTP client/server for Clojure
   http://www.http-kit.org/index.html
 * `leiningen` — for automating Clojure projects without setting your hair on fire
