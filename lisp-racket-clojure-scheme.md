@@ -58,6 +58,9 @@
   https://cider.mx
 * "Alda's dynamic relationship with Clojure" by Dave Yarwood
   https://www.youtube.com/watch?v=6hUihVWdgW0
+* Managing Environment Variables in Clojure
+  https://yobriefca.se/blog/2014/04/29/managing-environment-variables-in-clojure/
+
 
 ## ClojureScript
 
