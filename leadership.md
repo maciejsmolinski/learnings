@@ -31,6 +31,8 @@
 
 ## Leadership
 
+* How to crash an airplane – Nickolas Means
+  https://www.youtube.com/watch?v=099cHWSbAL8
 * John C. Maxwell - Law Of Influence!
   https://www.youtube.com/watch?v=MmwdqDOeAbA
 * John C. Maxwell - The 5 Levels of Leadership
