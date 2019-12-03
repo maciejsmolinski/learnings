@@ -233,6 +233,8 @@
 
 ## Practical Haskell
 
+* Building a JSON REST API in Haskell
+  http://taylor.fausak.me/2014/10/21/building-a-json-rest-api-in-haskell/
 * Semantic: Why Haskell?
   https://github.com/github/semantic/blob/7364e164947116406850ff6f298d80ba77105229/docs/why-haskell.md
 * Asterius: A Haskell to WebAssembly compiler
