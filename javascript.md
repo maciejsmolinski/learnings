@@ -416,6 +416,8 @@
   https://github.com/transloadit/uppy
 * degit — straightforward project scaffolding
   https://github.com/Rich-Harris/degit
+* rax — the fastest way to build universal application
+  https://rax.js.org/
 
 ## Presentations
 
