@@ -418,6 +418,8 @@
   https://github.com/Rich-Harris/degit
 * rax — the fastest way to build universal application
   https://rax.js.org/
+* alyssaxuu/flowy — a  javascript library to create flowcharts
+  https://github.com/alyssaxuu/flowy
 
 ## Presentations
 
