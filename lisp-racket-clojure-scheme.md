@@ -72,6 +72,8 @@
   https://www.youtube.com/watch?v=wq6ctyZBb0A
 * shadow-cljs — ClojureScript compilation made easy
   https://github.com/thheller/shadow-cljs
+* Learn Reagent Free by Jacek Schae
+  https://www.jacekschae.com/courses/learn-reagent-free/
 
 ## Communicating Sequential Processes (CSP)
 
