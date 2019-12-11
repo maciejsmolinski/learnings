@@ -30,6 +30,8 @@
 
 ## Clojure
 
+* Clojure Distilled
+  https://yogthos.net/ClojureDistilled.html
 * Clojure Made Simple by Rich Hickey
   https://www.youtube.com/watch?v=VSdnJDO-xdg
 * Why Clojure? - Derek Slager
