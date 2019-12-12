@@ -1,5 +1,10 @@
 # JavaScript
 
+## Learning JavaScript
+
+* The Modern JavaScript Tutorial
+  https://javascript.info/
+
 ## Summaries
 
 * The State Of JavaScript 2016
