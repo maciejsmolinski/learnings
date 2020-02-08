@@ -64,6 +64,8 @@
   https://yobriefca.se/blog/2014/04/29/managing-environment-variables-in-clojure/
 * The Ultimate Guide To Clojure REPLs
   https://lambdaisland.com/guides/clojure-repls
+* Dirac REPL
+  https://github.com/binaryage/dirac/blob/master/docs/about-repls.md
 
 
 ## ClojureScript
