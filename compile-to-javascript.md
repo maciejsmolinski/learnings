@@ -92,6 +92,8 @@
   https://thomashoneyman.com/articles/replace-react-components-with-purescript/
 * purescript-dotenv — Load environment variables from a .env file
   https://github.com/nsaunders/purescript-dotenv
+* Building a Slack Bot in PureScript
+  https://blog.drewolson.org/building-a-slack-bot-in-purescript
 
 ## Haste
 
