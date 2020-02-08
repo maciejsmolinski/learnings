@@ -91,6 +91,11 @@
 * Intercom — Run Less Software
   https://www.intercom.com/blog/run-less-software/
 
+## Documentation
+
+* What to write
+  https://jacobian.org/2009/nov/10/what-to-write/
+
 ## End Goal
 
 * 1x Engineer
