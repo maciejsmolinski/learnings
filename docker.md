@@ -29,3 +29,5 @@
   https://traefik.io/
 * Docker DNS — simple, self-contained, automatic Docker DNS
   https://github.com/phensley/docker-dns
+* Dive — A tool for exploring each layer in a docker image
+  https://github.com/wagoodman/dive
