@@ -101,3 +101,8 @@
 
 * How to ask questions that drive change at work
   https://hackernoon.com/how-to-ask-questions-that-drive-change-at-work-81d9422ffa9c
+
+## Other
+
+* When I want to give up
+  https://www.5whys.com/articles/when-i-want-to-give-up.html
