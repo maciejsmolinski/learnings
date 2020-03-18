@@ -53,6 +53,8 @@
   https://www.scrumalliance.org/community/articles/2011/september/five-tips-for-impediment-resolution-with-scrum
 * Lean Principle #4 – Defer Commitment
   https://www.101ways.com/lean-principles-4-defer-commitment/
+* 7 Guiding Principles of Lean Development | LeanKit
+  https://leankit.com/learn/lean/principles-of-lean-development/
 * Don't Estimate a Spike
   https://www.leadingagile.com/2014/04/dont-estimate-spikes/
 * Two Important Coaching Practices to Be a Successful ScrumMaster
