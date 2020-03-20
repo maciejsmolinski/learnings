@@ -442,6 +442,9 @@
 * GraphQL — The Fullstack Tutorial for GraphQL
   https://www.howtographql.com/
 * GraphQL — graphql-request — a minimal GraphQL client supporting Node and browsers for scripts or simple apps
+  https://github.com/prisma-labs/graphql-request
+* GraphQL — gqless — A GraphQL client without queries
+  https://github.com/samdenty/gqless
 
 ## Documentation
 
