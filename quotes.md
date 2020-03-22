@@ -27,3 +27,6 @@
 > My mistake in the past has been paying little attention to my gut feelings. Quitting early, while painful, can bring great benefits, especially in the long term. Instead of focusing what you are going to lose if you quit, try to focus you what you are losing by not quitting.
 > 
 > ~ Jorge Manrubia https://www.jorgemanrubia.com/2018/04/09/resilience-a-double-edged-sword/
+
+> Poor planning on your part does not necessitate an emergency on mine.
+> ~ Bob Carter
