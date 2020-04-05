@@ -446,6 +446,11 @@
 * GraphQL — gqless — A GraphQL client without queries
   https://github.com/samdenty/gqless
 
+## Database Clients
+
+* Knex.js — a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift
+  http://knexjs.org/
+
 ## Documentation
 
 * docz — It has never been so easy to document your things! (markdown + components)
