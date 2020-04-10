@@ -82,6 +82,9 @@
   https://github.com/thheller/shadow-cljs
 * Learn Reagent Free by Jacek Schae
   https://www.jacekschae.com/courses/learn-reagent-free/
+* ClojureScript Promise Interop with core.async
+  https://clojurescript.org/guides/promise-interop#using-promises-with-core-async
+  
 
 ## Communicating Sequential Processes (CSP)
 
