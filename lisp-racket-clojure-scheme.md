@@ -66,6 +66,8 @@
   https://lambdaisland.com/guides/clojure-repls
 * Dirac REPL
   https://github.com/binaryage/dirac/blob/master/docs/about-repls.md
+* The Clojure Style Guide
+  https://github.com/bbatsov/clojure-style-guide
 
 
 ## ClojureScript
