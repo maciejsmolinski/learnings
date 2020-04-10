@@ -130,6 +130,8 @@
 
 * What does Free buy us? Let’s talk about free monads
   http://www.parsonsmatt.org/2017/09/22/what_does_free_buy_us.html
+* Free monad considered harmful
+  https://markkarpov.com/post/free-monad-considered-harmful.html
 * Matt Parsons - I Command You to be Free! - λC 2017
   https://www.youtube.com/watch?v=Ej5FQtEgTBw
 * A Modern Architecture for FP
