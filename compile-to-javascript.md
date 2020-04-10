@@ -94,6 +94,8 @@
   https://github.com/nsaunders/purescript-dotenv
 * Building a Slack Bot in PureScript
   https://blog.drewolson.org/building-a-slack-bot-in-purescript
+* Introducing Halogen Hooks
+  https://thomashoneyman.com/articles/introducing-halogen-hooks/
 
 ## Haste
 
