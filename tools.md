@@ -202,6 +202,8 @@
 
 * Spectacle App — Move and resize windows with ease
   https://www.spectacleapp.com/
+* Choosy — opens every link in the right browser
+  https://www.choosyosx.com/
 * Veeer - A Lightweight Window Manager for your OSX
   https://veeer.io/
 * Amethyst - a tiling window manager for macOS along the lines of xmonad
