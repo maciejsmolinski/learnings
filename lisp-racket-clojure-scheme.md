@@ -85,6 +85,10 @@
 * ClojureScript Promise Interop with core.async
   https://clojurescript.org/guides/promise-interop#using-promises-with-core-async
   
+## Common Lisp
+
+* Rails on Lisp — Common Lisp MVC framework for web development
+  http://railsonlisp.kmx.io/
 
 ## Communicating Sequential Processes (CSP)
 
