@@ -70,6 +70,8 @@
   https://github.com/bbatsov/clojure-style-guide
 * An Informal & Practical Guide to Clojure.Spec
   https://www.bradcypert.com/an-informal-guide-to-clojure-spec/
+* babashka — a Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
+  https://github.com/borkdude/babashka
 
 ## ClojureScript
 
