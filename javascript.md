@@ -497,6 +497,8 @@
   https://yarnpkg.com/lang/en/docs/pnp/
 * @pika/pack — npm package building, reimagined
   https://www.pika.dev/blog/introducing-pika-pack/
+* esbuild — An extremely fast JavaScript bundler and minifier (written in go)
+  https://github.com/evanw/esbuild
 * Snowpack — Build web applications with less tooling and 10x faster iteration
   https://www.snowpack.dev/
 
