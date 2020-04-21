@@ -87,6 +87,8 @@
   https://www.jacekschae.com/courses/learn-reagent-free/
 * ClojureScript Promise Interop with core.async
   https://clojurescript.org/guides/promise-interop#using-promises-with-core-async
+* core.async — Communicating Sequential Processes
+  https://swannodette.github.io/2013/07/12/communicating-sequential-processes
   
 ## Common Lisp
 
