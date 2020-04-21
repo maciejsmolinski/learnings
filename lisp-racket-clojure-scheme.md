@@ -72,6 +72,8 @@
   https://www.bradcypert.com/an-informal-guide-to-clojure-spec/
 * babashka — a Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
   https://github.com/borkdude/babashka
+* HugSQL – a Clojure library for embracing SQL
+  https://www.hugsql.org/
 
 ## ClojureScript
 
