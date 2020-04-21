@@ -104,7 +104,7 @@
   https://blog.jle.im/entry/const-applicative-and-monoids.html
 
 
-## Dependent Types
+## Dependent Types and Type-Level Programming
 
 * Why you should care about dependently typed programming
   https://medium.com/travel-cloud/why-you-should-care-about-dependently-typed-programming-2f7a409f31c0
@@ -112,6 +112,8 @@
   http://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html
 * Type Tac Toe: Advanced Type Safety
   https://chrispenner.ca/posts/type-tac-toe
+* Notes for 'Thinking with Types: Type-level Programming in Haskell', Chapters 1–5
+  https://abhinavsarkar.net/posts/twt-notes-1/
 
 ## Monad Transformers
 
