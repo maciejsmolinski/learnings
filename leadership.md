@@ -106,3 +106,5 @@
 
 * When I want to give up
   https://www.5whys.com/articles/when-i-want-to-give-up.html
+* Mentor vs Advisor vs Coach
+  https://baxterblog.typepad.com/blog/2012/11/mentor-vs-advisor-vs-coach.html
