@@ -248,6 +248,11 @@
 * A minimal guide to ECMAScript Decorators
   https://itnext.io/a-minimal-guide-to-ecmascript-decorators-55b70338215e
 
+## Dev Workflow
+
+* Servør — a dependency free file server for single page app development
+  https://github.com/lukejacksonn/servor
+
 ## Frameworks / Vue
 
 * Vue —  The Progressive JavaScript Framework
