@@ -68,7 +68,8 @@
   https://github.com/binaryage/dirac/blob/master/docs/about-repls.md
 * The Clojure Style Guide
   https://github.com/bbatsov/clojure-style-guide
-
+* An Informal & Practical Guide to Clojure.Spec
+  https://www.bradcypert.com/an-informal-guide-to-clojure-spec/
 
 ## ClojureScript
 
