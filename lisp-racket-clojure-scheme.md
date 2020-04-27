@@ -91,6 +91,8 @@
   https://clojurescript.org/guides/promise-interop#using-promises-with-core-async
 * core.async — Communicating Sequential Processes
   https://swannodette.github.io/2013/07/12/communicating-sequential-processes
+* krell — Standalone, low configuration ClojureScript tooling for React Native
+  https://github.com/vouch-opensource/krell
   
 ## Common Lisp
 
