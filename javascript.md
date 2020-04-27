@@ -262,6 +262,12 @@
 * VueSchool — Vue.js Tutorials
   https://vueschool.io/articles/
 
+## Frameworks / React
+
+* Using React's Key Attribute to remount a Component
+  https://www.nikgraf.com/blog/using-reacts-key-attribute-to-remount-a-component
+
+
 ## Tools / Frameworks
 
 * Next.js - Framework for server-rendered or statically-exported React apps
