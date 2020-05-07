@@ -266,6 +266,8 @@
 
 * Using React's Key Attribute to remount a Component
   https://www.nikgraf.com/blog/using-reacts-key-attribute-to-remount-a-component
+* welldone-software/why-did-you-render — monkey patch React to notify you about avoidable re-renders
+  https://github.com/welldone-software/why-did-you-render
 
 ## Tools / Frameworks
 
