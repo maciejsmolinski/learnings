@@ -267,7 +267,6 @@
 * Using React's Key Attribute to remount a Component
   https://www.nikgraf.com/blog/using-reacts-key-attribute-to-remount-a-component
 
-
 ## Tools / Frameworks
 
 * Next.js - Framework for server-rendered or statically-exported React apps
@@ -507,6 +506,11 @@
   https://github.com/evanw/esbuild
 * Snowpack — Build web applications with less tooling and 10x faster iteration
   https://www.snowpack.dev/
+
+## Codemodding
+
+* facebook/jscodeshift — a JavaScript codemod toolkit
+  https://github.com/facebook/jscodeshift
 
 ## Authentication & Authorization
 
