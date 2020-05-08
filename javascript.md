@@ -266,6 +266,8 @@
 
 * Using React's Key Attribute to remount a Component
   https://www.nikgraf.com/blog/using-reacts-key-attribute-to-remount-a-component
+* How to prevent a rerender in React
+  https://www.robinwieruch.de/react-prevent-rerender-component
 * welldone-software/why-did-you-render — monkey patch React to notify you about avoidable re-renders
   https://github.com/welldone-software/why-did-you-render
 
