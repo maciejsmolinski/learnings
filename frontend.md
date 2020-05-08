@@ -21,7 +21,7 @@
 * CSS Grid Playground - Firefox Devtools - Introduction to CSS Grid Layout
   https://mozilladevelopers.github.io/playground/css-grid/
 * 30 Seconds of CSS
-  https://atomiks.github.io/30-seconds-of-css/
+  https://github.com/30-seconds/30-seconds-of-css
 * CSS Reference - A free visual guide to CSS
   https://cssreference.io/
 * Responsive Components: a Solution to the Container Queries Problem
