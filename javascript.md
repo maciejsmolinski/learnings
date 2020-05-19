@@ -184,6 +184,8 @@
   https://github.com/stryker-mutator/stryker
 * substack/tape — tap-producing test harness for node and browsers
   https://github.com/substack/tape
+* testing-library/react-testing-library — Simple and complete React DOM testing utilities that encourage good testing practices
+  https://github.com/testing-library/react-testing-library
 
 ## Desktop
 
