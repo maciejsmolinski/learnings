@@ -231,6 +231,8 @@
   https://blog.mariusschulz.com/2016/11/03/typescript-2-0-tagged-union-types
 * Migrating a 10,000-line legacy JavaScript codebase to TypeScript
   http://www.pgbovine.net/migrating-legacy-codebase-to-typescript.htm
+* Generating TypeScript definition files directly from the source
+  https://www.danifdz.dev/generating-typescript-definition-files
 
 ## Security
 
