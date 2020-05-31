@@ -101,6 +101,8 @@
 
 * Taskell — Command-line Kanban board/task manager with support for Trello boards and GitHub projects 
   https://github.com/smallhadroncollider/taskell
+* entr — Run arbitrary commands when files change
+  http://eradman.com/entrproject/
 
 ## Social Media
 
