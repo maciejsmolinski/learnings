@@ -96,6 +96,8 @@
   https://blog.drewolson.org/building-a-slack-bot-in-purescript
 * Introducing Halogen Hooks
   https://thomashoneyman.com/articles/introducing-halogen-hooks/
+* An unofficial Cookbook for PureScript
+  https://github.com/JordanMartinez/purescript-cookbook
 
 ## Haste
 
