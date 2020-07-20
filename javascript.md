@@ -4,6 +4,8 @@
 
 * The Modern JavaScript Tutorial
   https://javascript.info/
+* whatthefuck.is — a closure
+  https://whatthefuck.is/closure
 
 ## Summaries
 
