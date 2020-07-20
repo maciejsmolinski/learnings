@@ -463,6 +463,8 @@
   https://github.com/prisma-labs/graphql-request
 * GraphQL — gqless — A GraphQL client without queries
   https://github.com/samdenty/gqless
+* All About GraphQL Abstract Types
+  https://medium.com/swlh/all-about-graphql-abstract-types-2da8f18e11a0
 
 ## Database Clients
 
