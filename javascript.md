@@ -597,6 +597,8 @@
   https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/
 * Node — How to Optimize Node Requests with Simple Caching Strategies
   https://scotch.io/tutorials/how-to-optimize-node-requests-with-simple-caching-strategies
+* thetool — a CLI tool to capture different cpu, memory and other profiles for your node app in Chrome DevTools friendly format.
+  https://github.com/sfninja/thetool
 
 ## Abstract / Good Code / Patterns
 
