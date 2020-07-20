@@ -516,11 +516,15 @@
   https://github.com/evanw/esbuild
 * Snowpack — Build web applications with less tooling and 10x faster iteration
   https://www.snowpack.dev/
+* Managing Packages Using a Monorepo
+  https://survivejs.com/maintenance/appendices/monorepos/
 
 ## Codemodding
 
 * facebook/jscodeshift — a JavaScript codemod toolkit
   https://github.com/facebook/jscodeshift
+* mrm-core — utilities to write codemods for config files (JSON, YAML, INI, Markdown, etc.)
+  https://www.npmjs.com/package/mrm-core
 
 ## Authentication & Authorization
 
