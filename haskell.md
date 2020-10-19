@@ -238,6 +238,9 @@
   https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
 * three-layer — a modern, production-level, batteries-included starting template for writing web servers with Haskell on backend and Elm on frontend
   https://github.com/Holmusk/three-layer
+* Haskell mini-patterns handbook
+  https://kowainik.github.io/posts/haskell-mini-patterns
+
 
 ## Practical Haskell
 
