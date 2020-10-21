@@ -176,6 +176,8 @@
   http://jsverify.github.io/
 * Cypress.io - fast, easy and reliable testing for anything that runs in a browser.
   https://www.cypress.io/
+* Testcafe — A node.js tool to automate end-to-end web testing
+  https://devexpress.github.io/testcafe/
 * Chimp - Develop acceptance tests & end-to-end tests with realtime feedback
   https://github.com/xolvio/chimp
 * How to Test React Components using Jest and Enzyme
