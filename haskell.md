@@ -290,6 +290,9 @@
   https://github.com/wireapp/wire-server
 * Fast Sudoku Solver in Haskell #3: Picking the Right Data Structures
   https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-3/
+* JSON Parsing from Scratch in Haskell
+  https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/
+
 
 ## Libraries
 
