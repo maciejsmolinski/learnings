@@ -209,10 +209,12 @@
 * Can I require on webtask.io?
   https://tehsis.github.io/webtaskio-canirequire/
 
-## Publishing npm packages
+## NPM Package Management
 
 * Prereleases and Npm
   https://medium.com/@mbostock/prereleases-and-npm-e778fc5e2420
+* `patch-package` — instantly make and keep fixes to npm dependencies
+  https://www.npmjs.com/package/patch-package
 
 ## WebAssembly
 
