@@ -103,7 +103,6 @@
 * The Const Applicative and Monoids
   https://blog.jle.im/entry/const-applicative-and-monoids.html
 
-
 ## Dependent Types and Type-Level Programming
 
 * Why you should care about dependently typed programming
@@ -240,7 +239,8 @@
   https://github.com/Holmusk/three-layer
 * Haskell mini-patterns handbook
   https://kowainik.github.io/posts/haskell-mini-patterns
-
+* Stan — a Haskell STatic ANalysis tool #linters
+  https://github.com/kowainik/stan
 
 ## Practical Haskell
 
