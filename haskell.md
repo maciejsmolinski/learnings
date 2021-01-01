@@ -292,7 +292,8 @@
   https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-3/
 * JSON Parsing from Scratch in Haskell
   https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/
-
+* Quad CI is a simple, tiny and beginner friendly Continuous Integration system written in Haskell
+  https://github.com/alpacaaa/quad-ci
 
 ## Libraries
 
