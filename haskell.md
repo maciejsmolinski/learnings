@@ -176,6 +176,8 @@
   http://www.seas.upenn.edu/~cis194/fall16/index.html
 * Production Haskell — Succeeding in Industry with Haskell by Matt Parsons
   https://leanpub.com/production-haskell
+* Functional Design and Architecture by Alexander Granin
+  https://leanpub.com/functional-design-and-architecture
 
 ## Papers
 
