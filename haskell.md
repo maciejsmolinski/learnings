@@ -241,6 +241,8 @@
   https://kowainik.github.io/posts/haskell-mini-patterns
 * Stan — a Haskell STatic ANalysis tool #linters
   https://github.com/kowainik/stan
+* Permutate parsers, don't validate
+  https://juliu.is/permutate-parsers/
 
 ## Practical Haskell
 
