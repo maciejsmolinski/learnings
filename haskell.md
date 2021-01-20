@@ -59,6 +59,8 @@
   https://blog.johncs.com/posts/monads-and-how-we-lie.htm
 * Learning Me a Haskell — Trying to get back all the stuff I had in JavaScript
   https://github.com/i-am-tom/learn-me-a-haskell
+* Deriving the Reader Monad from first principles
+  https://williamyaoh.com/posts/2020-07-19-deriving-reader-monad.html
 
 ## Language Extensions
 
