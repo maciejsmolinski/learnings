@@ -1,4 +1,4 @@
-# V 
+# The V Programming Language
 
 ## Official Website
 
