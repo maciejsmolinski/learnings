@@ -192,6 +192,8 @@
   https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours/First_Steps
 * Parser Combinators: a Walkthrough
   https://hasura.io/blog/parser-combinators-walkthrough/
+* Megaparsec tutorial
+  https://markkarpov.com/tutorial/megaparsec.html
 
 ## Libraries
 
