@@ -5,7 +5,7 @@
 * Real World OCaml
   https://realworldocaml.org/v1/en/html/
 * Functional Programming in OCaml (CS 3110, Cornell University, Online Textbook)
-  https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/
+  https://www.cs.cornell.edu/courses/cs3110/2021sp/textbook/
 
 ## Unikernels
 
