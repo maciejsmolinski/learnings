@@ -45,6 +45,8 @@
   http://llewellynfalco.blogspot.com/2016/02/dont-use-greater-than-sign-in.html
 * Continuous integration vs. continuous delivery vs. continuous deployment
   https://www.atlassian.com/continuous-delivery/ci-vs-ci-vs-cd
+* Clever Functional Design
+  https://ferd.ca/clever-functional-design.html
 
 ## Maintaining Code
 
