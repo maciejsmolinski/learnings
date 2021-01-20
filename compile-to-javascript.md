@@ -228,6 +228,8 @@
   https://github.com/pirix-gh/ts-toolbelt
 * umbrella — a mono-repository of 97 TypeScript/ES6 projects for functional, data driven development
   https://github.com/thi-ng/umbrella
+* TypeScript Deep Dive (online book)
+  https://basarat.gitbook.io/typescript/
 
 ## Mint
 
