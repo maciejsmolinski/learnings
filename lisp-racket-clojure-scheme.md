@@ -5,6 +5,11 @@
 * William Byrd on "The Most Beautiful Program Ever Written"
   https://www.youtube.com/watch?v=OyfBQmvr2Hc
 
+## Introductory Material
+
+* An Intuition for Lisp Syntax
+  https://stopa.io/post/265
+
 ## Books
 
 * Structure and Interpretation of Computer Programs
