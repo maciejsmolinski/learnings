@@ -174,6 +174,8 @@
   https://joyofhaskell.com/blog.html
 * CIS 194: Introduction to Haskell (Fall 2016)
   http://www.seas.upenn.edu/~cis194/fall16/index.html
+* Production Haskell — Succeeding in Industry with Haskell by Matt Parsons
+  https://leanpub.com/production-haskell
 
 ## Papers
 
