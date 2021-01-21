@@ -319,6 +319,8 @@
   http://hspec.github.io/
 * cake-slayer — a modern and batteries-included framework for creating backend in Haskell for web-applications
   https://github.com/kowainik/cake-slayer
+* Morpheus GraphQL — Haskell GraphQL library, Build GraphQL APIs with your favourite functional language!
+  https://morpheusgraphql.com/
 
 ## Compilers
 
