@@ -317,6 +317,8 @@
   http://hackage.haskell.org/package/vector
 * hspec — a testing framework for Haskell
   http://hspec.github.io/
+* cake-slayer — a modern and batteries-included framework for creating backend in Haskell for web-applications
+  https://github.com/kowainik/cake-slayer
 
 ## Compilers
 
