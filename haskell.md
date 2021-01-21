@@ -321,6 +321,8 @@
   https://github.com/kowainik/cake-slayer
 * Morpheus GraphQL — Haskell GraphQL library, Build GraphQL APIs with your favourite functional language!
   https://morpheusgraphql.com/
+* ekg — this library lets you remotely monitor a running process over HTTP. It provides a simple way to integrate a monitoring server into any application.
+  http://hackage.haskell.org/package/ekg
 
 ## Compilers
 
