@@ -230,6 +230,9 @@
   https://github.com/thi-ng/umbrella
 * TypeScript Deep Dive (online book)
   https://basarat.gitbook.io/typescript/
+* 10 Insights from Adopting TypeScript at Scale — Tech At Bloomberg
+  https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/
+
 
 ## Mint
 
