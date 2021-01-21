@@ -232,7 +232,8 @@
   https://basarat.gitbook.io/typescript/
 * 10 Insights from Adopting TypeScript at Scale — Tech At Bloomberg
   https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/
-
+* Why we chose TypeScript for the Hasura Console
+  https://hasura.io/blog/why-we-chose-typescript-for-hasura-console/
 
 ## Mint
 
