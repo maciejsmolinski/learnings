@@ -6,6 +6,8 @@
   https://github.com/clojure-emacs/cider
 * Indium — A JavaScript development environment for Emacs 
   https://github.com/NicolasPetton/Indium
+* Request.el – Easy HTTP request for Emacs Lisp
+  http://tkf.github.io/emacs-request/
 
 ## Guides & Manuals
 
