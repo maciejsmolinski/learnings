@@ -25,3 +25,5 @@
 
 * The Emacs Package Developer’s Handbook
   https://github.com/alphapapa/emacs-package-dev-handbook
+* The Emacs Lisp Style Guide
+  https://github.com/bbatsov/emacs-lisp-style-guide
