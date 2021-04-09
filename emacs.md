@@ -27,3 +27,5 @@
   https://github.com/alphapapa/emacs-package-dev-handbook
 * The Emacs Lisp Style Guide
   https://github.com/bbatsov/emacs-lisp-style-guide
+* Take Your Emacs to the Next Level by Writing Custom Packages
+  https://spin.atomicobject.com/2016/05/27/write-emacs-package/
