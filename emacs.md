@@ -4,6 +4,8 @@
 
 * Cider — The Clojure Interactive Development Environment that Rocks for Emacs
   https://github.com/clojure-emacs/cider
+* Tide - TypeScript Interactive Development Environment for Emacs
+  https://github.com/ananthakumaran/tide
 * Indium — A JavaScript development environment for Emacs 
   https://github.com/NicolasPetton/Indium
 * Request.el – Easy HTTP request for Emacs Lisp
