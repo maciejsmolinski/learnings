@@ -20,6 +20,8 @@
 
 * Sentinels: Detecting Process Status Changes
   https://www.gnu.org/software/emacs/manual/html_node/elisp/Sentinels.html
+* Creating and Deleting Buffer-Local Bindings
+  https://www.gnu.org/software/emacs/manual/html_node/elisp/Creating-Buffer_002dLocal.html
 
 ## Developing Packages
 
