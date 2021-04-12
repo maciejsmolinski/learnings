@@ -22,6 +22,10 @@
   https://www.gnu.org/software/emacs/manual/html_node/elisp/Sentinels.html
 * Creating and Deleting Buffer-Local Bindings
   https://www.gnu.org/software/emacs/manual/html_node/elisp/Creating-Buffer_002dLocal.html
+* Company Mode - Writing backends
+  https://github.com/company-mode/company-mode/wiki/Writing-backends 
+* Company Mode - Writing backends II
+  http://sixty-north.com/blog/writing-the-simplest-emacs-company-mode-backend.html
 
 ## Developing Packages
 
