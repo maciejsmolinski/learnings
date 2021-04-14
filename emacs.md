@@ -28,6 +28,8 @@
   http://sixty-north.com/blog/writing-the-simplest-emacs-company-mode-backend.html
 * Elisp: Interactive Form 
   http://ergoemacs.org/emacs/elisp_interactive_form.html
+* Elisp: Using thing-at-point
+  http://ergoemacs.org/emacs/elisp_thing-at-point.html
 
 ## Developing Packages
 
