@@ -10,6 +10,8 @@
   https://github.com/NicolasPetton/Indium
 * Request.el – Easy HTTP request for Emacs Lisp
   http://tkf.github.io/emacs-request/
+* dash.el — A modern list API for Emacs. No 'cl required.
+  https://github.com/magnars/dash.el/blob/master/README.md
 
 ## Guides & Manuals
 
