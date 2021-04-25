@@ -45,3 +45,5 @@
   https://github.com/bbatsov/emacs-lisp-style-guide
 * Take Your Emacs to the Next Level by Writing Custom Packages
   https://spin.atomicobject.com/2016/05/27/write-emacs-package/
+* Writing company mode backends
+  https://github.com/company-mode/company-mode/wiki/Writing-backends
