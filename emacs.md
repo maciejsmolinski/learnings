@@ -15,6 +15,8 @@
 
 * The Emacs Package Developer’s Handbook / Packaging
   https://github.com/alphapapa/emacs-package-dev-handbook#packaging
+* Learn Emacs Lisp while customizing Emacs
+  http://emacslife.com/emacs-lisp-tutorial.html
 
 ## Emacs Lisp
 
