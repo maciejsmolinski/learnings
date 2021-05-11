@@ -1,6 +1,6 @@
 # Compilers and interpreters
 
-# Syntax Definition
+## Syntax Definition
 
 * Extended Backus–Naur Form
   https://en.wikipedia.org/wiki/Extended_Backus–Naur_form
