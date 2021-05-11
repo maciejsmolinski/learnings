@@ -27,4 +27,7 @@
 
 * Haskell: Parsec — Monadic parser combinators
   https://hackage.haskell.org/package/parsec
+* Haskell: Megaparsec — Monadic parser combinators (an actively developerd fork of parsec)
+  https://hackage.haskell.org/package/megaparsec
 * Haskell: Attoparsec — Fast combinator parsing for bytestrings and text
+  hackage.haskell.org/package/attoparsec
