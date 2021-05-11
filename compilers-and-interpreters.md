@@ -11,3 +11,5 @@
   https://keleshev.com/compiling-to-assembly-from-scratch/
 * Crafting Interpreters. A handbook for making programming languages
   http://craftinginterpreters.com/
+* Compilers: Principles, Techniques, and Tools, 2nd Edition
+  https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html
