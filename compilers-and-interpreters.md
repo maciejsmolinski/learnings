@@ -23,6 +23,11 @@
 * Write You A Scheme, Version 2 by Adam Wespiser
   https://www.wespiser.com/writings/wyas/home.html
   
+## Tutorials
+
+* Megaparsec tutorial by Mark Karpov
+  https://markkarpov.com/tutorial/megaparsec.html#parsect-and-parsec-monads
+  
 ## Parsing Libraries
 
 * Haskell: Parsec — Monadic parser combinators
