@@ -22,3 +22,9 @@
   http://craftinginterpreters.com/
 * Compilers: Principles, Techniques, and Tools, 2nd Edition
   https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html
+
+## Parsing Libraries
+
+* Haskell: Parsec — Monadic parser combinators
+  https://hackage.haskell.org/package/parsec
+* Haskell: Attoparsec — Fast combinator parsing for bytestrings and text
