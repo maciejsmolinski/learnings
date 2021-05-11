@@ -9,3 +9,5 @@
 
 * Compiling to Assembly from Scratch
   https://keleshev.com/compiling-to-assembly-from-scratch/
+* Crafting Interpreters. A handbook for making programming languages
+  http://craftinginterpreters.com/
