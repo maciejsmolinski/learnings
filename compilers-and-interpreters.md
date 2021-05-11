@@ -7,10 +7,12 @@
 
 ## Books
 
-* Compiling to Assembly from Scratch
-  https://keleshev.com/compiling-to-assembly-from-scratch/
+* Structure and Interpretation of Computer Programs
+  https://mitpress.mit.edu/sites/default/files/sicp/index.html
 * Crafting Interpreters. A handbook for making programming languages
   http://craftinginterpreters.com/
+* Compiling to Assembly from Scratch
+  https://keleshev.com/compiling-to-assembly-from-scratch/
 * Compilers: Principles, Techniques, and Tools, 2nd Edition
   https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html
 
