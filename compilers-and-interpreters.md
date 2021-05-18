@@ -16,6 +16,11 @@
 * Compilers: Principles, Techniques, and Tools, 2nd Edition
   https://www.pearson.com/us/higher-education/program/Aho-Compilers-Principles-Techniques-and-Tools-2nd-Edition/PGM167067.html
 
+## Learning Material
+
+* CS143 Compilers Course @ Stanford
+  https://web.stanford.edu/class/cs143/
+
 ## Practical Examples
 
 * The Super Tiny Compiler — compile some lisp-like function calls into some C-like function calls
