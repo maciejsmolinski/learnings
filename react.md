@@ -1,5 +1,10 @@
 # React
 
+## Learnings
+
+* Tao of React - Software Design, Architecture & Best Practices
+  https://alexkondov.com/tao-of-react/
+
 ## Performance
 
 * Using the React DevTools Profiler to Diagnose React App Performance Issues
