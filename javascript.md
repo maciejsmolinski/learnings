@@ -276,6 +276,8 @@
 
 ## Frameworks / React
 
+* Tao of React - Software Design, Architecture & Best Practices
+  https://alexkondov.com/tao-of-react/
 * Using React's Key Attribute to remount a Component
   https://www.nikgraf.com/blog/using-reacts-key-attribute-to-remount-a-component
 * How to prevent a rerender in React
