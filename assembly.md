@@ -8,6 +8,8 @@
   https://www.youtube.com/watch?v=yOyaJXpAYZQ
 * NASM Tutorial
   https://cs.lmu.edu/~ray/notes/nasmtutorial/
+* Unix Assembly Language Programming
+  http://www.int80h.org/
 
 ## Tools
 
