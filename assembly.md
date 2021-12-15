@@ -8,6 +8,8 @@
   https://www.youtube.com/watch?v=yOyaJXpAYZQ
 * NASM Tutorial
   https://cs.lmu.edu/~ray/notes/nasmtutorial/
+* Brian Steffens — Introduction to x86-64 assembly using NASM
+  https://www.briansteffens.com/introduction-to-64-bit-assembly/
 * Unix Assembly Language Programming
   http://www.int80h.org/
 
