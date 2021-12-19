@@ -24,3 +24,8 @@
 
 * Linux System Call Table for x86 64 &middot; Ryan A. Chapman
   http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
+
+## Debugging
+
+* GDB — Examining Memory
+  https://sourceware.org/gdb/current/onlinedocs/gdb/Memory.html
