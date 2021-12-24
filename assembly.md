@@ -29,3 +29,10 @@
 
 * GDB — Examining Memory
   https://sourceware.org/gdb/current/onlinedocs/gdb/Memory.html
+  
+## OS Development
+
+* OS Dev Wiki — Your first boot sector
+  https://wiki.osdev.org/Babystep1
+* Brian Steffens — Hello world from a bootloader
+  https://www.briansteffens.com/2020/01/15/hello-world-from-a-bootloader.html
