@@ -36,3 +36,10 @@
   https://wiki.osdev.org/Babystep1
 * Brian Steffens — Hello world from a bootloader
   https://www.briansteffens.com/2020/01/15/hello-world-from-a-bootloader.html
+
+## Executables
+
+* ELF Load: Dynamic load and execute for your mcu.
+  https://ourembeddeds.github.io/blog/2020/08/16/elf-loader/
+* What's in a Linux executable?
+  https://fasterthanli.me/series/making-our-own-executable-packer/part-1
