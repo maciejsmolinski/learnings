@@ -27,6 +27,8 @@
 
 ## Debugging
 
+* GDB - Text User Interface (tui)
+  https://sourceware.org/gdb/onlinedocs/gdb/TUI.html
 * GDB — Examining Memory
   https://sourceware.org/gdb/current/onlinedocs/gdb/Memory.html
   
