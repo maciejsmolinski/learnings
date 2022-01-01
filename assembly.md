@@ -26,6 +26,8 @@
   http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
 * X86 Opcode and Instruction Reference
   http://ref.x86asm.net/index.html
+* From Assembly Language To Executable
+  https://cs.lmu.edu/~ray/notes/asmtoexe/
 
 ## Debugging
 
