@@ -24,6 +24,8 @@
 
 * Linux System Call Table for x86 64 &middot; Ryan A. Chapman
   http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
+* X86 Opcode and Instruction Reference
+  http://ref.x86asm.net/index.html
 
 ## Debugging
 
