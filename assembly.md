@@ -12,6 +12,8 @@
   https://www.briansteffens.com/introduction-to-64-bit-assembly/
 * Unix Assembly Language Programming
   http://www.int80h.org/
+* x86 Assembly Guide / University of Virginia Computer Science
+  http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 
 ## Tools
 
