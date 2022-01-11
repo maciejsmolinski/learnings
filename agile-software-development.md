@@ -8,6 +8,11 @@
 * Principles behind the Agile Manifesto
   http://agilemanifesto.org/principles.html
 
+## Essays
+
+* The death of Agile? The big picture around Agile, and look at what it means and what it doesn't
+  https://www.oreilly.com/radar/the-death-of-agile/
+
 ## Product Ownership
 
 * Agile Product Ownership in a Nutshell (YouTube)
