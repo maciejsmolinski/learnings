@@ -15,6 +15,11 @@
 * x86 Assembly Guide / University of Virginia Computer Science
   http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 
+## Binary in-depth
+
+* Binary 4 – Floating Point Binary Fractions 1
+  https://www.youtube.com/watch?v=L8OYx1I8qNg
+
 ## Tools
 
 * SASM — Simple crossplatform IDE for NASM, MASM, GAS, FASM assembly languages
