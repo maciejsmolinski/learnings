@@ -5,6 +5,11 @@
 * Objects on Rails — notes on flexible web application design
   http://objectsonrails.com/
 
+## Implementations
+
+* TruffleRuby — Faster Ruby with TruffleRuby and GraalVM
+  https://www.graalvm.org/ruby/ 
+
 ## DSLs & Metaprogramming
 
 * Build your own RSpec – introduction to DSL and metaprogramming
