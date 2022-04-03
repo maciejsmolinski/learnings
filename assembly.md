@@ -51,6 +51,10 @@
   https://www.briansteffens.com/2020/01/15/hello-world-from-a-bootloader.html
 * BIOS Interrupt Calls table
   https://en.wikipedia.org/wiki/BIOS_interrupt_call#Interrupt_table
+* MOROS: Obscure Rust Operating System
+  https://github.com/vinc/moros
+* Writing an OS in Rust — Philipp Oppermann's blog
+  https://os.phil-opp.com/
 
 ## Executables
 
