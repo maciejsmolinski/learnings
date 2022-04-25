@@ -26,6 +26,11 @@
 * Katacoda — Learn new technologies right in your browser
   https://www.katacoda.com/
 
+## Essays
+
+- Path-Sensitive — Abstraction: Not What You Think It Is
+  https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html
+
 ## Programming Paradigms
 
 * Learnable Programming
