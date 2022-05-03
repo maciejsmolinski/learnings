@@ -224,6 +224,8 @@
   
 ## TypeScript
 
+* Intermediate TypeScript by Mike North
+  https://www.typescript-training.com/course/intermediate-v1
 * ts-toolbelt — a collection of types that makes TypeScript even safer
   https://github.com/pirix-gh/ts-toolbelt
 * dtslint — test TypeScript declaration file for style and correctness
