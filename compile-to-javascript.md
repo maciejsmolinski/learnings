@@ -226,14 +226,16 @@
 
 * ts-toolbelt — a collection of types that makes TypeScript even safer
   https://github.com/pirix-gh/ts-toolbelt
-* umbrella — a mono-repository of 97 TypeScript/ES6 projects for functional, data driven development
-  https://github.com/thi-ng/umbrella
+* dtslint — test TypeScript declaration file for style and correctness
+  https://github.com/microsoft/DefinitelyTyped-tools/tree/master/packages/dtslint
 * TypeScript Deep Dive (online book)
   https://basarat.gitbook.io/typescript/
 * 10 Insights from Adopting TypeScript at Scale — Tech At Bloomberg
   https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/
 * Why we chose TypeScript for the Hasura Console
   https://hasura.io/blog/why-we-chose-typescript-for-hasura-console/
+* umbrella — a mono-repository of 97 TypeScript/ES6 projects for functional, data driven development
+  https://github.com/thi-ng/umbrella
 
 ## Mint
 
