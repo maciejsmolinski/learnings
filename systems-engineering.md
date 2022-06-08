@@ -16,3 +16,8 @@
 
 * Untangling Microservices, or Balancing Complexity in Distributed Systems
   https://vladikk.com/2020/04/09/untangling-microservices/
+
+## Caching
+
+* Cache made consistent: Meta’s cache invalidation solution
+  https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/
