@@ -22,6 +22,11 @@
 * Emacs Lisp Guide
   https://github.com/chrisdone/elisp-guide
 
+## Troubleshooting
+
+* Truecolor and Italic support and terminal
+  https://github.com/syl20bnr/spacemacs/wiki/Terminal
+
 ## Emacs Lisp
 
 * Sentinels: Detecting Process Status Changes
