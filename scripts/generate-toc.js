@@ -1,9 +1,11 @@
 const FILENAME_SELECTOR =
   '[aria-labelledby="files"] [role="rowheader"] a[title]';
 
+const FILENAME_EXCLUSIONS = ["LICENSE", "README.md", "scripts"];
+
 $$(FILENAME_SELECTOR)
   .map((item) => item.textContent)
-  .filter((item) => !["LICENSE", "README.md"].includes(item))
+  .filter((item) => !FILENAME_EXCLUSIONS.includes(item))
   .map((item) => {
     return `* [${titleize(removeExtension(item))}](/${item})`;
   })
