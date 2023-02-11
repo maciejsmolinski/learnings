@@ -1,6 +1,6 @@
 # Staff+ Engineer
 
-## Learning from other people experiences
+## Learning from other people's experiences
 
 * The Principal Engineer's Handbook by Ilya Grigorik
   https://ilya.grigorik.com/the-principal-engineers-handbook/
