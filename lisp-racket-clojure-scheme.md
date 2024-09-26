@@ -110,3 +110,8 @@
   https://blog.ndk.io/why-csp-matters1.html
 * Why CSP matters II: How do I know sync works?
   https://blog.ndk.io/why-csp-matters2.html
+
+## Misc
+
+* How to Debug Chez Scheme Programs
+  https://www.scheme.com/debug/debug.html
