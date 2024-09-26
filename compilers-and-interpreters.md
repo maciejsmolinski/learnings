@@ -43,3 +43,8 @@
   https://hackage.haskell.org/package/megaparsec
 * Haskell: Attoparsec — Fast combinator parsing for bytestrings and text
   hackage.haskell.org/package/attoparsec
+
+## Examples
+
+* Parsing Protobuf Definitions with Tree-sitter
+  https://relistan.com/parsing-protobuf-files-with-treesitter
