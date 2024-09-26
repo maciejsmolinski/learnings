@@ -2,13 +2,15 @@
 
 ## Browser Extensions
 
-* Module Linker, a Chrome Extension for browsing source code better
-  https://module-linker.alhur.es
-* Vimium — The Hacker's Browser
-  https://github.com/philc/vimium
+* uBlock Origin
+  https://ublockorigin.com/
+* Google Scholar PDF Reader
+  https://scholar.googleblog.com/2024/03/supercharge-your-pdf-reading-follow.html
 
 ## Cloud Computing
 
+* Hetzner Cloud — Flexible cloud servers with high-end-hardware
+  https://www.hetzner.com/
 * Scaleway - Deploy BareMetal SSD cloud server in seconds
   https://www.scaleway.com  
 * DigitalOcean -  Cloud Computing, Simplicity at Scale
