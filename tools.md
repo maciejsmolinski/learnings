@@ -14,6 +14,15 @@
 * Zellij
   https://zellij.dev/
 
+## Terminal Emulators
+
+* iTerm2
+  https://iterm2.com/
+* Alacritty
+  https://alacritty.org/
+* WezTerm
+  https://alexplescan.com/posts/2024/08/10/wezterm/
+
 ## Cloud Computing
 
 * Hetzner Cloud — Flexible cloud servers with high-end-hardware
