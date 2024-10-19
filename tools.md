@@ -7,6 +7,13 @@
 * Google Scholar PDF Reader
   https://scholar.googleblog.com/2024/03/supercharge-your-pdf-reading-follow.html
 
+## Terminal Multiplexers
+
+* Tmux
+  https://github.com/tmux/tmux
+* Zellij
+  https://zellij.dev/
+
 ## Cloud Computing
 
 * Hetzner Cloud — Flexible cloud servers with high-end-hardware
