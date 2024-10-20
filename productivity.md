@@ -14,5 +14,11 @@
 
 ## MacOS Apps
 
+* Todoist
+  https://todoist.com/
+* Notion
+  https://www.notion.so/ 
+* OneNote
+  https://www.onenote.com/
 * Fantastical
   https://flexibits.com/fantastical
