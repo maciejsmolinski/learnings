@@ -10,3 +10,9 @@
   https://opendyslexic.org/
 * Font: Dyslexie
   https://dyslexiefont.com/en/
+
+## Essays
+
+* Dungeons & Dragons taught me how to write alt text
+  https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/
+
