@@ -137,18 +137,31 @@
 ## Online Collaboration
 
 * Witeboard - the fastest way to collaborate real-time with your team anywhere
-  https://witeboard.com/c049a1d0-0acb-11e8-b5ed-79faf7afa652
-* Notion.so - All-in-one workspace. Write, plan, collaborate, and get organized. Notion is all you need — in one tool.
-  https://www.notion.so/
+  https://witeboard.com/
 * Tettra is a knowledge management tool for modern teams — help your team make better decisions in less time
   https://tettra.co/
 * Slab — a beautiful knowledge base for teams. Keep answers out of silos
   https://slab.com/?ref=producthunt
 
+## Diagramming
+
+* excalidraw 
+  https://excalidraw.com/
+* tldraw
+  https://tldraw.com/
+* draw.io
+  https://app.diagrams.net/
+* mermaid
+  https://mermaid.js.org/
+
 ## Note taking
 
 * Evernote — Best note taking app
   https://evernote.com/
+* Notion.so - Write. Plan. Collaborate. Your space to organize work and life
+  https://www.notion.so/
+* Microsoft OneNote — Your digital notebook
+  https://www.onenote.com/
 * QuickNote — Minimalist, Free & Anonymous Note Taking App
   https://quicknote.io/
 * Write.as — Minimalist, privacy-focused, writing and publishing platform
