@@ -7,6 +7,13 @@
 * Google Scholar PDF Reader
   https://scholar.googleblog.com/2024/03/supercharge-your-pdf-reading-follow.html
 
+## Reading
+
+* Android: Moon+ Reader
+  https://play.google.com/store/apps/details?id=com.flyersoft.moonreader&hl=en
+* Android: Moon+ Reader Pro
+  https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en
+
 ## Terminal Multiplexers
 
 * Tmux
